@@ -1,4 +1,11 @@
+# Categories
+[In the wild](https://github.com/grapesfrog/GAI-is-going-well/blob/main/in-the-wild.md#in-the-wild-in-the-wild)
 
+[Regulating AI/Advisories](https://github.com/grapesfrog/GAI-is-going-well/blob/main/in-the-wild.md#regulating-ai--advisories-regulating-ai-advisories)
+
+[Opinions , Research & presentations ](https://github.com/grapesfrog/GAI-is-going-well/blob/main/in-the-wild.md#opinions--research--presentations-opinions-research--presentations)
+
+[Mitigations & tooling](https://github.com/grapesfrog/GAI-is-going-well/blob/main/in-the-wild.md#mitigations--tooling-mitigations--tooling)
 
 ## In the wild {#in-the-wild}
 
