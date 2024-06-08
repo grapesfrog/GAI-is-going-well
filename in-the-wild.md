@@ -230,14 +230,14 @@
   * [https://arxiv.org/pdf/2007.07646.pdf](https://arxiv.org/pdf/2007.07646.pdf)
 * GAI cyber risks - Infosec use cases
   * [https://github.com/kerberosmansour/InfoSecOpenAIExamples/blob/main/Presentation/InfoSecTalkGenAI.ipynb](https://github.com/kerberosmansour/InfoSecOpenAIExamples/blob/main/Presentation/InfoSecTalkGenAI.ipynb)
-* [LLM Attacks](https://llm-attacks.org/)**
-* [Can LLMs Follow Simple Rules?](https://huggingface.co/papers/2311.04235?utm_source=digest-papers&utm_medium=email&utm_campaign=2023-11-09)**
-* [Paper page - Technical Report: Large Language Models can Strategically Deceive their Users when Put Under Pressure](https://huggingface.co/papers/2311.07590)**
-* [Google Researchers’ Attack Prompts ChatGPT to Reveal Its Training Data](https://www.404media.co/google-researchers-attack-convinces-chatgpt-to-reveal-its-training-data/)**
+* [LLM Attacks](https://llm-attacks.org/)
+* [Can LLMs Follow Simple Rules?](https://huggingface.co/papers/2311.04235?utm_source=digest-papers&utm_medium=email&utm_campaign=2023-11-09)
+* [Paper page - Technical Report: Large Language Models can Strategically Deceive their Users when Put Under Pressure](https://huggingface.co/papers/2311.07590)
+* [Google Researchers’ Attack Prompts ChatGPT to Reveal Its Training Data](https://www.404media.co/google-researchers-attack-convinces-chatgpt-to-reveal-its-training-data/)
 * [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035.pdf)
-* [[2301.10226] A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)**
-* [OpenAI's GPT-4 safety systems broken by Scots Gaelic • The Register](https://www.theregister.com/2024/01/31/gpt4_gaelic_safety/)**
-* [Anthropic researchers find that AI models can be trained to deceive | TechCrunch](https://techcrunch.com/2024/01/13/anthropic-researchers-find-that-ai-models-can-be-trained-to-deceive)**
+* [[2301.10226] A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
+* [OpenAI's GPT-4 safety systems broken by Scots Gaelic • The Register](https://www.theregister.com/2024/01/31/gpt4_gaelic_safety/)
+* [Anthropic researchers find that AI models can be trained to deceive | TechCrunch](https://techcrunch.com/2024/01/13/anthropic-researchers-find-that-ai-models-can-be-trained-to-deceive)
 * [[2307.01850] Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850)
 * Study indicating larger datasets compound biases
   * [https://arxiv.org/abs/2306.13141v2](https://arxiv.org/abs/2306.13141v2)
@@ -251,11 +251,11 @@ PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 * [What is Model Collapse and how to avoid it](https://www.theregister.com/2024/01/26/what_is_model_collapse/)
 * [[2305.17493] The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
 * [GenAI could make KYC effectively useless | TechCrunch](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
-* [NIST: If someone's trying to sell you some secure AI, it's snake oil](https://www.theregister.com/2024/01/05/nist_ai_security/)**
+* [NIST: If someone's trying to sell you some secure AI, it's snake oil](https://www.theregister.com/2024/01/05/nist_ai_security/)
 * [Can ChatGPT Defend its Belief in Truth? Evaluating LLM Reasoning via Debate](https://arxiv.org/pdf/2305.13160.pdf)
 * [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)**
-* [This new data poisoning tool lets artists fight back against generative AI | MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)**
-* [Jailbroken AI Chatbots Can Jailbreak Other Chatbots | Scientific American](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)**
+* [This new data poisoning tool lets artists fight back against generative AI | MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
+* [Jailbroken AI Chatbots Can Jailbreak Other Chatbots | Scientific American](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
 * [Hallucination is the last thing you need](https://arxiv.org/pdf/2306.11520.pdf)  
 * [Are AI models doomed to always hallucinate? | TechCrunch](https://techcrunch.com/2023/09/04/are-language-models-doomed-to-always-hallucinate/)
 * [[2309.09435] Security and Privacy on Generative Data in AIGC: A Survey](https://arxiv.org/abs/2309.09435)
