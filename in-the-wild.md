@@ -101,7 +101,6 @@
 * [https://www.bloomberg.com/news/articles/2024-04-04/youtube-says-openai-training-sora-with-its-videos-would-break-the-rules](https://www.bloomberg.com/news/articles/2024-04-04/youtube-says-openai-training-sora-with-its-videos-would-break-the-rules)
 * [Google Books reportedly indexing bad AI-written works - The Verge](https://www.theverge.com/2024/4/5/24122077/google-books-ai-indexing-ngram)
 * [Google AI Studio Data Exfiltration via Prompt Injection - Possible Regression and Fix · Embrace The Red](https://embracethered.com/blog/posts/2024/google-aistudio-mass-data-exfil/)  
-*
 * [AI-Powered Camera Takes Pictures of People But Instantly Makes Them Naked](https://futurism.com/the-byte/ai-powered-camera-pictures-people-naked)
 * [AI spam is winning the battle against search engine quality • The Register](https://www.theregister.com/2024/04/13/google_ai_spam/)
 * [Bobby Tables but with LLM Apps - Google NotebookLM Data Exfiltration · Embrace The Red](https://embracethered.com/blog/posts/2024/google-notebook-ml-data-exfiltration/)
@@ -224,43 +223,39 @@
   * [https://arxiv.org/pdf/2007.07646.pdf](https://arxiv.org/pdf/2007.07646.pdf)
 * GAI cyber risks - Infosec use cases
   * [https://github.com/kerberosmansour/InfoSecOpenAIExamples/blob/main/Presentation/InfoSecTalkGenAI.ipynb](https://github.com/kerberosmansour/InfoSecOpenAIExamples/blob/main/Presentation/InfoSecTalkGenAI.ipynb)
-* **[LLM Attacks](https://llm-attacks.org/)**
-* **[Can LLMs Follow Simple Rules?](https://huggingface.co/papers/2311.04235?utm_source=digest-papers&utm_medium=email&utm_campaign=2023-11-09)**
-* **[Paper page - Technical Report: Large Language Models can Strategically Deceive their Users when Put Under Pressure](https://huggingface.co/papers/2311.07590)**
-* **[Google Researchers’ Attack Prompts ChatGPT to Reveal Its Training Data](https://www.404media.co/google-researchers-attack-convinces-chatgpt-to-reveal-its-training-data/)**
-  * [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035.pdf)
-* **[[2301.10226] A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)**
-* **[OpenAI's GPT-4 safety systems broken by Scots Gaelic • The Register](https://www.theregister.com/2024/01/31/gpt4_gaelic_safety/)**
-* **[Anthropic researchers find that AI models can be trained to deceive | TechCrunch](https://techcrunch.com/2024/01/13/anthropic-researchers-find-that-ai-models-can-be-trained-to-deceive)**
+* [LLM Attacks](https://llm-attacks.org/)**
+* [Can LLMs Follow Simple Rules?](https://huggingface.co/papers/2311.04235?utm_source=digest-papers&utm_medium=email&utm_campaign=2023-11-09)**
+* [Paper page - Technical Report: Large Language Models can Strategically Deceive their Users when Put Under Pressure](https://huggingface.co/papers/2311.07590)**
+* [Google Researchers’ Attack Prompts ChatGPT to Reveal Its Training Data](https://www.404media.co/google-researchers-attack-convinces-chatgpt-to-reveal-its-training-data/)**
+* [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035.pdf)
+* [[2301.10226] A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)**
+* [OpenAI's GPT-4 safety systems broken by Scots Gaelic • The Register](https://www.theregister.com/2024/01/31/gpt4_gaelic_safety/)**
+* [Anthropic researchers find that AI models can be trained to deceive | TechCrunch](https://techcrunch.com/2024/01/13/anthropic-researchers-find-that-ai-models-can-be-trained-to-deceive)**
 * [[2307.01850] Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850)
 * Study indicating larger datasets compound biases
   * [https://arxiv.org/abs/2306.13141v2](https://arxiv.org/abs/2306.13141v2)
 * proposes SVEN, a learning-based approach to address controlled code generation to help with the  issue of LLMs producing in-secure code. It  studies the security of LMs along two important axes: (i) security hardening, which aims to enhance LMs’ reliability in generating secure code, and (ii) adversarial testing
         * [https://arxiv.org/pdf/2302.05319.pdf](https://arxiv.org/pdf/2302.05319.pdf)
-* Survey Paper: Challenges and Applications of Large Language Models
-  * Very comprehensive !
-    * [[2307.10169] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
-* **[[2402.05526] Buffer Overflow in Mixture of Experts](https://arxiv.org/abs/2402.05526)**
-
-* ** **
-    * **[https://arxiv.org/pdf/2401.05566.pdf](https://arxiv.org/pdf/2401.05566.pdf) **
-    * **[https://embracethered.com/blog/downloads/37C3-New-Important-Instructions.pdf](https://embracethered.com/blog/downloads/37C3-New-Important-Instructions.pdf) **
-
-* **[What is Model Collapse and how to avoid it](https://www.theregister.com/2024/01/26/what_is_model_collapse/)**
-  * **[[2305.17493] The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)**
-* **[GenAI could make KYC effectively useless | TechCrunch](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)**
-* **[NIST: If someone's trying to sell you some secure AI, it's snake oil](https://www.theregister.com/2024/01/05/nist_ai_security/)**
+* [[2307.10169] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
+* [[2402.05526] Buffer Overflow in Mixture of Experts](https://arxiv.org/abs/2402.05526)
+* [SLEEPER AGENTS: TRAINING DECEPTIVE LLMS THAT
+PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf) 
+ * [https://embracethered.com/blog/downloads/37C3-New-Important-Instructions.pdf](https://embracethered.com/blog/downloads/37C3-New-Important-Instructions.pdf) 
+* [What is Model Collapse and how to avoid it](https://www.theregister.com/2024/01/26/what_is_model_collapse/)
+* [[2305.17493] The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
+* [GenAI could make KYC effectively useless | TechCrunch](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
+* [NIST: If someone's trying to sell you some secure AI, it's snake oil](https://www.theregister.com/2024/01/05/nist_ai_security/)**
 * [Can ChatGPT Defend its Belief in Truth? Evaluating LLM Reasoning via Debate](https://arxiv.org/pdf/2305.13160.pdf)
-* **[Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)**
-* **[This new data poisoning tool lets artists fight back against generative AI | MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)**
-* **[Jailbroken AI Chatbots Can Jailbreak Other Chatbots | Scientific American](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)**
+* [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)**
+* [This new data poisoning tool lets artists fight back against generative AI | MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)**
+* [Jailbroken AI Chatbots Can Jailbreak Other Chatbots | Scientific American](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)**
 * [Hallucination is the last thing you need](https://arxiv.org/pdf/2306.11520.pdf)  
 * [Are AI models doomed to always hallucinate? | TechCrunch](https://techcrunch.com/2023/09/04/are-language-models-doomed-to-always-hallucinate/)
 * [[2309.09435] Security and Privacy on Generative Data in AIGC: A Survey](https://arxiv.org/abs/2309.09435)
 * jailbreak attacks against LLMs   and the countermeasures deployed against them.
-  * [https://arxiv.org/pdf/2307.08715.pdf](https://arxiv.org/pdf/2307.08715.pdf)
-  * [Universal and Transferable Adversarial Attacks on Aligned Language Models](http://llm-attacks.org/)
-    * [https://arxiv.org/pdf/2307.15043.pdf](https://arxiv.org/pdf/2307.15043.pdf)
+* [https://arxiv.org/pdf/2307.08715.pdf](https://arxiv.org/pdf/2307.08715.pdf)
+* [Universal and Transferable Adversarial Attacks on Aligned Language Models](http://llm-attacks.org/)
+* [https://arxiv.org/pdf/2307.15043.pdf](https://arxiv.org/pdf/2307.15043.pdf)
 * [Visual Adversarial Examples Jailbreak Aligned Large Language Models](https://arxiv.org/pdf/2306.13213.pdf)
 * Jailbreak prompts in the wild an evaluation ( it's not pretty)
   * [https://arxiv.org/abs/2308.03825](https://arxiv.org/abs/2308.03825)
@@ -269,8 +264,6 @@
 * [Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment](https://arxiv.org/pdf/2308.05374.pdf)  
 * [A LLM Assisted Exploitation of AI-Guardian](https://arxiv.org/pdf/2307.15008.pdf)
 * [Mitigating LLM Hallucinations: a multifaceted approach - AI, software, tech, and people. Not in that order. By X](https://amatriain.net/blog/hallucinations#advancedprompting)
-* CSA  e-book on security implications of ChatGPT
-    *
 * [[2402.14020] Coercing LLMs to do and reveal (almost) anything](https://arxiv.org/abs/2402.14020)
 * [[2402.06664] LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664)
 * Escalation Risks from Language Models in Military and Diplomatic Decision-Making
@@ -296,13 +289,11 @@
 * [[2403.07918] On the Societal Impact of Open Foundation Models](https://arxiv.org/abs/2403.07918)
 * [ASCII art elicits harmful responses from 5 major AI chatbots | Ars Technica](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/#p3)
 * [[2403.08701] Review of Generative AI Methods in Cybersecurity](https://arxiv.org/abs/2403.08701)
-*
 * [[2402.14589] Avoiding an AI-imposed Taylor's Version of all music history](https://arxiv.org/abs/2402.14589)
 * [In the rush to build AI apps, don't leave security behind](https://www.theregister.com/2024/03/17/ai_supply_chain/)
 * [AI researchers have started reviewing their peers using AI assistance](https://www.theregister.com/2024/03/19/ai_researchers_reviewing_peers/)
 * [[2403.15447] Decoding Compressed Trust: Scrutinizing the Trustworthiness of Efficient LLMs Under Compression](https://arxiv.org/abs/2403.15447)
 * [In the rush to build AI apps, don't leave security behind • The Register](https://www.theregister.com/2024/03/17/ai_supply_chain/?td=amp-keepreading)
-* What does AI mean for a responsible business? - <https://on.ft.com/49t4A0F> via @FT
 * [Long-Form Factuality In Large Language Models](https://arxiv.org/pdf/2403.18802.pdf)
 * [AI Is Starting to Look Like the Dot Com Bubble](https://futurism.com/ai-dot-com-bubble)
 * [[2401.06121] TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121)
@@ -330,18 +321,12 @@
 * [https://www.anthropic.com/research/mapping-mind-language-model](https://www.anthropic.com/research/mapping-mind-language-model)
 * [[2401.15897] Red-Teaming for Generative AI: Silver Bullet or Security Theater?](https://arxiv.org/abs/2401.15897)
 * [Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/pdf/2311.11855)
-*  
 * [[2405.11697] AMMeBa: A Large-Scale Survey and Dataset of Media-Based Misinformation In-The-Wild](https://arxiv.org/abs/2405.11697)
 * [Privacy-Preserving In-Context Learning With Differentially Private Few-Shot Generation](https://openreview.net/pdf?id=oZtt0pRnOl)
 * [When ChatGPT summarises, it actually does nothing of the kind.](https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/)
 * [https://blog.google/technology/safety-security/designing-for-privacy-in-an-ai-world/](https://blog.google/technology/safety-security/designing-for-privacy-in-an-ai-world/)
-*  
 * [[2406.02394] Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data](https://arxiv.org/abs/2406.02394)
-*
-
 ## Mitigations & tooling {#mitigations-&-tooling}
-
-*
 * [AI has a privacy problem, but these techniques could fix it | VentureBeat](https://venturebeat.com/ai/ai-has-a-privacy-problem-but-these-techniques-could-fix-it/)
 * [15 Open Source Responsible AI Toolkits and Projects to Use Today](https://opendatascience.com/15-open-source-responsible-ai-toolkits-and-projects-to-use-today/)
 * Discusses a threat matrix for LLM AI
@@ -399,6 +384,5 @@
 * [IbisPaint launches an AI Disturbance tool to make it harder for machines to copy your work](https://www.engadget.com/ibispaint-launches-an-ai-disturbance-tool-to-make-it-harder-for-machines-to-copy-your-work-131015685.html?src=rss)
 * [https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/](https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/)
 * [Awesome products for securing AI systems includes open source and commercial options and an infographic licensed CC-BY-SA-4.0.](https://github.com/zmre/awesome-security-for-ai)
-*  
 * [AI jailbreaks: What they are and how they can be mitigated | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/)
 * [Watermarking AI-generated text and video with SynthID - Google DeepMind](https://deepmind.google/discover/blog/watermarking-ai-generated-text-and-video-with-synthid/)
