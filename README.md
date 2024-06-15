@@ -8,6 +8,6 @@ There are 4 categories
 * Research articles , opinions  and presentations  
 * Mitigations & tooling
 
-Some articles are difficult to put into a single category as some research articles are exploitable in the wild 
+Some articles are difficult to put into a single category as some research articles are exploitable in the wild.
 
-Last updated : 8 Jun 2024
+Last updated : 15 Jun 2024
