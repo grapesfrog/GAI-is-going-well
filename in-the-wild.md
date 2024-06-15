@@ -220,6 +220,7 @@
 * [FKA Twigs uses AI to create deepfake of herself - BBC News](https://www.bbc.co.uk/news/articles/c6py33gxk74o)
 * [AI Foundation Models: Update paper - GOV.UK](https://www.gov.uk/government/publications/ai-foundation-models-update-paper)
 * [Senate committee passes three bills to safeguard elections from AI, months before Election Day - The Verge](https://www.theverge.com/2024/5/15/24157328/senate-rules-committee-ai-election-safeguards-bills)
+* [California's proposed law SB-1047. It’s a long, complex bill with many parts that require safety assessments, shutdown capability for models, and so on.](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1047)
 * [Electricity grids creak as AI demands soar - BBC News](https://www.bbc.co.uk/news/articles/cj5ll89dy2mo)
 * [Advanced AI evaluations at AISI: May update](https://www.aisi.gov.uk/work/advanced-ai-evaluations-may-update)
 * [Proposed bill would allow US to limit export of AI models • The Register](https://www.theregister.com/2024/05/23/us_lawmakers_advance_bill_to/)
