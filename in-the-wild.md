@@ -164,6 +164,23 @@
 * [Microsoft’s Recall Feature Is Even More Hackable Than You Thought | WIRED](https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/)
 * [OpenAI takes action against misuse of its models in propaganda](https://hubs.la/Q02B0BG50)
 * [Popular News App Caught Publishing Completely Untrue AI Articles](https://futurism.com/the-byte/news-app-untrue-ai-articles)
+* * [X removes accounts of network smearing politicians with deepfakes](https://www.bbc.com/news/articles/cq55gd8559eo)
+* [AI chatbots are intruding into online communities where people are trying to connect with other humans](https://theconversation.com/ai-chatbots-are-intruding-into-online-communities-where-people-are-trying-to-connect-with-other-humans-229473)
+* [AI chatbots got questions about the 2024 election wrong 27% of the time, study finds](https://www.nbcnews.com/tech/tech-news/ai-chatbots-got-questions-2024-election-wrong-27-time-study-finds-rcna155640)
+* [AI-as-a-Service Providers Vulnerable to PrivEsc and Cross-Tenant Attacks](https://thehackernews.com/2024/04/ai-as-service-providers-vulnerable-to.html?m=1)
+* [Hackers Target AI Users With Malicious Stable Diffusion Tool on Github to Protest 'Art Theft'](https://www.404media.co/hackers-target-ai-users-with-malicious-stable-diffusion-tool-on-github/)
+* [Google still recommends glue for your pizza - The Verge](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue)
+* [No AI training in newly distrusted Terms of Service, Adobe says | Malwarebytes](https://www.malwarebytes.com/blog/news/2024/06/no-ai-training-in-newly-distrusted-terms-of-service-adobe-says)
+* [The Chinese women turning to ChatGPT for AI boyfriends - BBC Website](https://www.bbc.com/articles/c4nnje9rpjgo)
+* [AI Is Being Trained on Images of Real Kids Without Consent](https://futurism.com/ai-trained-images-kids)
+* [Concern rises over AI in adult entertainment - BBC News](https://www.bbc.co.uk/news/articles/c2qqxqgp9yno) 
+* [Child predators are using AI to create sexual images of their favorite ‘stars’: ‘My body will never be mine again’ | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/article/2024/jun/12/predators-using-ai-generate-child-sexual-images)
+* [New Stable Diffusion 3 release excels at AI-generated body horror | Ars Technica](https://arstechnica.com/information-technology/2024/06/ridiculed-stable-diffusion-3-release-excels-at-ai-generated-body-horror/)
+* [Photographer takes on the machines in AI competition – and wins | Photography | The Guardian](https://www.theguardian.com/artanddesign/article/2024/jun/13/photographer-takes-on-the-machines-in-ai-competition-and-wins?CMP=Share_AndroidApp_Other)
+* [Companies Find That AI Projects Have Had "Dismal" Financial Results](https://futurism.com/the-byte/companies-ai-projects-financial-results)
+* [Microsoft Delaying Recall Feature to Improve Security - SecurityWeek](https://www.securityweek.com/microsoft-delaying-recall-feature-to-improve-security/)
+* [ChatGPT Is Hallucinating Fake Article Links by One of Its Publishing Partners](https://futurism.com/the-byte/chatgpt-hallucinating-fake-links-business-insider)
+* [GitHub Copilot Chat: From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/)
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
@@ -208,7 +225,8 @@
 * [Proposed bill would allow US to limit export of AI models • The Register](https://www.theregister.com/2024/05/23/us_lawmakers_advance_bill_to/)
 * [Frontier AI Safety Commitments, AI Seoul Summit 2024 - GOV.UK](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024)
 * [Global AI Regulation Tracker](https://www.techieray.com/GlobalAIRegulationTracker)
-* [California's proposed law SB-1047. It’s a long, complex bill with many parts that require safety assessments, shutdown capability for models, and so on.](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1047&utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz--E72rG7XkT-PVC95wgAmT2DTzMG3wt9SagWeZoAfyA00NrOtxYoHFegftDFqvgxPWzWg2gbtuPc5g-nBtdIWZT2gyGZw&_hsmi=310323991&utm_content=310323130&utm_source=hs_email)
+* [US senators propose guardrails for government AI purchases • The Register](https://www.theregister.com/2024/06/13/prepared_for_ai_bill/)
+* [If Clearview AI scanned your face, you may get equity in the company](https://www.engadget.com/if-clearview-ai-scanned-your-face-you-may-get-equity-in-the-company-120018460.html?src=rss)
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
@@ -272,7 +290,6 @@ PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 * [A LLM Assisted Exploitation of AI-Guardian](https://arxiv.org/pdf/2307.15008.pdf)
 * [Mitigating LLM Hallucinations: a multifaceted approach - AI, software, tech, and people. Not in that order. By X](https://amatriain.net/blog/hallucinations#advancedprompting)
 * [[2402.14020] Coercing LLMs to do and reveal (almost) anything](https://arxiv.org/abs/2402.14020)
-* [[2402.06664] LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664)
 * Escalation Risks from Language Models in Military and Diplomatic Decision-Making
   * [https://arxiv.org/pdf/2401.03408.pdf](https://arxiv.org/pdf/2401.03408.pdf)
 * [White Paper Rethinking Privacy in the AI Era: Policy Provocations for a Data-Centric World | Stanford HAI](https://hai.stanford.edu/white-paper-rethinking-privacy-ai-era-policy-provocations-data-centric-world)
@@ -393,3 +410,10 @@ PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 * [Awesome products for securing AI systems includes open source and commercial options and an infographic licensed CC-BY-SA-4.0.](https://github.com/zmre/awesome-security-for-ai)
 * [AI jailbreaks: What they are and how they can be mitigated | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/)
 * [Watermarking AI-generated text and video with SynthID - Google DeepMind](https://deepmind.google/discover/blog/watermarking-ai-generated-text-and-video-with-synthid/)
+* [Euro banks worry AI will increase their dependence on US big tech](https://www.theregister.com/2024/06/10/euro_banks_worry_ai_us_tech/)
+* [GenAIOps](https://genaiops.ai/) A global community built to pioneer, document and evangelise about the concept of GenAIOps. 
+    * [LLMs will always be dangerous. Security can only be delivered at the level of the application | The Centre for GenAIOps](https://genaiops.ai/llms-will-always-be-dangerous-security-can-only-be-delivered-at-the-level-of-the-application)
+    * [Balancing Innovation and Security | The Centre for GenAIOps](https://genaiops.ai/balancing-innovation-and-security)
+* [New Attack Technique 'Sleepy Pickle' Targets Machine Learning Models](https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html?m=1)
+* [[2406.06443] LLM Dataset Inference: Did you train on my dataset?](https://arxiv.org/abs/2406.06443)
+* [GitHub - lamini-ai/Lamini-Memory-Tuning: Banishing LLM Hallucinations Requires Rethinking Generalization](https://github.com/lamini-ai/Lamini-Memory-Tuning)
