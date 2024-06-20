@@ -181,6 +181,16 @@
 * [Microsoft Delaying Recall Feature to Improve Security - SecurityWeek](https://www.securityweek.com/microsoft-delaying-recall-feature-to-improve-security/)
 * [ChatGPT Is Hallucinating Fake Article Links by One of Its Publishing Partners](https://futurism.com/the-byte/chatgpt-hallucinating-fake-links-business-insider)
 * [GitHub Copilot Chat: From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/)
+* [AI took their jobs. Now they get paid to make it sound human](https://www.bbc.com/future/article/20240612-the-people-making-ai-sound-more-human)
+* [https://www.404media.co/google-image-search-ai-results-have-opened-a-portal-to-hell](https://www.404media.co/google-image-search-ai-results-have-opened-a-portal-to-hell)
+* [AI resurrects MLK to endorse GOP congressional candidate](https://boingboing.net/2024/06/17/ai-resurrects-mlk-to-endorse-gop-congressional-candidate.html)
+* [Student busted using complicated hidden AI system to cheat on university entrance exam](https://boingboing.net/2024/06/17/student-busted-using-complicated-hidden-ai-system-to-cheat-on-university-entrance-exam.html)
+* [Instagram is tagging real photos as 'Made with AI' – and photographers aren't happy | TechRadar](https://www.techradar.com/cameras/photography/instagram-is-tagging-real-photos-as-made-with-ai-and-photographers-arent-happy)
+* [Your AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
+* [McDonalds removes AI drive-throughs after order errors](https://www.bbc.com/news/articles/c722gne7qngo)
+* [Users ‘Jailbreak’ AI Video Generator to Make Porn](https://www.404media.co/users-jailbreak-ai-video-generator-to-make-porn/)
+* [Top Chatbots are Parroting Russian Propaganda, Report Finds](https://futurism.com/the-byte/chatbots-parroting-russian-propaganda)
+* [Booking.com warns of up to 900% increase in travel scams - BBC News](https://www.bbc.co.uk/news/articles/c8003dd8jzeo)
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
@@ -228,6 +238,9 @@
 * [Global AI Regulation Tracker](https://www.techieray.com/GlobalAIRegulationTracker)
 * [US senators propose guardrails for government AI purchases • The Register](https://www.theregister.com/2024/06/13/prepared_for_ai_bill/)
 * [If Clearview AI scanned your face, you may get equity in the company](https://www.engadget.com/if-clearview-ai-scanned-your-face-you-may-get-equity-in-the-company-120018460.html?src=rss)
+* [The Hiroshima AI Process: Leading the Global Challenge to Shape Inclusive Governance for Generative AI](https://www.japan.go.jp/kizuna/2024/02/hiroshima_ai_process.html)
+* [Tencent ponders banning AI vids hosted by ‘virtual humans’ • The Register](https://www.theregister.com/2024/06/18/wechat_avatar_ban_policy_proposal/)
+
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
@@ -351,13 +364,22 @@ PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 * [When ChatGPT summarises, it actually does nothing of the kind.](https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/)
 * [https://blog.google/technology/safety-security/designing-for-privacy-in-an-ai-world/](https://blog.google/technology/safety-security/designing-for-privacy-in-an-ai-world/)
 * [[2406.02394] Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data](https://arxiv.org/abs/2406.02394)
+* [ChatGPT is bullshit | Ethics and Information Technology](https://link.springer.com/article/10.1007/s10676-024-09775-5)
+* [[2405.05175] Air Gap: Protecting Privacy-Conscious Conversational Agents](https://arxiv.org/abs/2405.05175)
+* [Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science](https://ai.stanford.edu/~kzliu/blog/unlearning) 
+* [[2406.07933] Large Language Model Unlearning via Embedding-Corrupted Prompts](https://arxiv.org/abs/2406.07933)
+* [With 700,000 Large Language Models (LLMs) On Hugging Face Already, Where Is The Future of Artificial Intelligence AI Headed? - MarkTechPost](https://www.marktechpost.com/2024/06/15/with-700000-large-language-models-llms-on-hugging-face-already-where-is-the-future-of-artificial-intelligence-ai-headed/)
+* [Cartography of generative AI](https://cartography-of-generative-ai.net/)
+* [Readers Absolutely Detest AI-Generated News Articles, Research Shows](https://futurism.com/the-byte/readers-detest-ai-generated-news)
+* [[2405.11697] AMMeBa: A Large-Scale Survey and Dataset of Media-Based Misinformation In-The-Wild](https://arxiv.org/abs/2405.11697)
+
 ## Mitigations & tooling {#mitigations-&-tooling}
 * [AI has a privacy problem, but these techniques could fix it | VentureBeat](https://venturebeat.com/ai/ai-has-a-privacy-problem-but-these-techniques-could-fix-it/)
 * [15 Open Source Responsible AI Toolkits and Projects to Use Today](https://opendatascience.com/15-open-source-responsible-ai-toolkits-and-projects-to-use-today/)
 * Discusses a threat matrix for LLM AI
-        * [The AI Attack Surface Map v1.0](https://danielmiessler.com/blog/the-ai-attack-surface-map-v1-0/)
+         [The AI Attack Surface Map v1.0](https://danielmiessler.com/blog/the-ai-attack-surface-map-v1-0/)
 * Threat matrix from Microsoft
-        * [Failure Modes in Machine Learning | Microsoft Learn](https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning)
+         [Failure Modes in Machine Learning | Microsoft Learn](https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning)
 * [GitHub - protectai/llm-guard: The Security Toolkit for LLM Interactions](https://github.com/laiyer-ai/llm-guard)
 * [MITRE | ATLAS™](https://atlas.mitre.org/)
 * [AI Vulnerability Database](https://avidml.org/)
@@ -414,6 +436,7 @@ PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 * [Euro banks worry AI will increase their dependence on US big tech](https://www.theregister.com/2024/06/10/euro_banks_worry_ai_us_tech/)
 * [GenAIOps](https://genaiops.ai/) A global community built to pioneer, document and evangelise about the concept of GenAIOps. 
     * [LLMs will always be dangerous. Security can only be delivered at the level of the application | The Centre for GenAIOps](https://genaiops.ai/llms-will-always-be-dangerous-security-can-only-be-delivered-at-the-level-of-the-application)
+* [Poisoning Data to Protect It – Communications of the ACM](https://cacm.acm.org/news/poisoning-data-to-protect-it/)
     * [Balancing Innovation and Security | The Centre for GenAIOps](https://genaiops.ai/balancing-innovation-and-security)
 * [New Attack Technique 'Sleepy Pickle' Targets Machine Learning Models](https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html?m=1)
 * [[2406.06443] LLM Dataset Inference: Did you train on my dataset?](https://arxiv.org/abs/2406.06443)
