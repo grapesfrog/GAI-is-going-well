@@ -10,4 +10,4 @@ There are 4 categories
 
 Some articles are difficult to put into a single category as some research articles are exploitable in the wild.
 
-Last updated : 15 Jun 2024
+Last updated : 20 Jun 2024
