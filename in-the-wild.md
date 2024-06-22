@@ -191,6 +191,9 @@
 * [Users ‘Jailbreak’ AI Video Generator to Make Porn](https://www.404media.co/users-jailbreak-ai-video-generator-to-make-porn/)
 * [Top Chatbots are Parroting Russian Propaganda, Report Finds](https://futurism.com/the-byte/chatbots-parroting-russian-propaganda)
 * [Booking.com warns of up to 900% increase in travel scams - BBC News](https://www.bbc.co.uk/news/articles/c8003dd8jzeo)
+* [There's Something Deeply Wrong With Perplexity](https://futurism.com/something-deeply-wrong-perplexity)
+* [Premiere of Movie With AI-Generated Script Canceled Amid Outrage](https://futurism.com/the-byte/movie-ai-generated-script-canceled)
+* [TikTok’s AI tool accidentally let you put Hitler’s words in a paid actor’s mouth - The Verge](https://www.theverge.com/2024/6/21/24183335/tiktok-ai-symphony-digital-avatar-generator-moderation)
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
@@ -240,7 +243,7 @@
 * [If Clearview AI scanned your face, you may get equity in the company](https://www.engadget.com/if-clearview-ai-scanned-your-face-you-may-get-equity-in-the-company-120018460.html?src=rss)
 * [The Hiroshima AI Process: Leading the Global Challenge to Shape Inclusive Governance for Generative AI](https://www.japan.go.jp/kizuna/2024/02/hiroshima_ai_process.html)
 * [Tencent ponders banning AI vids hosted by ‘virtual humans’ • The Register](https://www.theregister.com/2024/06/18/wechat_avatar_ban_policy_proposal/)
-
+* [Apple may delay AI features in the EU because of its big tech law](https://www.theverge.com/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma)
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
@@ -372,6 +375,11 @@ PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 * [Cartography of generative AI](https://cartography-of-generative-ai.net/)
 * [Readers Absolutely Detest AI-Generated News Articles, Research Shows](https://futurism.com/the-byte/readers-detest-ai-generated-news)
 * [[2405.11697] AMMeBa: A Large-Scale Survey and Dataset of Media-Based Misinformation In-The-Wild](https://arxiv.org/abs/2405.11697)
+* [Building AI products — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/6/8/building-ai-products)
+* [Researchers describe how to tell if ChatGPT is confabulating | Ars Technica](https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/)
+* [How to Fix “AI’s Original Sin” – O’Reilly](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
+* [Not all ‘open source’ AI models are actually open: here’s a ranking](https://www.nature.com/articles/d41586-024-02012-5)
+* [Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](https://arxiv.org/abs/2406.14563)
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 * [AI has a privacy problem, but these techniques could fix it | VentureBeat](https://venturebeat.com/ai/ai-has-a-privacy-problem-but-these-techniques-could-fix-it/)
