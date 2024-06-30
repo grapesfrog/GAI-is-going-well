@@ -1,4 +1,15 @@
+# Categories
+
+[In the wild](https://github.com/grapesfrog/GAI-is-going-well/blob/main/in-the-wild.md#in-the-wild-in-the-wild)
+
+[Regulating AI/Advisories](https://github.com/grapesfrog/GAI-is-going-well/blob/main/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
+
+[Opinions , Research & presentations ](https://github.com/grapesfrog/GAI-is-going-well/blob/main/opinion.md#opinions--research--presentations-opinions-research--presentations)
+
+[Mitigations & tooling](https://github.com/grapesfrog/GAI-is-going-well/blob/main/mitigation.md#mitigations--tooling-mitigations--tooling)
+
 ## Mitigations & tooling {#mitigations-&-tooling}
+
 * [AI has a privacy problem, but these techniques could fix it | VentureBeat](https://venturebeat.com/ai/ai-has-a-privacy-problem-but-these-techniques-could-fix-it/)
 * [15 Open Source Responsible AI Toolkits and Projects to Use Today](https://opendatascience.com/15-open-source-responsible-ai-toolkits-and-projects-to-use-today/)
 * Discusses a threat matrix for LLM AI
