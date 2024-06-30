@@ -7,7 +7,7 @@ There are 4 categories:
 
 * [Adverse effects that result from deliberate attacks or just unfortunate outcomes](https://github.com/grapesfrog/GAI-is-going-well/blob/main/in-the-wild.md#in-the-wild-in-the-wild)
 * [Articles on or related to  regulating AI, advisories](https://github.com/grapesfrog/GAI-is-going-well/blob/main/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
-* [Research articles , opinions  and presentations](https://github.com/grapesfrog/GAI-is-going-well/blob/main/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
+* [Research articles , opinions  and presentations](https://github.com/grapesfrog/GAI-is-going-well/blob/main/opinion.md#opinions--research--presentations-opinions-research--presentations)
 * [Mitigations & tooling](https://github.com/grapesfrog/GAI-is-going-well/blob/main/mitigation.md#mitigations--tooling-mitigations--tooling)
 
 Some articles are difficult to put into a single category as some research articles are exploitable in the wild.
