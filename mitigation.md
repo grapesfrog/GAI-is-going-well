@@ -79,3 +79,5 @@
 * [GitHub - lamini-ai/Lamini-Memory-Tuning: Banishing LLM Hallucinations Requires Rethinking Generalization](https://github.com/lamini-ai/Lamini-Memory-Tuning)
 * [Mitigating Skeleton Key, a new type of generative AI jailbreak technique | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
 * [[2406.18495] WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs](https://arxiv.org/abs/2406.18495)
+* [YouTube now lets you request removal of AI-generated content that simulates your face or voice | TechCrunch](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/)
+* [Declare your AIndependence: block AI bots, scrapers and crawlers with a single click](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click)

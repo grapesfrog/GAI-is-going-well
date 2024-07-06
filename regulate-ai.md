@@ -60,3 +60,5 @@
 * [Calls to Ban Open Source are Misguided and Dangerous - The New Stack](https://thenewstack.io/calls-to-ban-open-source-are-misguided-and-dangerous/)
 * [Nvidia share price drop prompts concerns of AI bubble burst • The Register](https://www.theregister.com/2024/06/25/nvidia_share_price_drop/)
 * [The nation's oldest nonprofit newsroom is suing OpenAI and Microsoft](https://www.engadget.com/the-nations-oldest-nonprofit-newsroom-is-suing-openai-and-microsoft-174748454.html)
+* [Meta banned from training its AI using Brazilians' data • The Register](https://www.theregister.com/2024/07/03/brazil_meta_ai_training/)
+* [California Advances Unique Safety Regulations for AI Companies Despite Tech Firm opposition - SecurityWeek](https://www.securityweek.com/california-advances-unique-safety-regulations-for-ai-companies-despite-tech-firm-opposition/)
