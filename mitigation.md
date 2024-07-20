@@ -84,3 +84,4 @@
 * [Real criminals, fake victims: how chatbots are being deployed in the global fight against phone scammers | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/article/2024/jul/07/ai-chatbots-phone-scams)
 * [[2407.07071] Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps](https://arxiv.org/abs/2407.07071)
 * [Solving the data security challenge for AI builders](https://www.hashicorp.com/blog/solving-the-data-security-challenge-for-ai-builders)
+* [OpenAI’s latest model will block the ‘ignore all previous instructions’ loophole - The Verge](https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy) ([ evaded within days apparently according to a post on  X](https://x.com/elder_plinius/status/1814023961535295918?s=46&t=dYaCeu-tFWb5QJSJ3axkiQ) )
