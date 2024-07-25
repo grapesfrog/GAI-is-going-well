@@ -77,3 +77,6 @@
 * [The biggest names in AI have teamed up to promote AI security - The Verge](https://www.theverge.com/2024/7/18/24201223/security-privacy-google-microsoft-openai-ai-cosai)
 * [It May Soon Be Legal to Jailbreak AI to Expose How it Works](https://www.404media.co/it-may-soon-be-legal-to-jailbreak-ai-to-expose-how-it-works/)
 * [OpenAI Demands to See All Notes by New York Times Reporters](https://futurism.com/the-byte/openai-demands-reporters-notes-nyt)
+* [The Backlash Against AI Scraping Is Real and Measurable](https://www.404media.co/the-backlash-against-ai-scraping-is-real-and-measurable/)
+* [US and European antitrust regulators agree to do their jobs when it comes to AI](https://www.engadget.com/us-and-european-antitrust-regulators-agree-to-do-their-jobs-when-it-comes-to-ai-163820780.html)
+* [Meta needs updated rules for sexually explicit deepfakes, Oversight Board says](https://www.engadget.com/meta-needs-updated-rules-for-sexually-explicit-deepfakes-oversight-board-says-100005969.html)

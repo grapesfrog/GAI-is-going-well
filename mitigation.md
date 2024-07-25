@@ -85,3 +85,5 @@
 * [[2407.07071] Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps](https://arxiv.org/abs/2407.07071)
 * [Solving the data security challenge for AI builders](https://www.hashicorp.com/blog/solving-the-data-security-challenge-for-ai-builders)
 * [OpenAI’s latest model will block the ‘ignore all previous instructions’ loophole - The Verge](https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy) ([ evaded within days apparently according to a post on  X](https://x.com/elder_plinius/status/1814023961535295918?s=46&t=dYaCeu-tFWb5QJSJ3axkiQ) )
+* [Astronomers discover technique to spot AI fakes using galaxy-measurement tools | Ars Technica](https://arstechnica.com/information-technology/2024/07/astronomers-discover-technique-to-spot-ai-fakes-using-galaxy-measurement-tools/)
+* [Promptfoo](https://www.promptfoo.dev)
