@@ -87,3 +87,5 @@
 * [OpenAI’s latest model will block the ‘ignore all previous instructions’ loophole - The Verge](https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy) ([ evaded within days apparently according to a post on  X](https://x.com/elder_plinius/status/1814023961535295918?s=46&t=dYaCeu-tFWb5QJSJ3axkiQ) )
 * [Astronomers discover technique to spot AI fakes using galaxy-measurement tools | Ars Technica](https://arstechnica.com/information-technology/2024/07/astronomers-discover-technique-to-spot-ai-fakes-using-galaxy-measurement-tools/)
 * [Promptfoo](https://www.promptfoo.dev)
+* [Search the YouTube Videos Secretly Powering Generative AI](https://www.proofnews.org/youtube-ai-search/)
+* [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
