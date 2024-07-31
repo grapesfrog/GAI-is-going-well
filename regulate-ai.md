@@ -80,3 +80,4 @@
 * [The Backlash Against AI Scraping Is Real and Measurable](https://www.404media.co/the-backlash-against-ai-scraping-is-real-and-measurable/)
 * [US and European antitrust regulators agree to do their jobs when it comes to AI](https://www.engadget.com/us-and-european-antitrust-regulators-agree-to-do-their-jobs-when-it-comes-to-ai-163820780.html)
 * [Meta needs updated rules for sexually explicit deepfakes, Oversight Board says](https://www.engadget.com/meta-needs-updated-rules-for-sexually-explicit-deepfakes-oversight-board-says-100005969.html)
+* [From sci-fi to state law: California’s plan to prevent AI catastrophe | Ars Technica](https://arstechnica.com/information-technology/2024/07/from-sci-fi-to-state-law-californias-plan-to-prevent-ai-catastrophe/)
