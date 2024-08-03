@@ -81,3 +81,8 @@
 * [US and European antitrust regulators agree to do their jobs when it comes to AI](https://www.engadget.com/us-and-european-antitrust-regulators-agree-to-do-their-jobs-when-it-comes-to-ai-163820780.html)
 * [Meta needs updated rules for sexually explicit deepfakes, Oversight Board says](https://www.engadget.com/meta-needs-updated-rules-for-sexually-explicit-deepfakes-oversight-board-says-100005969.html)
 * [From sci-fi to state law: California’s plan to prevent AI catastrophe | Ars Technica](https://arstechnica.com/information-technology/2024/07/from-sci-fi-to-state-law-californias-plan-to-prevent-ai-catastrophe/)
+* [Senators introduce bill to protect individuals against AI-generated deepfakes](https://www.engadget.com/senators-introduce-bill-to-protect-individuals-against-ai-generated-deepfakes-202809816.html?src=rss)
+* [The EU's AI Act is now in force | TechCrunch](https://techcrunch.com/2024/08/01/the-eus-ai-act-is-now-in-force/)
+* [OpenAI vows to provide the US government early access to its next AI model](https://www.engadget.com/openai-vows-to-provide-the-us-government-early-access-to-its-next-ai-model-110017697.html)
+* [AI startup argues scraping every song on the internet is 'fair use'](https://www.engadget.com/ai/ai-startup-argues-scraping-every-song-on-the-internet-is-fair-use-233132459.html)
+* [Sam Altman accused of being shady about OpenAI’s safety efforts | Ars Technica](https://arstechnica.com/tech-policy/2024/08/sam-altman-accused-of-being-shady-about-openais-safety-efforts/)

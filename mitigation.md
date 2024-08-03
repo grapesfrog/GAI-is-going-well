@@ -90,3 +90,5 @@
 * [Search the YouTube Videos Secretly Powering Generative AI](https://www.proofnews.org/youtube-ai-search/)
 * [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
 * [StopNCII.org](https://www.stopncii.org/)
+* [Gemma Scope: helping the safety community shed light on the inner workings of language models - Google DeepMind](https://deepmind.google/discover/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/)
+* [Smaller, Safer, More Transparent: Advancing Responsible AI with Gemma - Google Developers Blog](https://dpmd.ai/4d0MKEH)
