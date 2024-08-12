@@ -86,3 +86,4 @@
 * [OpenAI vows to provide the US government early access to its next AI model](https://www.engadget.com/openai-vows-to-provide-the-us-government-early-access-to-its-next-ai-model-110017697.html)
 * [AI startup argues scraping every song on the internet is 'fair use'](https://www.engadget.com/ai/ai-startup-argues-scraping-every-song-on-the-internet-is-fair-use-233132459.html)
 * [Sam Altman accused of being shady about OpenAI’s safety efforts | Ars Technica](https://arstechnica.com/tech-policy/2024/08/sam-altman-accused-of-being-shady-about-openais-safety-efforts/)
+* [Lawyers say US cybersecurity law too ambiguous to protect AI security researchers](https://www.theregister.com/2024/08/08/lawyers_say_us_cybersecurity_law/)

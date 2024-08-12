@@ -212,3 +212,14 @@ PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 * [LLM Hallucination Index - Galileo](https://www.rungalileo.io/hallucinationindex) 
 * [Mapping the misuse of generative AI - Google DeepMind](https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai/)
 * [[2405.15012] Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/abs/2405.15012)
+* **[EU AI Act in infancy, but using 'intelligent' HR apps a risk • The Register](https://www.theregister.com/2024/07/31/eu_ai_act/?td=keepreading)**
+* **[AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)**
+* **[OpenAI Has Software That Detects AI Writing With 99.9 Percent Accuracy, Refuses to Release It](https://futurism.com/the-byte/openai-software-detects-ai-writing)**
+* **[X accused of using EU user data to train Grok without consent](https://www.engadget.com/ai/x-accused-of-using-eu-user-data-to-train-grok-without-consent-133042114.html?src=rss)**
+* **[https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o](https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o)**
+* **[Say ‘No’ to ‘NoOps’: Why We Can’t Afford to Let AI Run Wild - DevOps.com](https://devops.com/say-no-to-noops-why-we-cant-afford-to-let-ai-run-wild/)**
+* **[Empowering Efficient DevOps with AI + Automation](https://devops.com/empowering-efficient-devops-with-ai-automation/)**
+* **[AI models struggle with "lost in the middle" issue when processing large image sets](https://the-decoder.com/ai-models-struggle-with-lost-in-the-middle-issue-when-processing-large-image-sets)**
+* **[[2407.11963] NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?](https://arxiv.org/abs/2407.11963)**
+* [Visual Haystacks: Answering Harder Questions About Sets of Images](https://arxiv.org/abs/2407.13766v1)
+* [The AI Hangover is Here – The End of the Beginning](https://thehackernews.com/2024/08/the-ai-hangover-is-here-end-of-beginning.html?m=1)

@@ -92,3 +92,6 @@
 * [StopNCII.org](https://www.stopncii.org/)
 * [Gemma Scope: helping the safety community shed light on the inner workings of language models - Google DeepMind](https://deepmind.google/discover/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/)
 * [Smaller, Safer, More Transparent: Advancing Responsible AI with Gemma - Google Developers Blog](https://dpmd.ai/4d0MKEH)
+* [Enhancing LLM quality and interpretability with the Vertex AI Gen AI Evaluation Service](https://cloud.google.com/blog/products/ai-machine-learning/enhancing-llm-quality-and-interpretability-with-the-vertex-gen-ai-evaluation-service?e=48754805) 
+* [[2408.04284] LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection](https://arxiv.org/abs/2408.04284)
+* [NIST releases new tool to check AI models’ security](https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3478308/nist-releases-new-tool-to-check-ai-models-security.html/amp/)
