@@ -96,3 +96,4 @@
 * [[2408.04284] LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection](https://arxiv.org/abs/2408.04284)
 * [NIST releases new tool to check AI models’ security](https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3478308/nist-releases-new-tool-to-check-ai-models-security.html/amp/)
 * [[2408.04948] HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction](https://arxiv.org/abs/2408.04948)
+* [AI risk repository](https://airisk.mit.edu/)
