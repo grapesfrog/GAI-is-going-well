@@ -228,3 +228,4 @@ PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 * **[The political preferences of LLMs | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0306621)**
 * **[Sakana AI's 'AI Scientist' conducts research autonomously, challenging scientific norms | VentureBeat](https://venturebeat.com/ai/sakana-ai-scientist-conducts-research-autonomously-challenging-scientific-norms/)**
 * **[Ex-Google CEO: AI startups can steal IP, hire lawyers to “clean up the mess” - The Verge](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)**
+* [Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability](https://arxiv.org/abs/2408.07852)

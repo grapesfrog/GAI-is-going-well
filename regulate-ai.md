@@ -92,3 +92,4 @@
 * [X accused of unlawfully using personal data of 60 million+ users to train its AI | Malwarebytes](https://www.malwarebytes.com/blog/news/2024/08/x-accused-of-unlawfully-using-the-personal-data-of-more-than-60-million-users-to-train-its-ai)
 * [California weakens bill to prevent AI disasters before final vote, taking advice from Anthropic | TechCrunch](https://techcrunch.com/2024/08/15/california-weakens-bill-to-prevent-ai-disasters-before-final-vote-taking-advice-from-anthropic/)
 * [Artists’ lawsuit against Stability AI and Midjourney gets more punch](https://www.theverge.com/2024/8/13/24219520/stability-midjourney-artist-lawsuit-copyright-trademark-claims-approved)
+*[AI-powered ‘undressing’ websites are getting sued](https://www.theverge.com/2024/8/16/24221651/ai-deepfake-nude-undressing-websites-lawsuit-sanfrancisco)
