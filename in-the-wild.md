@@ -319,4 +319,4 @@
 * [Using Gemini Live was faster than Google, but also more awkward - The Verge](https://www.theverge.com/2024/8/13/24219736/gemini-live-hands-on-pixel-event)
 * [Researchers Uncover Vulnerabilities in AI-Powered Azure Health Bot Service](https://thehackernews.com/2024/08/researchers-uncover-vulnerabilities-in_0471960302.html?m=1)
 * [AI stole my job and my work, and the boss didn't know – or care](https://www.theregister.com/2024/08/15/robot_took_my_job/)
-* [ChatGPT appears to be getting confused again — this time in Welsh](https://www.businessinsider.com/chatgpt-confused-responded-queries-welsh-openai-speech-recognition-2024-8)
+* [ChatGPT users left bewildered as chatbot responds to English queries in Welsh](https://www.dailypost.co.uk/news/north-wales-news/chatgpt-users-left-bewildered-chatbot-29751041)
