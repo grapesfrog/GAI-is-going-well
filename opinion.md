@@ -223,3 +223,8 @@ PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 * **[[2407.11963] NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?](https://arxiv.org/abs/2407.11963)**
 * [Visual Haystacks: Answering Harder Questions About Sets of Images](https://arxiv.org/abs/2407.13766v1)
 * [The AI Hangover is Here – The End of the Beginning](https://thehackernews.com/2024/08/the-ai-hangover-is-here-end-of-beginning.html?m=1)
+* [Who uses LLM prompt injection attacks? Job seekers, trolls • The Register](https://www.theregister.com/2024/08/13/who_uses_llm_prompt_injection/)
+* [Brands should avoid this popular term. It’s turning off customers | CNN Business](https://edition.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html) 
+* **[The political preferences of LLMs | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0306621)**
+* **[Sakana AI's 'AI Scientist' conducts research autonomously, challenging scientific norms | VentureBeat](https://venturebeat.com/ai/sakana-ai-scientist-conducts-research-autonomously-challenging-scientific-norms/)**
+* **[Ex-Google CEO: AI startups can steal IP, hire lawyers to “clean up the mess” - The Verge](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)**
