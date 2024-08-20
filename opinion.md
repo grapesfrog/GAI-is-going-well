@@ -212,20 +212,24 @@ PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 * [LLM Hallucination Index - Galileo](https://www.rungalileo.io/hallucinationindex) 
 * [Mapping the misuse of generative AI - Google DeepMind](https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai/)
 * [[2405.15012] Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/abs/2405.15012)
-* **[EU AI Act in infancy, but using 'intelligent' HR apps a risk • The Register](https://www.theregister.com/2024/07/31/eu_ai_act/?td=keepreading)**
-* **[AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)**
-* **[OpenAI Has Software That Detects AI Writing With 99.9 Percent Accuracy, Refuses to Release It](https://futurism.com/the-byte/openai-software-detects-ai-writing)**
-* **[X accused of using EU user data to train Grok without consent](https://www.engadget.com/ai/x-accused-of-using-eu-user-data-to-train-grok-without-consent-133042114.html?src=rss)**
-* **[https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o](https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o)**
-* **[Say ‘No’ to ‘NoOps’: Why We Can’t Afford to Let AI Run Wild - DevOps.com](https://devops.com/say-no-to-noops-why-we-cant-afford-to-let-ai-run-wild/)**
-* **[Empowering Efficient DevOps with AI + Automation](https://devops.com/empowering-efficient-devops-with-ai-automation/)**
-* **[AI models struggle with "lost in the middle" issue when processing large image sets](https://the-decoder.com/ai-models-struggle-with-lost-in-the-middle-issue-when-processing-large-image-sets)**
-* **[[2407.11963] NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?](https://arxiv.org/abs/2407.11963)**
+* [EU AI Act in infancy, but using 'intelligent' HR apps a risk • The Register](https://www.theregister.com/2024/07/31/eu_ai_act/?td=keepreading)
+* [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
+* [OpenAI Has Software That Detects AI Writing With 99.9 Percent Accuracy, Refuses to Release It](https://futurism.com/the-byte/openai-software-detects-ai-writing)
+* [X accused of using EU user data to train Grok without consent](https://www.engadget.com/ai/x-accused-of-using-eu-user-data-to-train-grok-without-consent-133042114.html?src=rss)
+* [https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o](https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o)
+* [Say ‘No’ to ‘NoOps’: Why We Can’t Afford to Let AI Run Wild - DevOps.com](https://devops.com/say-no-to-noops-why-we-cant-afford-to-let-ai-run-wild/)
+* [Empowering Efficient DevOps with AI + Automation](https://devops.com/empowering-efficient-devops-with-ai-automation/)
+* [AI models struggle with "lost in the middle" issue when processing large image sets](https://the-decoder.com/ai-models-struggle-with-lost-in-the-middle-issue-when-processing-large-image-sets)**
+* [[2407.11963] NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?](https://arxiv.org/abs/2407.11963)
 * [Visual Haystacks: Answering Harder Questions About Sets of Images](https://arxiv.org/abs/2407.13766v1)
 * [The AI Hangover is Here – The End of the Beginning](https://thehackernews.com/2024/08/the-ai-hangover-is-here-end-of-beginning.html?m=1)
 * [Who uses LLM prompt injection attacks? Job seekers, trolls • The Register](https://www.theregister.com/2024/08/13/who_uses_llm_prompt_injection/)
 * [Brands should avoid this popular term. It’s turning off customers | CNN Business](https://edition.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html) 
-* **[The political preferences of LLMs | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0306621)**
-* **[Sakana AI's 'AI Scientist' conducts research autonomously, challenging scientific norms | VentureBeat](https://venturebeat.com/ai/sakana-ai-scientist-conducts-research-autonomously-challenging-scientific-norms/)**
-* **[Ex-Google CEO: AI startups can steal IP, hire lawyers to “clean up the mess” - The Verge](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)**
+* [The political preferences of LLMs | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0306621)
+* [Sakana AI's 'AI Scientist' conducts research autonomously, challenging scientific norms | VentureBeat](https://venturebeat.com/ai/sakana-ai-scientist-conducts-research-autonomously-challenging-scientific-norms/)**
+* [Ex-Google CEO: AI startups can steal IP, hire lawyers to “clean up the mess” - The Verge](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
 * [Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability](https://arxiv.org/abs/2408.07852)
+* [Humans might need a permission slip to use the internet soon, thanks to AI](https://the-decoder.com/humans-might-need-a-permission-slip-to-use-the-internet-soon-thanks-to-ai/)
+* [[2408.08946] Authorship Attribution in the Era of LLMs: Problems, Methodologies, and Challenges](https://arxiv.org/abs/2408.08946)
+* [[2408.08926] Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models](https://arxiv.org/abs/2408.08926)
+* [How AI-Generated Content Is Challenging SEO and Web Operators - The New Stack](https://thenewstack.io/how-ai-generated-content-is-challenging-seo-and-web-operators/)
