@@ -100,3 +100,7 @@
 * [Swift Could Sue Trump Under State Law for Fake AI Endorsement](https://www.404media.co/donald-trump-taylor-swift-endorsement-ai-images/)
 * [California weakens bill to prevent AI disasters before final vote, taking advice from Anthropic | TechCrunch](https://techcrunch.com/2024/08/15/california-weakens-bill-to-prevent-ai-disasters-before-final-vote-taking-advice-from-anthropic/) 
 * [Authors sue Anthropic for copyright infringement over AI training | Reuters](https://www.reuters.com/technology/artificial-intelligence/authors-sue-anthropic-copyright-infringement-over-ai-training-2024-08-20/)
+* [OpenAI exec says California’s AI safety bill might slow progress - The Verge](https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047)
+* [The DEFIANCE Act of 2024 | Durbin](https://www.durbin.senate.gov/imo/media/doc/defiance_act_of_2024.pdf)
+* [Federal Trade Commission Announces Final Rule Banning Fake Reviews and Testimonials](https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials) 
+* [Meta and Spotify CEOs slam EU's AI rules, warning they will hold back open-source innovation](https://the-decoder.com/meta-and-spotify-ceos-slam-eus-ai-rules-warning-they-will-hold-back-open-source-innovation)
