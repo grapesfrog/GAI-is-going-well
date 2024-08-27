@@ -10,6 +10,10 @@
 
 ## In the wild {#in-the-wild}
 
+* [Microsoft Bing Copilot blames reporter for crimes he covered • The Register](https://www.theregister.com/2024/08/26/microsoft_bing_copilot_ai_halluciation/)
+* [Democratic Startup Proposes Flooding the Web With AI-Generated Political Ads](https://futurism.com/democratic-startup-ai-political-ads)
+* [AI CEO Proud of Chatbot for Convincing Woman to Euthanize Her Dog](https://futurism.com/ai-ceo-chatbot-convince-woman-euthanize-dog)
+* [Startup Alarmed When Its AI Starts Rickrolling Clients](https://futurism.com/the-byte/ai-startup-rickrolling)
 * [Man Arrested for Creating Child Porn Using AI](https://futurism.com/the-byte/man-arrested-csam-ai)
 * ["Megalopolis" Trailer Pulled After Revelation That Its "Critic Quotes" Were AI-Generated Fakes](https://futurism.com/the-byte/megalopolis-trailer-quotes-chatgpt)
 * [Senators want investigation of AI-enabled ammo vending machines](https://www.theverge.com/2024/8/21/24225431/ammunition-vending-machines-atf-markey-warren-letter-american-rounds)

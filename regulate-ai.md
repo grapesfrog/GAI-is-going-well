@@ -10,6 +10,8 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [Google Online Security Blog: Private AI For All: Our End-To-End Approach to AI Privacy on Android](https://security.googleblog.com/2024/08/android-private-ai-approach.html?m=1)
+* [Warnings AI tools used by government on UK public are ‘racist and biased’ | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public)
 * [Meta and Spotify CEOs slam EU's AI rules, warning they will hold back open-source innovation](https://the-decoder.com/meta-and-spotify-ceos-slam-eus-ai-rules-warning-they-will-hold-back-open-source-innovation)
 * [Federal Trade Commission Announces Final Rule Banning Fake Reviews and Testimonials](https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials)
 * [The DEFIANCE Act of 2024 | Durbin](https://www.durbin.senate.gov/imo/media/doc/defiance_act_of_2024.pdf)

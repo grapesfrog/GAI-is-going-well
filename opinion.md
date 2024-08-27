@@ -10,6 +10,7 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [AI's Hyped Up Attempts at Picking Stocks Are Completely Faceplanting](https://futurism.com/the-byte/ai-picking-stocks-faceplanting)
 * [[2408.12060] Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs](https://arxiv.org/abs/2408.12060)
 * [Unboxing Occupational Bias: Grounded Debiasing LLMs with U.S. Labor Data](https://arxiv.org/abs/2408.11247)
 * [Google AI Studio: LLM-Powered Data Exfiltration Hits Again! Quickly Fixed.](https://embracethered.com/blog/posts/2024/google-ai-studio-data-exfiltration-now-fixed/)
