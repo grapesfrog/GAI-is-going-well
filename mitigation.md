@@ -10,6 +10,7 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [Nonprofit scrubs illegal content from controversial AI training dataset | Ars Technica](https://arstechnica.com/tech-policy/2024/08/nonprofit-scrubs-illegal-content-from-controversial-ai-training-dataset/)
 * [AI risk repository](https://airisk.mit.edu/)
 * [[2408.04948] HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction](https://arxiv.org/abs/2408.04948)
 * [NIST releases new tool to check AI models’ security](https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3478308/nist-releases-new-tool-to-check-ai-models-security.html/amp/)

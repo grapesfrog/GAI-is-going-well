@@ -10,6 +10,11 @@
 
 ## In the wild {#in-the-wild}
 
+* [Chatbots offer cops the “ultimate out” to spin police reports, expert says | Ars Technica](https://arstechnica.com/tech-policy/2024/08/chatbots-offer-cops-the-ultimate-out-to-spin-police-reports-expert-says/)
+* [Apple’s “Dual Use” Face Swap Problem](https://www.404media.co/email/5017e790-b780-4a52-a9cc-02c245843cdb/)
+* [Are AI-created recipes hard to swallow?](https://www.bbc.com/news/articles/cl7y71krnjvo)
+* [Klarna: AI lets us cut thousands of jobs - but pay more](https://www.bbc.com/news/articles/c80e1gp9m9zo)
+* [Microsoft Copilot: From Prompt Injection to Exfiltration of Personal Information · Embrace The Red](https://embracethered.com/blog/posts/2024/m365-copilot-prompt-injection-tool-invocation-and-data-exfil-using-ascii-smuggling/)
 * [Microsoft Bing Copilot blames reporter for crimes he covered • The Register](https://www.theregister.com/2024/08/26/microsoft_bing_copilot_ai_halluciation/)
 * [Democratic Startup Proposes Flooding the Web With AI-Generated Political Ads](https://futurism.com/democratic-startup-ai-political-ads)
 * [AI CEO Proud of Chatbot for Convincing Woman to Euthanize Her Dog](https://futurism.com/ai-ceo-chatbot-convince-woman-euthanize-dog)

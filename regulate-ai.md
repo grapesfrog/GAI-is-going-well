@@ -10,6 +10,7 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [OpenAI and Anthropic agree to share their models with the US AI Safety Institute](https://www.engadget.com/ai/openai-and-anthropic-agree-to-share-their-models-with-the-us-ai-safety-institute-191440093.html)
 * [Google Online Security Blog: Private AI For All: Our End-To-End Approach to AI Privacy on Android](https://security.googleblog.com/2024/08/android-private-ai-approach.html?m=1)
 * [Warnings AI tools used by government on UK public are ‘racist and biased’ | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public)
 * [Meta and Spotify CEOs slam EU's AI rules, warning they will hold back open-source innovation](https://the-decoder.com/meta-and-spotify-ceos-slam-eus-ai-rules-warning-they-will-hold-back-open-source-innovation)

@@ -10,6 +10,10 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Sorry, Labour, but ChatGPT teachers are a lesson in how not to transform our schools | Gaby Hinsliff | The Guardian](https://www.theguardian.com/commentisfree/article/2024/aug/29/labour-chatgpt-teachers-schools-ai)
+* [AI Appears to Be Slowly Killing Itself](https://futurism.com/ai-slowly-killing-itself)
+* [1 in 10 Minors Say Their Friends Use AI to Generate Nudes of Other Kids, Survey Finds](https://www.404media.co/1-in-10-minors-say-their-friends-use-ai-to-generate-nudes-of-other-kids-survey-finds/)
+* [I’ve got the genAI blues – Computerworld](https://www.computerworld.com/article/3488589/ive-got-the-genai-blues.html)
 * [AI's Hyped Up Attempts at Picking Stocks Are Completely Faceplanting](https://futurism.com/the-byte/ai-picking-stocks-faceplanting)
 * [[2408.12060] Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs](https://arxiv.org/abs/2408.12060)
 * [Unboxing Occupational Bias: Grounded Debiasing LLMs with U.S. Labor Data](https://arxiv.org/abs/2408.11247)
