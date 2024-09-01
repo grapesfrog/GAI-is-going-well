@@ -10,6 +10,9 @@
 
 ## In the wild {#in-the-wild}
 
+* [No One Wants Apple To Scrape Their Websites for AI Training](https://futurism.com/the-byte/apple-ai-training) 
+* ['A tech firm stole our voices - then cloned and sold them' - BBC News](https://www.bbc.co.uk/news/articles/c3d9zv50955o) 
+* [Tom Hanks Warns That Deepfake Scams Are Stealing His Face](https://futurism.com/the-byte/tom-hanks-psa-deepfake-scams)
 * [Chatbots offer cops the “ultimate out” to spin police reports, expert says | Ars Technica](https://arstechnica.com/tech-policy/2024/08/chatbots-offer-cops-the-ultimate-out-to-spin-police-reports-expert-says/)
 * [Apple’s “Dual Use” Face Swap Problem](https://www.404media.co/email/5017e790-b780-4a52-a9cc-02c245843cdb/)
 * [Are AI-created recipes hard to swallow?](https://www.bbc.com/news/articles/cl7y71krnjvo)

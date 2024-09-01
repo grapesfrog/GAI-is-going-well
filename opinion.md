@@ -10,6 +10,7 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Why A.I. Isn’t Going to Make Art | The New Yorker](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
 * [Sorry, Labour, but ChatGPT teachers are a lesson in how not to transform our schools | Gaby Hinsliff | The Guardian](https://www.theguardian.com/commentisfree/article/2024/aug/29/labour-chatgpt-teachers-schools-ai)
 * [AI Appears to Be Slowly Killing Itself](https://futurism.com/ai-slowly-killing-itself)
 * [1 in 10 Minors Say Their Friends Use AI to Generate Nudes of Other Kids, Survey Finds](https://www.404media.co/1-in-10-minors-say-their-friends-use-ai-to-generate-nudes-of-other-kids-survey-finds/)
