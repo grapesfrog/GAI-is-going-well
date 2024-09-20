@@ -10,6 +10,19 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [How to stop LinkedIn from training AI on your data | Ars Technica](https://arstechnica.com/tech-policy/2024/09/how-to-stop-linkedin-from-training-ai-on-your-data/)
+* [AI firms agree to fight deepfake nudes in White House pledge • The Register](https://www.theregister.com/2024/09/13/ai_deepfake_pledge/)
+* [UK Facebook, Insta public feeds now fair game for Meta AI](https://www.theregister.com/2024/09/14/uk_meta_ai_facebook/)
+* [Meta reignites plans to train AI using UK users' public Facebook and Instagram posts | TechCrunch](https://techcrunch.com/2024/09/13/meta-reignites-plans-to-train-ai-using-uk-users-public-facebook-and-instagram-posts/)
+* [Europe’s privacy watchdog probes Google over data used for AI training | Ars Technica](https://arstechnica.com/tech-policy/2024/09/europes-privacy-watchdog-probes-google-over-data-used-for-ai-training/)
+* [White House gets voluntary commitments from AI companies to curb deepfake porn](https://www.engadget.com/ai/white-house-gets-voluntary-commitments-from-ai-companies-to-curb-deepfake-porn-191536233.html?src=rss)
+* [New AI standards group wants to make data scraping opt-in](https://arstechnica.com/ai/2024/09/new-ai-standards-group-wants-to-make-data-scraping-opt-in/)
+* [How Do You Know When AI is Powerful Enough to be Dangerous? Regulators Try to Do the Math - SecurityWeek](https://www.securityweek.com/how-do-you-know-when-ai-is-powerful-enough-to-be-dangerous-regulators-try-to-do-the-math/)
+* [AI Security frameworks in a nutshell — Part 1 | by Sita Lakshmi Sangameswaran | Google Cloud - Community | Sep, 2024 | Medium](https://medium.com/google-cloud/ai-security-frameworks-in-a-nutshell-f72ccc837e73)
+* [AI Security frameworks in-depth — Part 2 | by Sita Lakshmi Sangameswaran | Google Cloud - Community | Sep, 2024 | Medium](https://medium.com/@sita1996/ai-security-frameworks-in-depth-ca7494c030aa)
+* [The US Needs Deepfake Porn Laws. These States Are Leading the Way | WIRED](https://www.wired.com/story/deepfake-ai-porn-laws/)
+* [Dutch regulator slaps Clearview AI with $33 million fine, threatens executive liability - The Verge](https://www.theverge.com/2024/9/3/24234879/dutch-regulator-gdpr-clearview-ai-fine)
+* [X won't train Grok on EU users' public posts](https://www.engadget.com/big-tech/x-wont-train-grok-on-eu-users-public-posts-155438606.html)
 * [OpenAI and Anthropic agree to share their models with the US AI Safety Institute](https://www.engadget.com/ai/openai-and-anthropic-agree-to-share-their-models-with-the-us-ai-safety-institute-191440093.html)
 * [Google Online Security Blog: Private AI For All: Our End-To-End Approach to AI Privacy on Android](https://security.googleblog.com/2024/08/android-private-ai-approach.html?m=1)
 * [Warnings AI tools used by government on UK public are ‘racist and biased’ | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public)

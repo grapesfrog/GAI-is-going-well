@@ -10,6 +10,22 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [[2409.12822] Language Models Learn to Mislead Humans via RLHF](https://arxiv.org/abs/2409.12822)
+* [[2409.12917] Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917) 
+* [OpenAI's Strawberry "Thought Process" Sometimes Shows It Scheming to Trick Users](https://futurism.com/openai-strawberry-thought-process-scheming)
+* [LLMs Will Always Hallucinate, and We Need to Live With This](https://arxiv.org/abs/2409.05746v1)
+* [Don’t ask if AI can make art — ask how AI can be art - The Verge](https://www.theverge.com/2024/9/13/24241189/generative-ai-interactivity-art)
+* [MongoDB CEO says if AI hype were the dotcom boom, it is 1996](https://www.theregister.com/2024/09/13/mongodb_ceo_says_if_ai/)
+* [What Is AI Best at Now? Improving Products You Already Own - WSJ](https://www.wsj.com/tech/ai/what-is-ai-best-at-now-improving-products-you-already-own-f6087617?st=KRTwyV&reflink=desktopwebshare_permalink)
+* [[2409.06653] Human Perception of LLM-generated Text Content in Social Media Environments](https://www.arxiv.org/abs/2409.06653)
+* [DataGemma: Using real-world data to address AI hallucinations](https://blog.google/technology/ai/google-datagemma-ai-llm/)
+* [Microsoft Azure Data CVP talks costs and constraints • The Register](https://www.theregister.com/2024/09/09/microsoft_arun_ulag_ai/)
+* [Firms still wrangling with business case for GenAI projects • The Register](https://www.theregister.com/2024/09/09/equinix_ai_business_case/)
+* [Americans Absolutely Detest AI That Makes Decisions for Them](https://futurism.com/the-byte/automated-ai-decision-making-survey)
+* [Why "AI" projects fail](https://tante.cc/2024/09/03/why-ai-projects-fail/)
+* [Government Test Finds That AI Wildly Underperforms Compared to Human Employees](https://futurism.com/the-byte/government-ai-worse-summarizing)
+* [Here’s how 7 news audience directors are thinking about Google’s AI Overviews | Nieman Journalism Lab](https://www.niemanlab.org/2024/08/how-7-news-audience-directors-are-thinking-about-responding-to-googles-ai-overviews/)
+* [Microsoft says AI could save “tons of money” if it learns to ask humans for help - Dexerto](https://www.dexerto.com/tech/microsoft-says-ai-could-save-tons-of-money-if-it-learns-to-ask-humans-for-help-2884890/)
 * [Why A.I. Isn’t Going to Make Art | The New Yorker](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
 * [Sorry, Labour, but ChatGPT teachers are a lesson in how not to transform our schools | Gaby Hinsliff | The Guardian](https://www.theguardian.com/commentisfree/article/2024/aug/29/labour-chatgpt-teachers-schools-ai)
 * [AI Appears to Be Slowly Killing Itself](https://futurism.com/ai-slowly-killing-itself)

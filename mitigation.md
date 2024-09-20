@@ -10,6 +10,9 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [Google will begin flagging AI-generated images in Search later this year | TechCrunch](https://techcrunch.com/2024/09/17/google-will-begin-flagging-ai-generated-images-in-search-later-this-year/)
+* [Microsoft gives deepfake porn victims a tool to scrub images from Bing search | TechCrunch](https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/)
+* [DataGemma: Using real-world data to address AI hallucinations](https://blog.google/technology/ai/google-datagemma-ai-llm/)
 * [Nonprofit scrubs illegal content from controversial AI training dataset | Ars Technica](https://arstechnica.com/tech-policy/2024/08/nonprofit-scrubs-illegal-content-from-controversial-ai-training-dataset/)
 * [AI risk repository](https://airisk.mit.edu/)
 * [[2408.04948] HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction](https://arxiv.org/abs/2408.04948)
