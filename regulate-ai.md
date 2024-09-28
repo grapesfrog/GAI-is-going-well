@@ -10,6 +10,12 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [If your AI does the crime, you'll do the time: DoJ • The Register](https://www.theregister.com/2024/09/25/doj_ai_compliance_guidance_update/) 
+* [OpenAI will show secret training data to copyright lawyers • The Register](https://www.theregister.com/2024/09/26/openai_training_data_author_copyright_case/) 
+* [An AI-powered copyright tool is taking down AI-generated Mario pictures - The Verge](https://www.theverge.com/2024/9/24/24252410/nintendo-dmca-notices-mario-fan-art-ai-image-detection) 
+* [Hollywood is coming out in force for California’s AI safety bill - The Verge](https://www.theverge.com/2024/9/24/24253439/california-sb-1047-newsom-hollywood-sag-aftra-ai-safety)
+* [LinkedIn suspends use of UK data for AI after watchdog questions - BBC News](https://www.bbc.co.uk/news/articles/cy89x4y1pmgo) 
+* [LinkedIn Halts AI Data Processing in U.K. Amid Privacy Concerns Raised by ICO](https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html)
 * [How to stop LinkedIn from training AI on your data | Ars Technica](https://arstechnica.com/tech-policy/2024/09/how-to-stop-linkedin-from-training-ai-on-your-data/)
 * [AI firms agree to fight deepfake nudes in White House pledge • The Register](https://www.theregister.com/2024/09/13/ai_deepfake_pledge/)
 * [UK Facebook, Insta public feeds now fair game for Meta AI](https://www.theregister.com/2024/09/14/uk_meta_ai_facebook/)

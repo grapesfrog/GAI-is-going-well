@@ -10,6 +10,7 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [Microsoft claims its AI safety tool not only finds errors but also fixes them - The Verge](https://www.theverge.com/2024/9/24/24253452/microsoft-correction-ai-safety-tool-fix-errors)
 * [Google will begin flagging AI-generated images in Search later this year | TechCrunch](https://techcrunch.com/2024/09/17/google-will-begin-flagging-ai-generated-images-in-search-later-this-year/)
 * [Microsoft gives deepfake porn victims a tool to scrub images from Bing search | TechCrunch](https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/)
 * [DataGemma: Using real-world data to address AI hallucinations](https://blog.google/technology/ai/google-datagemma-ai-llm/)

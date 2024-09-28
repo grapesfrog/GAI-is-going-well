@@ -10,6 +10,12 @@
 
 ## In the wild {#in-the-wild}
 
+* [AI bots now beat 100% of those traffic-image CAPTCHAs | Ars Technica](https://arstechnica.com/ai/2024/09/ai-defeats-traffic-image-captcha-in-another-triumph-of-machine-over-man/) 
+* [A deepfake caller pretending to be a Ukrainian official almost tricked a US senator](https://www.theverge.com/2024/9/26/24255179/deepfake-call-ukraine-senator-cardin-dmytro-kuleba) 
+* [Google Serving AI-Generated Images of Mushrooms Could Have 'Devastating Consequences'](https://www.404media.co/google-serves-ai-generated-images-of-mushrooms-putting-foragers-at-risk/)
+* [AI-Generated Malware Found in the Wild - SecurityWeek](https://www.securityweek.com/ai-generated-malware-found-in-the-wild/)
+* [Hacker plants false memories in ChatGPT to steal user data in perpetuity | Ars Technica](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
+* [Can Joe Tidy's AI clone fool his colleagues? - BBC News](https://www.bbc.co.uk/news/videos/cdje9nz7ll1o) 
 * [“Dead Internet theory” comes to life with new AI-powered social media app | Ars Technica](https://arstechnica.com/information-technology/2024/09/dead-internet-theory-comes-to-life-with-new-ai-powered-social-media-app/) 
 * [OpenAI Says It's Fixed Issue Where ChatGPT Appeared to Be Messaging Users Unprompted](https://futurism.com/openai-chatgpt-initiating-conversations)
 * [Google Serves AI Slop as Top Result for One of the Most Famous Paintings in History](https://www.404media.co/google-serves-ai-slop-as-top-result-for-one-of-the-most-famous-paintings-in-history/)

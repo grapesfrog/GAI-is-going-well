@@ -10,6 +10,16 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Devs gaining little (if anything) from AI coding assistants | CIO](https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html?amp=1) 
+* [Sad Boomers, Sober Zoomers](https://www.aigenerations.tech/) 
+* [[2409.16241] LLM Echo Chamber: personalized and automated disinformation](https://arxiv.org/abs/2409.16241) 
+* [Leveraging Mixture of Experts for Improved Speech Deepfake Detection](https://arxiv.org/html/2409.16077v1) 
+* [Bigger AI chatbots more inclined to spew nonsense — and people don't always realize](https://www.nature.com/articles/d41586-024-03137-3) 
+* [[2409.15268] Style over Substance: Failure Modes of LLM Judges in Alignment Benchmarking](https://arxiv.org/abs/2409.15268) 
+* [When you call a restaurant, you might be chatting with an AI host](https://arstechnica.com/information-technology/2024/09/when-you-call-a-restaurant-you-might-be-chatting-with-an-ai-host/) 
+* [Why GenAI is a Data Deletion and Privacy Nightmare | by Cassie Kozyrkov | Sep, 2024](https://towardsdatascience.com/why-genai-is-a-data-deletion-and-privacy-nightmare-bd79a3c0ed85) 
+* [Google says UK risks being ‘left behind’ in AI race without more data centres | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/sep/19/google-says-uk-risks-being-left-behind-in-ai-race-without-more-data-centres)
+* [IBM AI simply not up to the job of replacing staff • The Register](https://www.theregister.com/2024/09/24/ibm_layoffs_ai_talent/) 
 * [[2409.12822] Language Models Learn to Mislead Humans via RLHF](https://arxiv.org/abs/2409.12822)
 * [[2409.12917] Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917) 
 * [OpenAI's Strawberry "Thought Process" Sometimes Shows It Scheming to Trick Users](https://futurism.com/openai-strawberry-thought-process-scheming)
