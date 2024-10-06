@@ -10,6 +10,12 @@
 
 ## In the wild {#in-the-wild}
 
+* [No, Donald Trump Isn’t Wading Through Hurricane Floodwaters, You Absolute Morons](https://futurism.com/the-byte/donald-trump-hurricane-ai) 
+* [AI agent promotes itself to sysadmin, trashes boot sequence](https://www.theregister.com/AMP/2024/10/02/ai_agent_trashes_pc/). 
+* [nightmare’ AI screenshot tool](https://www.bbc.com/news/articles/c869glx8endo) 
+* [Police Department Testing AI-Powered Detective on Real Crimes](https://futurism.com/the-byte/police-department-ai-powered-detective-unsolved-crimes) 
+* [AI-Powered Hitler Running Rampant Online](https://futurism.com/the-byte/ai-powered-hitler-online) 
+* [Medical AI Caught Telling Dangerous Lie About Patient's Medical Record](https://futurism.com/neoscope/medical-ai-doctor-lies-records)  
 * [AI bots now beat 100% of those traffic-image CAPTCHAs | Ars Technica](https://arstechnica.com/ai/2024/09/ai-defeats-traffic-image-captcha-in-another-triumph-of-machine-over-man/) 
 * [A deepfake caller pretending to be a Ukrainian official almost tricked a US senator](https://www.theverge.com/2024/9/26/24255179/deepfake-call-ukraine-senator-cardin-dmytro-kuleba) 
 * [Google Serving AI-Generated Images of Mushrooms Could Have 'Devastating Consequences'](https://www.404media.co/google-serves-ai-generated-images-of-mushrooms-putting-foragers-at-risk/)

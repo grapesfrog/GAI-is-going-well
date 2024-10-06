@@ -10,6 +10,14 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Google Is Stuffing Annoying Ads Into Its Terrible AI Search Feature](https://futurism.com/the-byte/google-ads-ai-search) 
+* [It’s Time to Stop Taking Sam Altman at His Word - The Atlantic](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/) 
+* [Techniques for Tackling Catastrophic Forgetting in AI Models - The New Stack](https://thenewstack.io/techniques-for-tackling-catastrophic-forgetting-in-ai-models/) 
+* [AI code helpers just can't stop inventing package names • The Register](https://www.theregister.com/2024/09/30/ai_code_helpers_invent_packages/) 
+* [Microsoft to re-launch ‘privacy](https://www.bbc.com/news/articles/c869glx8endo)
+* [[2406.10279] We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279) 
+* [[2409.18786] A Survey on the Honesty of Large Language Models](https://arxiv.org/abs/2409.18786) 
+* **[Breaking MAD: Generative AI could break the internet, researchers find | ScienceDaily](https://www.sciencedaily.com/releases/2024/07/240730134759.htm) **
 * [Devs gaining little (if anything) from AI coding assistants | CIO](https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html?amp=1) 
 * [Sad Boomers, Sober Zoomers](https://www.aigenerations.tech/) 
 * [[2409.16241] LLM Echo Chamber: personalized and automated disinformation](https://arxiv.org/abs/2409.16241) 

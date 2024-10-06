@@ -10,6 +10,9 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [In South Korea, deepfake porn wrecks women's lives and deepens gender conflict | AP News](https://apnews.com/article/south-korea-deepfake-porn-women-df98e1a6793a245ac14afe8ec2366101) 
+* [California governor Gavin Newsom vetoes landmark AI safety bill](https://www.bbc.com/news/articles/cj9jwyr3kgeo) 
+* [AI could be an existential threat to publishers – that’s why Mumsnet is fighting back | Justine Roberts | The Guardian](https://www.theguardian.com/commentisfree/2024/sep/28/mumsnet-ai-google-openai-publishing-copyright) 
 * [If your AI does the crime, you'll do the time: DoJ • The Register](https://www.theregister.com/2024/09/25/doj_ai_compliance_guidance_update/) 
 * [OpenAI will show secret training data to copyright lawyers • The Register](https://www.theregister.com/2024/09/26/openai_training_data_author_copyright_case/) 
 * [An AI-powered copyright tool is taking down AI-generated Mario pictures - The Verge](https://www.theverge.com/2024/9/24/24252410/nintendo-dmca-notices-mario-fan-art-ai-image-detection) 
