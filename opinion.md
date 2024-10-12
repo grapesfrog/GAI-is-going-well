@@ -10,6 +10,12 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Dario Amodei — Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) 
+* [Using ChatGPT to make fake social media posts backfires on bad actors - Ars Technica](https://arstechnica.com/tech-policy/2024/10/using-chatgpt-to-make-fake-social-media-posts-backfires-on-bad-actors/) 
+* [Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation](https://arxiv.org/abs/2410.02220v2) 
+*[OSI’s Definition of Open Source AI Raises Critical Legal Concerns for Developers and Businesses - The New Stack](https://thenewstack.io/osis-definition-of-open-source-ai-raises-critical-legal-concerns-for-developers-and-businesses/) 
+*[[2410.02760] Erasing Conceptual Knowledge from Language Models](https://arxiv.org/abs/2410.02760)
+*[GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/html/2410.05229v1) 
 * [Google Is Stuffing Annoying Ads Into Its Terrible AI Search Feature](https://futurism.com/the-byte/google-ads-ai-search) 
 * [It’s Time to Stop Taking Sam Altman at His Word - The Atlantic](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/) 
 * [Techniques for Tackling Catastrophic Forgetting in AI Models - The New Stack](https://thenewstack.io/techniques-for-tackling-catastrophic-forgetting-in-ai-models/) 

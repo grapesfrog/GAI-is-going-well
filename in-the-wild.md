@@ -10,6 +10,16 @@
 
 ## In the wild {#in-the-wild}
 
+* [Man learns he’s being dumped via “dystopian” AI summary of texts - Ars Technica](https://arstechnica.com/ai/2024/10/man-learns-hes-being-dumped-via-dystopian-ai-summary-of-texts/) 
+* [Schools Are Using AI Surveillance to Catch Students Vaping Inside Bathrooms](https://futurism.com/the-byte/schools-ai-surveillance) 
+* [OpenAI Blocks 20 Global Malicious Campaigns Using AI for Cybercrime and Disinformation](https://thehackernews.com/2024/10/openai-blocks-20-global-malicious.html) 
+* [The Editors Protecting Wikipedia from AI Hoaxes](https://www.404media.co/email/d516cf7f-3b5f-4bf4-93da-325d9522dd79/) 
+* [Zoom will let AI avatars talk to your team for you - The Verge](https://www.theverge.com/2024/10/9/24266007/zoom-ai-avatars-clips-talk-for-you) 
+* [In-The-Wild Jailbreak Prompts on LLMs](https://github.com/verazuo/jailbreak_llms) 
+* [Hacked ‘AI Girlfriend’ Data Shows Prompts Describing Child Sexual Abuse](https://www.404media.co/hacked-ai-girlfriend-data-shows-prompts-describing-child-sexual-abuse-2/) 
+* [GitHub - feder-cr/Auto_Jobs_Applier_AIHawk: Auto_Jobs_Applier_AIHawk is a tool that automates the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) 
+* [Google's AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon) 
+* [Meta gives Llama 3 vision, now if only it had a brain • The Register](https://www.theregister.com/2024/10/06/meta_llama_vision_brain/) 
 * [No, Donald Trump Isn’t Wading Through Hurricane Floodwaters, You Absolute Morons](https://futurism.com/the-byte/donald-trump-hurricane-ai) 
 * [AI agent promotes itself to sysadmin, trashes boot sequence](https://www.theregister.com/AMP/2024/10/02/ai_agent_trashes_pc/). 
 * [nightmare’ AI screenshot tool](https://www.bbc.com/news/articles/c869glx8endo) 

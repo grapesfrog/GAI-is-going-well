@@ -10,6 +10,9 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [Checks by Google: AI-Powered Compliance for Apps and Code - The New Stack](https://thenewstack.io/checks-by-google-ai-powered-compliance-for-apps-and-code/) 
+* [[2410.02828] PyRIT: A Framework for Security Risk Identification and Red Teaming in Generative AI System](https://arxiv.org/abs/2410.02828) 
+* [Fiddler Trust Service for LLM Scoring](https://www.fiddler.ai/tour/trust-service-for-llm-scoring) 
 * [Microsoft claims its AI safety tool not only finds errors but also fixes them - The Verge](https://www.theverge.com/2024/9/24/24253452/microsoft-correction-ai-safety-tool-fix-errors)
 * [Google will begin flagging AI-generated images in Search later this year | TechCrunch](https://techcrunch.com/2024/09/17/google-will-begin-flagging-ai-generated-images-in-search-later-this-year/)
 * [Microsoft gives deepfake porn victims a tool to scrub images from Bing search | TechCrunch](https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/)
