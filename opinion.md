@@ -10,6 +10,10 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [AI for Climate Change: Opportunities and Challenges](https://www.eweek.com/artificial-intelligence/ai-climate-change/) 
+* [Apple study exposes deep cracks in LLMs’ “reasoning” capabilities - Ars Technica](https://arstechnica.com/ai/2024/10/llms-cant-perform-genuine-logical-reasoning-apple-researchers-suggest/) 
+* [AI amplifies systemic risk to banks: India Reserve Bank boss • The Register](https://www.theregister.com/2024/10/15/india_rbi_ai_risks/) 
+* [This AI Pioneer Thinks AI Is Dumber Than a Cat - WSJ](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5?mod=googlenewsfeed&st=ri92fU) 
 * [Dario Amodei — Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) 
 * [Using ChatGPT to make fake social media posts backfires on bad actors - Ars Technica](https://arstechnica.com/tech-policy/2024/10/using-chatgpt-to-make-fake-social-media-posts-backfires-on-bad-actors/) 
 * [Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation](https://arxiv.org/abs/2410.02220v2) 

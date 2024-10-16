@@ -10,6 +10,18 @@
 
 ## In the wild {#in-the-wild}
 
+* [AI scammers target Gmail accounts, say they have your death certificate | Malwarebytes](https://www.malwarebytes.com/blog/news/2024/10/ai-scammers-target-gmail-accounts-say-they-have-your-death-certificate) 
+* [Adobe's new generative AI service has "ethical standards"](https://boingboing.net/2024/10/15/adobes-new-generative-ai-service-has-ethical-standards.html) 
+* [WalesOnline app shows fake Alex Jones ads with 'disturbing' images - BBC News](https://www.bbc.co.uk/news/articles/cn4yn18x2xno) 
+* [Expert witness used Copilot to make up fake damages, irking judge - Ars Technica](https://arstechnica.com/tech-policy/2024/10/judge-confronts-expert-witness-who-used-copilot-to-fake-expertise/) 
+* [ChatGPT will happily write you a thinly disguised horoscope](https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/) 
+* [Invisible text that AI chatbots understand and humans can’t? Yep, it’s a thing. - Ars Technica](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/) 
+* [Inside AI’s $1 Trillion Cash Bonfire](https://www.inc.com/peter-cohan/inside-ais-1-trillion-cash-bonfire/90987767) 
+* [Gmail Account Takeover: Super Realistic AI Scam Call | Sam Mitrovic](https://sammitrovic.com/infosec/gmail-account-takeover-super-realistic-ai-scam-call/) 
+* [https://www.theverge.com/2024/10/12/24268441/meta-ai-generated-northern-lights-images-threads-users-upset](https://www.theverge.com/2024/10/12/24268441/meta-ai-generated-northern-lights-images-threads-users-upset) 
+* [Anthropic's Claude vulnerable to 'emotional manipulation's](https://www.theregister.com/2024/10/12/anthropics_claude_vulnerable_to_emotional/)'
+* [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models/2410.07176](https://arxiv.org/abs/2410.07176) 
+* [https://www.wired.com/story/pig-butchering-scams-go-high-tech/](https://www.wired.com/story/pig-butchering-scams-go-high-tech/)
 * [Man learns he’s being dumped via “dystopian” AI summary of texts - Ars Technica](https://arstechnica.com/ai/2024/10/man-learns-hes-being-dumped-via-dystopian-ai-summary-of-texts/) 
 * [Schools Are Using AI Surveillance to Catch Students Vaping Inside Bathrooms](https://futurism.com/the-byte/schools-ai-surveillance) 
 * [OpenAI Blocks 20 Global Malicious Campaigns Using AI for Cybercrime and Disinformation](https://thehackernews.com/2024/10/openai-blocks-20-global-malicious.html) 
