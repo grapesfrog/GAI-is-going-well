@@ -10,6 +10,7 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [Exclusive: EU AI Act checker reveals Big Tech's compliance pitfalls | Reuters](https://www.reuters.com/technology/artificial-intelligence/eu-ai-act-checker-reveals-big-techs-compliance-pitfalls-2024-10-16/) 
 * [The New York Times tells Perplexity to stop using its content](https://www.engadget.com/ai/the-new-york-times-tells-perplexity-to-stop-using-its-content-175853131.html?src=rss) 
 * [Traceability in AI-Enhanced Code: A Developer’s Guide - The New Stack](https://thenewstack.io/traceability-in-ai-enhanced-code-a-developers-guide/) 
 * [In South Korea, deepfake porn wrecks women's lives and deepens gender conflict | AP News](https://apnews.com/article/south-korea-deepfake-porn-women-df98e1a6793a245ac14afe8ec2366101) 

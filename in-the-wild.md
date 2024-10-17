@@ -10,6 +10,10 @@
 
 ## In the wild {#in-the-wild}
 
+* [An update on disrupting deceptive uses of AI | OpenAI](https://openai.com/global-affairs/an-update-on-disrupting-deceptive-uses-of-ai/) 
+* [‘It’s not me, it’s just my face’: the models who found their likenesses had been used in AI propaganda | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/oct/16/its-not-me-its-just-my-face-the-models-who-found-their-likenesses-had-been-used-in-ai-propaganda) 
+* [Parents sue after student punished for using AI in class • The Register](https://www.theregister.com/2024/10/16/parents_sue_student_ai/) 
+* [Deepfake lovers swindle victims out of $46M in Hong Kong AI scam - Ars Technica](https://arstechnica.com/ai/2024/10/deepfake-lovers-swindle-victims-out-of-46m-in-hong-kong-ai-scam/) [Anyone Can Turn You Into an AI Chatbot. There’s Little You Can Do to Stop Them | WIRED](https://www.wired.com/story/characterai-has-a-non-consensual-bot-problem/) 
 * [AI scammers target Gmail accounts, say they have your death certificate | Malwarebytes](https://www.malwarebytes.com/blog/news/2024/10/ai-scammers-target-gmail-accounts-say-they-have-your-death-certificate) 
 * [Adobe's new generative AI service has "ethical standards"](https://boingboing.net/2024/10/15/adobes-new-generative-ai-service-has-ethical-standards.html) 
 * [WalesOnline app shows fake Alex Jones ads with 'disturbing' images - BBC News](https://www.bbc.co.uk/news/articles/cn4yn18x2xno) 

@@ -10,6 +10,7 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [Startup can identify deepfake video in real time - Ars Technica](https://arstechnica.com/security/2024/10/startup-can-catch-identify-deepfake-video-in-realtime/) 
 * [Checks by Google: AI-Powered Compliance for Apps and Code - The New Stack](https://thenewstack.io/checks-by-google-ai-powered-compliance-for-apps-and-code/) 
 * [[2410.02828] PyRIT: A Framework for Security Risk Identification and Red Teaming in Generative AI System](https://arxiv.org/abs/2410.02828) 
 * [Fiddler Trust Service for LLM Scoring](https://www.fiddler.ai/tour/trust-service-for-llm-scoring) 
