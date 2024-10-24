@@ -10,6 +10,14 @@
 
 ## In the wild {#in-the-wild}
 
+* [Teen Dies by Suicide After Becoming Obsessed With AI Chatbot](https://futurism.com/teen-suicide-obsessed-ai-chatbot) 
+* [CEO who sells fake faces gets his own stolen for crypto scam](https://boingboing.net/2024/10/23/ceo-who-sells-fake-faces-gets-his-own-stolen-for-crypto-scam.html) 
+* [AI chatbots can be tricked by hackers into stealing your data](https://www.bitdefender.com/en-us/blog/hotforsecurity/ai-chatbots-can-be-tricked-by-hackers-into-stealing-your-data/) 
+* [Students fight false accusations from AI-detection snake oil](https://boingboing.net/2024/10/21/students-fight-false-accusations-from-ai-detection-snake-oil.html) 
+* [ByteDance intern fired for planting malicious code in AI models - Ars Technica](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/) 
+* [https://www.documentcloud.org/documents/25224425-jsoc-stylegan-personas](https://www.documentcloud.org/documents/25224425-jsoc-stylegan-personas) 
+* [AI-Powered News Site Accidentally Accuses District Attorney of Murder](https://futurism.com/ai-accuses-district-attorney-of-murder) 
+* [Martin Lewis warns of online scam ‘wild west’ over fake Rachel Reeves ad](https://www.theguardian.com/uk-news/2024/oct/18/martin-lewis-online-scam-wild-west-fake-rachel-reeves-ad)
 * [An update on disrupting deceptive uses of AI | OpenAI](https://openai.com/global-affairs/an-update-on-disrupting-deceptive-uses-of-ai/) 
 * [‘It’s not me, it’s just my face’: the models who found their likenesses had been used in AI propaganda | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/oct/16/its-not-me-its-just-my-face-the-models-who-found-their-likenesses-had-been-used-in-ai-propaganda) 
 * [Parents sue after student punished for using AI in class • The Register](https://www.theregister.com/2024/10/16/parents_sue_student_ai/) 

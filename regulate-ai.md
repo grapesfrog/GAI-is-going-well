@@ -10,7 +10,12 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
-* [Exclusive: EU AI Act checker reveals Big Tech's compliance pitfalls | Reuters](https://www.reuters.com/technology/artificial-intelligence/eu-ai-act-checker-reveals-big-techs-compliance-pitfalls-2024-10-16/) 
+* [Thom Yorke and Julianne Moore join thousands of creatives in AI warning](https://www.theguardian.com/film/2024/oct/22/thom-yorke-and-julianne-moore-join-thousands-of-creatives-in-ai-warning) 
+* [News Corp sues Perplexity for ripping off WSJ and New York Post - The Verge](https://www.theverge.com/2024/10/21/24275924/news-corp-wall-street-journal-perplexity-lawsuit-copyright-infringement) 
+* [Penguin Random House books now explicitly say ‘no’ to AI training - The Verge](https://www.theverge.com/2024/10/18/24273895/penguin-random-house-books-copyright-ai) 
+* [FTC Announces Crackdown on Deceptive AI Claims and Schemes | Federal Trade Commission](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes)
+* [Exclusive: EU AI Act checker reveals Big Tech's compliance pitfalls | Reuters](https://www.reuters.com/technology/artificial-intelligence/eu-ai-act-checker-reveals-big-techs-compliance-pitfalls-2024-10-16/)
+   * [COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act](https://arxiv.org/pdf/2410.07959) 
 * [The New York Times tells Perplexity to stop using its content](https://www.engadget.com/ai/the-new-york-times-tells-perplexity-to-stop-using-its-content-175853131.html?src=rss) 
 * [Traceability in AI-Enhanced Code: A Developer’s Guide - The New Stack](https://thenewstack.io/traceability-in-ai-enhanced-code-a-developers-guide/) 
 * [In South Korea, deepfake porn wrecks women's lives and deepens gender conflict | AP News](https://apnews.com/article/south-korea-deepfake-porn-women-df98e1a6793a245ac14afe8ec2366101) 
