@@ -10,6 +10,19 @@
 
 ## In the wild {#in-the-wild}
 
+* [Elon Musk Recommends Feeding Your Medical Scans Into His Grok AI](https://futurism.com/neoscope/elon-musk-grok-medical-scans) 
+* ['Sickening' Molly Russell chatbots found on Character.ai](https://www.bbc.com/news/articles/cg57yd0jr0go) 
+* [I interviewed the AI ghost of a famous dead porn star](https://boingboing.net/2024/10/30/i-interviewed-the-ai-ghost-of-a-famous-dead-porn-star.html) 
+* [After Teen's Suicide, Character.AI Is Still Hosting Dozens of Suicide-Themed Chatbots](https://futurism.com/suicide-chatbots-character-ai)
+*  [Researchers Uncover Vulnerabilities in Open-Source AI and ML Models](https://thehackernews.com/2024/10/researchers-uncover-vulnerabilities-in.html?m=1) 
+* [Annoyed Redditors tanking Google Search results illustrates perils of AI scrapers - Ars Technica](https://arstechnica.com/gadgets/2024/10/fake-restaurant-tips-on-reddit-a-reminder-of-google-ai-overviews-inherent-flaws) 
+* [Hospitals use a transcription tool powered by an error-prone OpenAI model - The Verge](https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies) 
+* [Scammers Figure Out Trick to Steal Houses Using AI](https://futurism.com/the-byte/scammers-steal-houses-ai) 
+* [Claude AI Gets Bored During Coding Demonstration, Starts Perusing Photos of National Parks Instead](https://futurism.com/the-byte/claude-ai-bored-demonstration) 
+* [OpenAI Whistleblower Disgusted That His Job Was to Vacuum Up Copyrighted Data to Train Its Models](https://futurism.com/the-byte/openai-whistleblower-copyrighted-data) 
+* [ZombAIs: From Prompt Injection to C2 with Claude Computer Use · Embrace The Red](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/) 
+* [Google, Microsoft, and Perplexity Are Promoting Scientific Racism in Search Results | WIRED](https://arstechnica.com/ai/2024/10/google-microsoft-and-perplexity-promote-scientific-racism-in-ai-search-results/) 
+* ['I massively regret using AI to cheat at uni'](https://www.bbc.com/news/articles/cz04emrxp4xo) 
 * [Teen Dies by Suicide After Becoming Obsessed With AI Chatbot](https://futurism.com/teen-suicide-obsessed-ai-chatbot) 
 * [CEO who sells fake faces gets his own stolen for crypto scam](https://boingboing.net/2024/10/23/ceo-who-sells-fake-faces-gets-his-own-stolen-for-crypto-scam.html) 
 * [AI chatbots can be tricked by hackers into stealing your data](https://www.bitdefender.com/en-us/blog/hotforsecurity/ai-chatbots-can-be-tricked-by-hackers-into-stealing-your-data/) 

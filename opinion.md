@@ -10,6 +10,16 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [[2410.22884] Stealing User Prompts from Mixture of Experts](https://arxiv.org/abs/2410.22884) 
+* [Emma Paper | End to end multimodal model for autonomous driving](https://www.scribd.com/document/786090543/Emma-Paper) 
+* [[2410.18417] Large Language Models Reflect the Ideology of their Creators](https://arxiv.org/abs/2410.18417) 
+* [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/) 
+* [GenAI's dirty secret: It's set to create a mountainous increase in e-waste](https://www.theregister.com/2024/10/28/genai_dirty_secret/) 
+* [Don’t Trust Security in AI-Generated Code - The New Stack](https://thenewstack.io/dont-trust-security-in-ai-generated-code/) 
+* [DORA 2024: AI and Platform Engineering Fall Short - The New Stack](https://thenewstack.io/dora-2024-ai-and-platform-engineering-fall-short/) 
+* [Researchers say AI transcription tool used in hospitals invents things no one ever said | AP News](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
+* [[2410.15002] How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation Threshold](https://arxiv.org/abs/2410.15002) 
+* [Annoyed Redditors tanking Google Search results illustrates perils of AI scrapers - Ars Technica](https://arstechnica.com/gadgets/2024/10/fake-restaurant-tips-on-reddit-a-reminder-of-google-ai-overviews-inherent-flaws/) 
 * [Anthropic's latest Claude model can interact with computers • The Register](https://www.theregister.com/2024/10/24/anthropic_claude_model_can_use_computers/)  
 * [Safety principles for medical summarization using generative AI](https://www.nature.com/articles/s41591-024-03313-y.epdf?sharing_token=BnQALiq7InCErw1MlM1k9dRgN0jAjWel9jnR3ZoTv0Pdp192Hb27w1juSfTXJ1aThiz6wn0xMKz5KA7Zsngsnzb1iCm1TvtIM8mwcZ4LzFf7mZ2s1vc7Mtjz8bpVHIih5sNbG1pHRYoMOaJ-nP3hugfm8ZfLgSWRpe1b29bZ3f0%3D) 
 * [AI to help doctors spot broken bones on X-rays](https://www.bbc.com/news/articles/c2060gy9zy1o) 

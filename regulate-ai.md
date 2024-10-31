@@ -10,6 +10,14 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [Downey Jr. plans to fight AI re-creations from beyond the grave - Ars Technica](https://arstechnica.com/ai/2024/10/robert-downey-jr-vows-legal-action-against-future-ai-replica-use/) 
+* [Open-source AI must reveal its training data, per new OSI definition - The Verge](https://www.theverge.com/2024/10/28/24281820/open-source-initiative-definition-artificial-intelligence-meta-llama) 
+* [UK man gets 18 years in prison for using AI to generate CSAM](https://www.engadget.com/ai/uk-man-gets-18-years-in-prison-for-using-ai-to-generate-csam-154037476.html) 
+* [Keir Starmer says media firms should have control of output used in AI | Newspapers & magazines | The Guardian](https://www.theguardian.com/media/2024/oct/28/keir-starmer-says-media-firms-should-have-control-of-output-used-in-ai) 
+* [‘An existential threat’: anger over UK government plans to allow AI firms to scrape content | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/oct/26/an-existential-threat-anger-over-uk-government-plans-to-allow-ai-firms-to-scrape-content) 
+* [A predator used her 12-year-old face to make porn. She helped pass a law to make that a crime | Technology | The Guardian](https://www.theguardian.com/technology/ng-interactive/2024/oct/26/ai-child-sexual-abuse-images-kaylin-hayman) 
+* [Memorandum on Advancing the United States’ Leadership in Artificial Intelligence; Harnessing Artificial Intelligence to Fulfil National Security Objectives; and Fostering the Safety, Security, and Trustworthiness of Artificial Intelligence | The White House](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/) 
+* [OpenAI’s approach to AI and national security](https://openai.com/global-affairs/openais-approach-to-ai-and-national-security/)
 * [Thom Yorke and Julianne Moore join thousands of creatives in AI warning](https://www.theguardian.com/film/2024/oct/22/thom-yorke-and-julianne-moore-join-thousands-of-creatives-in-ai-warning) 
 * [News Corp sues Perplexity for ripping off WSJ and New York Post - The Verge](https://www.theverge.com/2024/10/21/24275924/news-corp-wall-street-journal-perplexity-lawsuit-copyright-infringement) 
 * [Penguin Random House books now explicitly say ‘no’ to AI training - The Verge](https://www.theverge.com/2024/10/18/24273895/penguin-random-house-books-copyright-ai) 
