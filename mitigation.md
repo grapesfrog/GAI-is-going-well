@@ -10,6 +10,7 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [From Naptime to Big Sleep: Using Large Language Models To Catch Vulnerabilities In Real-World Code](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html?m=1) 
 * [Google Photos will soon show you if an image was edited with AI - The Verge](https://www.theverge.com/2024/10/24/24278663/google-photos-generative-ai-label-reimagine-best-take)
 * [Startup can identify deepfake video in real time - Ars Technica](https://arstechnica.com/security/2024/10/startup-can-catch-identify-deepfake-video-in-realtime/) 
 * [Checks by Google: AI-Powered Compliance for Apps and Code - The New Stack](https://thenewstack.io/checks-by-google-ai-powered-compliance-for-apps-and-code/) 

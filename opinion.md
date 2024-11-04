@@ -10,6 +10,13 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [OpenAI Research Finds That Even Its Best Models Give Wrong Answers a Wild Proportion of the Time](https://futurism.com/the-byte/openai-research-best-models-wrong-answers) 
+* [AIs show distinct bias against Black and female résumés in new study - Ars Technica](https://arstechnica.com/ai/2024/11/study-ais-prefer-white-male-names-on-resumes-just-like-humans/#gsc.tab=0) 
+* [Google Cloud’s security chief warns: Cyber defenses must evolve to counter AI abuses | VentureBeat](https://venturebeat.com/security/google-clouds-security-chief-warns-cyber-defenses-must-evolve-to-counter-ai-abuses/) 
+* [Amazon’s new Alexa has reportedly slipped to 2025](https://www.theverge.com/2024/10/31/24284772/amazon-new-alexa-llm-voice-assistant-delayed-2025) 
+* [Trick or treat! AI Devours Energy, Innovation Can’t Win, Models Collapse, Benchmarks Are Meaningless, and more...](https://www.deeplearning.ai/the-batch/issue-273/) 
+* [Pushing the frontiers of audio generation - Google DeepMind](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/) ( notebooklm is so useful I felt it worth adding somewhere) 
+* [[2410.22587] Toxicity of the Commons: Curating Open-Source Pre-Training Data](https://arxiv.org/abs/2410.22587) 
 * [[2410.22884] Stealing User Prompts from Mixture of Experts](https://arxiv.org/abs/2410.22884) 
 * [Emma Paper | End to end multimodal model for autonomous driving](https://www.scribd.com/document/786090543/Emma-Paper) 
 * [[2410.18417] Large Language Models Reflect the Ideology of their Creators](https://arxiv.org/abs/2410.18417) 

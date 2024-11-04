@@ -10,6 +10,10 @@
 
 ## In the wild {#in-the-wild}
 
+* [Codeless, AI-generated video game is a terrible Minecraft clone](https://boingboing.net/2024/11/04/codeless-ai-generated-video-game-is-a-terrible-minecraft-clone.html) 
+* [ChatGPT Messes Up Badly During Demo With CEO of Chanel](https://futurism.com/the-byte/chatgpt-demo-ceo-chanel) 
+* [Perplexity AI CEO Sputters When Asked to Define "Plagiarism" Onstage](https://futurism.com/the-byte/perplexity-ai-define-plagiarism) 
+* [ChatGPT Dreams Up Fake Studies, Alaska Cites Them To Support School Phone Ban | Techdirt](https://www.techdirt.com/2024/10/31/chatgpt-dreams-up-fake-studies-alaska-cites-them-to-support-school-phone-ban/) 
 * [Elon Musk Recommends Feeding Your Medical Scans Into His Grok AI](https://futurism.com/neoscope/elon-musk-grok-medical-scans) 
 * ['Sickening' Molly Russell chatbots found on Character.ai](https://www.bbc.com/news/articles/cg57yd0jr0go) 
 * [I interviewed the AI ghost of a famous dead porn star](https://boingboing.net/2024/10/30/i-interviewed-the-ai-ghost-of-a-famous-dead-porn-star.html) 

@@ -10,6 +10,9 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [Exclusive: Chinese researchers develop AI model for military use on back of Meta's Llama | Reuters](https://www.reuters.com/technology/artificial-intelligence/chinese-researchers-develop-ai-model-military-use-back-metas-llama-2024-11-01/) 
+* [The case for targeted regulation \ Anthropic](https://www.anthropic.com/news/the-case-for-targeted-regulation) 
+* [OpenAI Strikes Publisher Deals to Reduce AI Web Scraping Tensions](https://www.eweek.com/news/openai-publisher-deals-reduce-ai-web-scraping-conflict/) 
 * [Downey Jr. plans to fight AI re-creations from beyond the grave - Ars Technica](https://arstechnica.com/ai/2024/10/robert-downey-jr-vows-legal-action-against-future-ai-replica-use/) 
 * [Open-source AI must reveal its training data, per new OSI definition - The Verge](https://www.theverge.com/2024/10/28/24281820/open-source-initiative-definition-artificial-intelligence-meta-llama) 
 * [UK man gets 18 years in prison for using AI to generate CSAM](https://www.engadget.com/ai/uk-man-gets-18-years-in-prison-for-using-ai-to-generate-csam-154037476.html) 
