@@ -10,6 +10,10 @@
 
 ## In the wild {#in-the-wild}
 
+* [Claude AI to process secret government data through new Palantir deal - Ars Technica](https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/) 
+* [Flanked by Palantir and AWS, Anthropic's Claude marches into US defense intelligence](https://www.theregister.com/2024/11/07/anthropic_palantir_aws_claude/) 
+* [AI chatbot launches on Gov.UK to help business users – with mixed results | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/nov/05/ai-chatbot-launches-on-govuk-to-help-business-users-with-mixed-results) 
+* [AI is consolidating corporate power in higher ed (opinion)](https://www.insidehighered.com/opinion/views/2024/11/06/ai-consolidating-corporate-power-higher-ed-opinion)
 * [Codeless, AI-generated video game is a terrible Minecraft clone](https://boingboing.net/2024/11/04/codeless-ai-generated-video-game-is-a-terrible-minecraft-clone.html) 
 * [ChatGPT Messes Up Badly During Demo With CEO of Chanel](https://futurism.com/the-byte/chatgpt-demo-ceo-chanel) 
 * [Perplexity AI CEO Sputters When Asked to Define "Plagiarism" Onstage](https://futurism.com/the-byte/perplexity-ai-define-plagiarism) 

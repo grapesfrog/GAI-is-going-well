@@ -10,6 +10,8 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Open Source AI Can Help America Lead in AI and Strengthen Global Security | Meta](https://about.fb.com/news/2024/11/open-source-ai-america-global-security/) 
+* [[2410.16927] Revealing Hidden Bias in AI: Lessons from Large Language Models](https://arxiv.org/abs/2410.16927)
 * [OpenAI Research Finds That Even Its Best Models Give Wrong Answers a Wild Proportion of the Time](https://futurism.com/the-byte/openai-research-best-models-wrong-answers) 
 * [AIs show distinct bias against Black and female résumés in new study - Ars Technica](https://arstechnica.com/ai/2024/11/study-ais-prefer-white-male-names-on-resumes-just-like-humans/#gsc.tab=0) 
 * [Google Cloud’s security chief warns: Cyber defenses must evolve to counter AI abuses | VentureBeat](https://venturebeat.com/security/google-clouds-security-chief-warns-cyber-defenses-must-evolve-to-counter-ai-abuses/) 

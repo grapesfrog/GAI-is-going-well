@@ -10,6 +10,14 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [OpenAI wins first round against Raw Story and AlterNet copyright case](https://www.engadget.com/ai/openai-wins-first-round-against-raw-story-and-alternet-copyright-case-130027681.html) 
+* [[2410.07959] COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act](https://arxiv.org/abs/2410.07959)
+    * [https://compl-ai.org/interpretation](https://compl-ai.org/interpretation) 
+* [Bees block Meta’s nuclear-powered data center](https://www.ans.org/news/article-6541/bees-block-metas-nuclearpowered-data-center/)
+* [Regulators reject power deal for nuclear Amazon datacenters • The Register](https://www.theregister.com/2024/11/04/aws_nuclear_datacenter_ferc/) 
+* [Trump plans to dismantle Biden AI safeguards after victory - Ars Technica](https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/) 
+* [OSI Releases New Definition for Open Source AI, Setting Standards for Transparency and Accessibility - InfoQ](https://www.infoq.com/news/2024/11/open-source-ai-definition) 
+* [China’s proposed AI Labelling Regulations: Key points](https://www.nortonrosefulbright.com/en/knowledge/publications/c1211a61/chinas-proposed-ai-labelling-regulations-key-points?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=best-places-for-ai-ranked&_bhlid=7bfb138e27c4cdea19b4146c303026a9ee2936b0) 
 * [Exclusive: Chinese researchers develop AI model for military use on back of Meta's Llama | Reuters](https://www.reuters.com/technology/artificial-intelligence/chinese-researchers-develop-ai-model-military-use-back-metas-llama-2024-11-01/) 
 * [The case for targeted regulation \ Anthropic](https://www.anthropic.com/news/the-case-for-targeted-regulation) 
 * [OpenAI Strikes Publisher Deals to Reduce AI Web Scraping Tensions](https://www.eweek.com/news/openai-publisher-deals-reduce-ai-web-scraping-conflict/) 
