@@ -10,6 +10,20 @@
 
 ## In the wild {#in-the-wild}
 
+* [Google Gemini tells grad student to 'please die' while helping with his homework](https://www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/) 
+* [The Top Image of William Shakespeare on Google is Lazy AI Slop](https://futurism.com/the-byte/top-image-william-shakespeare-google-ai-slop) 
+* [Coke's AI Commercial for the Holidays Has Us Wondering If We Live In a Fallen World](https://futurism.com/the-byte/coke-hideous-ai-commercial) 
+* [Sam Altman's Collab With Arianna Huffington Is a Busted Mess](https://futurism.com/the-byte/sam-altman-arianna-huffington-ai) 
+* [Character.AI Is Hosting Pedophile Chatbots That Groom Users Who Say They're Underage](https://futurism.com/character-ai-pedophile-chatbots) 
+* [Absurd AI Slop About How Elon Musk Will Fix America Is Megaviral on Facebook](https://www.404media.co/absurd-ai-slop-about-how-elon-musk-will-fix-america-is-megaviral-on-facebook/) 
+* [https://futurism.com/the-byte/grok-blasts-elon-musk-misinformation](https://futurism.com/the-byte/grok-blasts-elon-musk-misinformation) 
+* [AI Chatbot Added to Mushroom Foraging Facebook Group Immediately Gives Tips for Cooking Dangerous Mushroom](https://www.404media.co/ai-chatbot-added-to-mushroom-foraging-facebook-group-immediately-gives-tips-for-cooking-dangerous-mushroom/) 
+* [ModeLeak: Privilege Escalation to LLM Model Exfiltration in Vertex AI](https://unit42.paloaltonetworks.com/privilege-escalation-llm-model-exfil-vertex-ai/) 
+* [Jailbreaking your friendly, garden-variety, bomb-carrying robot dog](https://arobey1.github.io/writing/jailbreakingrobots.html) 
+* [Security Flaws in Popular ML Toolkits Enable Server Hijacks, Privilege Escalation](https://thehackernews.com/2024/11/security-flaws-in-popular-ml-toolkits.html?m=1) 
+* [‘AI’ tool could influence Home Office immigration decisions, critics say](https://www.theguardian.com/uk-news/2024/nov/11/ai-tool-could-influence-home-office-immigration-decisions-critics-say) 
+* [Painting by "AI" robot sells for more than $1 million](https://boingboing.net/2024/11/10/painting-by-ai-robot-sells-for-more-than-1-million.html) 
+* [Woman Furious When Tattoo Artist Admits Her Half-Finished Tattoo Is AI-Generated](https://futurism.com/the-byte/woman-furious-ai-tattoo) 
 * [Claude AI to process secret government data through new Palantir deal - Ars Technica](https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/) 
 * [Flanked by Palantir and AWS, Anthropic's Claude marches into US defense intelligence](https://www.theregister.com/2024/11/07/anthropic_palantir_aws_claude/) 
 * [AI chatbot launches on Gov.UK to help business users – with mixed results | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/nov/05/ai-chatbot-launches-on-govuk-to-help-business-users-with-mixed-results) 

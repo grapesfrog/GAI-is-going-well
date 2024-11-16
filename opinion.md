@@ -10,6 +10,18 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Why LLMs Within Software Development May Be a Dead End - The New Stack](https://thenewstack.io/why-llms-within-software-development-may-be-a-dead-end/) 
+* [[2411.07494] Rapid Response: Mitigating LLM Jailbreaks with a Few Examples](https://arxiv.org/abs/2411.07494) 
+* [https://info.deeplearning.ai/llama-on-the-battlefield-mixture-of-experts-pulls-ahead-open-agentic-platform-voter-support-chatbot-1](https://info.deeplearning.ai/llama-on-the-battlefield-mixture-of-experts-pulls-ahead-open-agentic-platform-voter-support-chatbot-1)
+* [OpenAI Alarmed When Its Shiny New AI Model Isn't as Smart as It Was Supposed to Be](https://futurism.com/the-byte/openai-big-tech-alarmed-ai-performance) 
+* [Imagine a person...](https://jhancock532.github.io/imaginary-people) 
+* [Who’s Responsible When AI Agents Go Rogue? - The New Stack](https://thenewstack.io/whos-responsible-when-ai-agents-go-rogue/) 
+* [The pace of AI LLM innovation is slowing | TechMarketView](https://www.techmarketview.com/ukhotviews/archive/2024/11/13/the-pace-of-ai-llm-innovation-is-slowing) 
+* [New secret math benchmark stumps AI models and PhDs alike - Ars Technica](https://arstechnica.com/ai/2024/11/new-secret-math-benchmark-stumps-ai-models-and-phds-alike/) 
+* [What if AI doesn’t just keep getting better forever? - Ars Technica](https://arstechnica.com/ai/2024/11/what-if-ai-doesnt-just-keep-getting-better-forever/) 
+* [OpenAI Reportedly Hitting Law of Diminishing Returns as It Pours Computing Resources Into AI](https://futurism.com/the-byte/openai-diminishing-returns) 
+* [It’s time to take AI welfare seriously - by Shakeel Hashim](https://www.transformernews.ai/p/ai-welfare-paper) 
+* [Critical keywords of AI in education](https://codeactsineducation.wordpress.com/2024/11/08/critical-keywords-of-ai-in-education/)
 * [Open Source AI Can Help America Lead in AI and Strengthen Global Security | Meta](https://about.fb.com/news/2024/11/open-source-ai-america-global-security/) 
 * [[2410.16927] Revealing Hidden Bias in AI: Lessons from Large Language Models](https://arxiv.org/abs/2410.16927)
 * [OpenAI Research Finds That Even Its Best Models Give Wrong Answers a Wild Proportion of the Time](https://futurism.com/the-byte/openai-research-best-models-wrong-answers) 

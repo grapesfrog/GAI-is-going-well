@@ -10,6 +10,8 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [The suddenly hot Bluesky says it won’t train AI on your posts](https://www.engadget.com/social-media/the-suddenly-hot-bluesky-says-it-wont-train-ai-on-your-posts-220034195.html) 
+* [EU AI Act: Draft guidance for general purpose AIs shows first steps for Big AI to comply | TechCrunch](https://techcrunch.com/2024/11/14/eu-ai-act-draft-guidance-for-general-purpose-ais-shows-first-steps-for-big-ai-to-comply/) 
 * [OpenAI wins first round against Raw Story and AlterNet copyright case](https://www.engadget.com/ai/openai-wins-first-round-against-raw-story-and-alternet-copyright-case-130027681.html) 
 * [[2410.07959] COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act](https://arxiv.org/abs/2410.07959)
     * [https://compl-ai.org/interpretation](https://compl-ai.org/interpretation) 
