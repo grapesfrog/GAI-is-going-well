@@ -10,6 +10,9 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [Google's AI bug hunters sniff out two dozen-plus code flaws • The Register](https://www.theregister.com/2024/11/20/google_ossfuzz/) 
+* [About The Glaze Project](https://glaze.cs.uchicago.edu/aboutus.html) 
+* [[2403.04783] AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/abs/2403.04783) 
 * [O2 unveils Daisy, the AI granny wasting scammers’ time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/) 
 * [LLM Guard](https://llm-guard.com/)
 * [Promptfoo](https://www.promptfoo.dev/) 

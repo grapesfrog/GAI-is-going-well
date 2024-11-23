@@ -10,6 +10,12 @@
 
 ## In the wild {#in-the-wild}
 
+* [Inside the Booming 'AI Pimping' Industry](https://www.404media.co/inside-the-booming-ai-pimping-industry-3/) 
+* [US Military Tests AI-Powered Machine Gun](https://futurism.com/the-byte/us-military-tests-ai-powered-machine-gun) 
+* [Sir David Attenborough displeased by AI clones of his voice](https://boingboing.net/2024/11/19/sir-david-attenborough-displeased-by-ai-clones-of-his-voice.html) 
+* [Parents Furious as School Accused of Covering Up AI-Generated Nudes of Students](https://futurism.com/the-byte/parents-furious-school-accused-covering-up-ai-generated-nudes) 
+* [AI-Powered Buzzfeed Ads Suggest You Buy Hat of Man Who Died by Suicide](https://www.404media.co/ai-powered-buzzfeed-ads-suggest-you-buy-hat-of-man-who-died-by-suicide/) 
+* [Sam Altman Points Out That Elon Musk's "Anti-Woke" Grok AI Seems to Actually Support Kamala Harris](https://futurism.com/sam-altman-elon-musk-anti-woke-grok)
 * [Google Gemini tells grad student to 'please die' while helping with his homework](https://www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/) 
 * [The Top Image of William Shakespeare on Google is Lazy AI Slop](https://futurism.com/the-byte/top-image-william-shakespeare-google-ai-slop) 
 * [Coke's AI Commercial for the Holidays Has Us Wondering If We Live In a Fallen World](https://futurism.com/the-byte/coke-hideous-ai-commercial) 

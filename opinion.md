@@ -10,6 +10,17 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [[2411.12275] Building Trust: Foundations of Security, Safety and Transparency in AI](https://arxiv.org/abs/2411.12275) 
+* [2024: The State of Generative AI in the Enterprise - Menlo Ventures](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/) 
+* [AI-generated shows could replace lost DVD revenue, Ben Affleck says](https://arstechnica.com/ai/2024/11/ben-affleck-warns-that-visual-effects-industry-faces-ai-disruption/) 
+* [Security Concerns Loom as GenAI Adoption Grows in DevOps](https://devops.com/security-concerns-loom-as-genai-adoption-grows-in-devops/) 
+* [Whether AI Is Already Conscious Could Tear Society Apart](https://futurism.com/the-byte/ai-consciousness-society-rift) 
+* [Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents](https://arxiv.org/abs/2411.09523v1) 
+* [AI is hitting a wall just as the hype around it reaches the stratosphere](https://amp.cnn.com/cnn/2024/11/19/business/ai-chatgpt-nvidia-nightcap) 
+* [OpenAI Describes Artists' Use of Glaze & Nightshade as "Abuse"](https://80.lv/articles/openai-describes-artists-use-of-glaze-nightshade-as-abuse) 
+* [[2409.14160] Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI](https://arxiv.org/abs/2409.14160) 
+* [AI poetry out-humans humans as readers prefer bots to bards • The Register](https://www.theregister.com/2024/11/17/ai_poetry_study/) 
+*   [Kili Technology LLM Benchmark](https://llmbenchmark.kili-technology.com/)
 * [Why LLMs Within Software Development May Be a Dead End - The New Stack](https://thenewstack.io/why-llms-within-software-development-may-be-a-dead-end/) 
 * [[2411.07494] Rapid Response: Mitigating LLM Jailbreaks with a Few Examples](https://arxiv.org/abs/2411.07494) 
 * [https://info.deeplearning.ai/llama-on-the-battlefield-mixture-of-experts-pulls-ahead-open-agentic-platform-voter-support-chatbot-1](https://info.deeplearning.ai/llama-on-the-battlefield-mixture-of-experts-pulls-ahead-open-agentic-platform-voter-support-chatbot-1)
