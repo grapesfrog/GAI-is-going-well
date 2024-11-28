@@ -10,6 +10,14 @@
 
 ## In the wild {#in-the-wild}
 
+* [Half of LinkedIn thought leaders are writing content with AI](https://www.theregister.com/2024/11/28/linkedin_ai_posts/)
+* [Bluesky's open API means anyone can scrape your data for AI training | TechCrunch](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/) 
+* [OpenAI's Super-Powerful "Sora" AI Video Generator Appears to Have Leaked](https://futurism.com/the-byte/openai-sora-leak)
+* [Users Furious as Character.AI Deletes Countless Beloved "Harry Potter" Chatbots](https://futurism.com/character-ai-deletes-harry-potter-chatbots) 
+* [Meet Emma: The German AI Travel Influencer Stirring Controversy](https://www.eweek.com/news/ai-travel-influencer-disrupts-german-tourism/) 
+* [How the far right is weaponising AI-generated content in Europe | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/nov/26/far-right-weaponising-ai-generated-content-europe) 
+* [Lawyer Submits Anti-AI Document That Appears to Have Been Created Using AI](https://futurism.com/the-byte/lawyer-submits-anti-ai-document) 
+* [Parents Sue School for Punishing Their Son for Copy-Pasting AI Homework, Get Rude Wakeup Call](https://futurism.com/the-byte/parents-sue-school-ai-homework)
 * [Inside the Booming 'AI Pimping' Industry](https://www.404media.co/inside-the-booming-ai-pimping-industry-3/) 
 * [US Military Tests AI-Powered Machine Gun](https://futurism.com/the-byte/us-military-tests-ai-powered-machine-gun) 
 * [Sir David Attenborough displeased by AI clones of his voice](https://boingboing.net/2024/11/19/sir-david-attenborough-displeased-by-ai-clones-of-his-voice.html) 

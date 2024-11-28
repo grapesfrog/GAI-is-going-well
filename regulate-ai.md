@@ -10,6 +10,10 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [ISO/IEC 42001:2023 - AI management systems](https://www.iso.org/standard/81230.html) 
+* [OpenAI blamed NYT for tech problem erasing evidence of copyright abuse - Ars Technica](https://arstechnica.com/tech-policy/2024/11/tech-problems-plague-openai-court-battles-judge-rejects-a-key-fair-use-defense/) 
+* [Why the US Patent Office Banned Generative AI Tools for Staff](https://www.eweek.com/news/us-patent-office-bans-generative-ai-tools/) 
+* [OpenAI's Copyright Violation Lawsuit: What You Need to Know About ANI's Claims](https://www.eweek.com/news/openai-faces-copyright-lawsuit-from-ani/)
 * [DHS Issues Guidance on Adopting AI in Critical Infrastructure](https://www.govtech.com/artificial-intelligence/dhs-issues-guidance-on-adopting-ai-in-critical-infrastructure) 
 * [The suddenly hot Bluesky says it won’t train AI on your posts](https://www.engadget.com/social-media/the-suddenly-hot-bluesky-says-it-wont-train-ai-on-your-posts-220034195.html) 
 * [EU AI Act: Draft guidance for general purpose AIs shows first steps for Big AI to comply | TechCrunch](https://techcrunch.com/2024/11/14/eu-ai-act-draft-guidance-for-general-purpose-ais-shows-first-steps-for-big-ai-to-comply/) 

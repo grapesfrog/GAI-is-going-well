@@ -10,6 +10,7 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [Advancing red teaming with people and AI | OpenAI](https://openai.com/index/advancing-red-teaming-with-people-and-ai/) 
 * [Google's AI bug hunters sniff out two dozen-plus code flaws • The Register](https://www.theregister.com/2024/11/20/google_ossfuzz/) 
 * [About The Glaze Project](https://glaze.cs.uchicago.edu/aboutus.html) 
 * [[2403.04783] AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/abs/2403.04783) 

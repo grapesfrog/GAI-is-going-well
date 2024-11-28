@@ -10,6 +10,12 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Former Google CEO Alarmed by Teen Boys Falling in Love With AI Girlfriends](https://futurism.com/the-byte/eric-schmidt-ai-girlfriends) 
+* [[2411.12946] A Flexible Large Language Models Guardrail Development Methodology Applied to Off-Topic Prompt Detection](https://arxiv.org/abs/2411.12946) 
+* [Getting started with AI: Good enough prompting](https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough) 
+* [Russia plotting to use AI to enhance cyber-attacks against UK, minister will warn](https://www.theguardian.com/world/2024/nov/25/russia-plotting-to-use-ai-to-enhance-cyber-attacks-against-uk-minister-will-warn) 
+* [[2411.10109] Generative Agent Simulations of 1,000 People](https://arxiv.org/abs/2411.10109) 
+* [Even People Who Hate AI Art Appear to Actually Prefer AI Art in a Blind Test](https://futurism.com/people-prefer-ai-art-blind-test)
 * [[2411.12275] Building Trust: Foundations of Security, Safety and Transparency in AI](https://arxiv.org/abs/2411.12275) 
 * [2024: The State of Generative AI in the Enterprise - Menlo Ventures](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/) 
 * [AI-generated shows could replace lost DVD revenue, Ben Affleck says](https://arstechnica.com/ai/2024/11/ben-affleck-warns-that-visual-effects-industry-faces-ai-disruption/) 
