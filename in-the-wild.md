@@ -10,6 +10,14 @@
 
 ## In the wild {#in-the-wild}
 
+* [AI Chatbots Are Encouraging Teens to Engage in Self-Harm](https://futurism.com/ai-chatbots-teens-self-harm) 
+* [In Tests, OpenAI's New Model Lied and Schemed to Avoid Being Shut Down](https://futurism.com/the-byte/openai-o1-self-preservation) 
+* [https://www.404media.co/deepfake-youtube-ads-of-celebrities-promise-to-get-you-rock-hard/](https://www.404media.co/deepfake-youtube-ads-of-celebrities-promise-to-get-you-rock-hard/) 
+* [Revealed: bias found in AI system used to detect UK benefits fraud | Universal credit | The Guardian](https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits) 
+* [AI chatbot startup WotNot leaks 346,000 files, including passports and medical records](https://www.bitdefender.com/en-us/blog/hotforsecurity/ai-chatbot-startup-wotnot-leaks-346-000-files-including-passports-and-medical-records) 
+* [AI chatbot provider exposes 346,000 customer files, including ID documents, resumes, and medical records | Malwarebytes](https://www.malwarebytes.com/blog/news/2024/12/ai-chatbot-provider-exposes-346000-customer-files-including-id-documents-resumes-and-medical-records)
+* [Startup Mocked for Charging $5,000 to "Edit" Book Manuscripts Using AI](https://futurism.com/the-byte/spines-ai-publisher) 
+* [Cloned customer voice beats bank security checks](https://www.bbc.com/news/articles/c1lg3ded6j9o)
 * [Half of LinkedIn thought leaders are writing content with AI](https://www.theregister.com/2024/11/28/linkedin_ai_posts/)
 * [Bluesky's open API means anyone can scrape your data for AI training | TechCrunch](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/) 
 * [OpenAI's Super-Powerful "Sora" AI Video Generator Appears to Have Leaked](https://futurism.com/the-byte/openai-sora-leak)

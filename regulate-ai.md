@@ -10,6 +10,13 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [Trump Set To Loosen AI Regulations](https://www.eweek.com/news/trump-ai-policy-impact/) 
+* [Your AI clone could target your family, but there’s a simple defense - Ars Technica](https://arstechnica.com/ai/2024/12/your-ai-clone-could-target-your-family-but-theres-a-simple-defense/) 
+* [Humanity May Reach Singularity Within Just 6 Years, Trend Shows](https://www.popularmechanics.com/technology/robots/a63057078/when-the-singularity-will-happen/) 
+* [When Prompt Injections Attack: Bing and AI Vulnerabilities - The New Stack](https://thenewstack.io/when-prompt-injections-attack-bing-and-ai-vulnerabilities/) 
+* [Denmark AI Framework Gains Microsoft Backing for EU Compliance](https://www.eweek.com/news/denmark-ai-framework-microsoft-eu-compliance/) 
+* [Canadian media companies sue OpenAI in case potentially worth billions | Canada | The Guardian](https://www.theguardian.com/world/2024/nov/29/canada-media-companies-sue-openai-chatgpt) 
+* [3 New Rules to Block AI Bots from Invading Your Websites](https://www.eweek.com/news/rules-block-ai-training-bots/)
 * [ISO/IEC 42001:2023 - AI management systems](https://www.iso.org/standard/81230.html) 
 * [OpenAI blamed NYT for tech problem erasing evidence of copyright abuse - Ars Technica](https://arstechnica.com/tech-policy/2024/11/tech-problems-plague-openai-court-battles-judge-rejects-a-key-fair-use-defense/) 
 * [Why the US Patent Office Banned Generative AI Tools for Staff](https://www.eweek.com/news/us-patent-office-bans-generative-ai-tools/) 
