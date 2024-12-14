@@ -10,6 +10,14 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [Don't wait for US state ruling on AI to act – policy wonk • The Register](https://www.theregister.com/2024/12/13/nist_framework_for_ai_presents/) 
+* [OpenAI just dropped new Elon Musk receipts: ‘You can’t sue your way to AGI’ - The Verge](https://www.theverge.com/2024/12/13/24320632/openai-elon-musk-lawsuit-sam-altman) 
+* [Meta asks the government to block OpenAI’s switch to a for-profit](https://www.theverge.com/2024/12/13/24320880/meta-california-ag-letter-openai-non-profit-elon-musk) 
+* [Speed up plans to criminalise deepfake abuse, ministers told](https://www.bbc.com/news/articles/cq629lyvj40o) 
+* [Kate Bush joins campaign against AI using artists’ work without permission | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/dec/12/kate-bush-joins-campaign-against-ai-using-artists-work-without-permission) 
+* [Statement on AI training](https://www.aitrainingstatement.org/) 
+* [LinkedIn Co-Founder Challenges Musk's Impartiality in AI Policy Making](https://www.eweek.com/news/linkedin-cofounder-challenges-musk-ai-policy-impartiality/) 
+* [Google-Backed AI Startup Tested Dangerous Chatbots on Children, Lawsuit Alleges](https://futurism.com/google-character-ai-children-lawsuit)
 * [ISO/IEC 42001:2023 - AI management systems](https://www.iso.org/standard/81230.html) 
 * [OpenAI blamed NYT for tech problem erasing evidence of copyright abuse - Ars Technica](https://arstechnica.com/tech-policy/2024/11/tech-problems-plague-openai-court-battles-judge-rejects-a-key-fair-use-defense/) 
 * [Why the US Patent Office Banned Generative AI Tools for Staff](https://www.eweek.com/news/us-patent-office-bans-generative-ai-tools/) 

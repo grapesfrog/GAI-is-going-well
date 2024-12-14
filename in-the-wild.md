@@ -10,6 +10,22 @@
 
 ## In the wild {#in-the-wild}
 
+* [Companion Chatbot App Makes Its AI's Personalities Horrible, Saying It Engages Users More Effectively](https://futurism.com/ai-companion-bad-personality)
+* [Controversial Chatbot Company Character.AI Appears to Have Accidentally Let Users See Each Others' Chat Histories](https://futurism.com/chatbot-character-ai-chat-histories) 
+* [BBC complains to Apple over misleading shooting headline](https://www.bbc.com/news/articles/cd0elzk24dno) 
+* [OpenAI’s Super-Hyped Sora Goes Absolutely Freakshow If You Ask It to Generate Gymnastics Videos](https://futurism.com/openai-sora-gymnastics-videos) 
+* [ACLU condemns police use of AI to draft reports • The Register](https://www.theregister.com/2024/12/12/aclu_ai_police_report/) 
+* [Google-Backed AI Startup Announces Plans to Stop Grooming Teenagers](https://futurism.com/character-ai-plans-teens) 
+* [YouTube “Enhances” Comment Section With AI-Generated Nonsense](https://www.404media.co/youtube-enhances-comment-section-with-ai-generated-nonsense/) 
+* [Losing our voice? Fears AI tone-shifting tech could flatten communication | Social trends | The Guardian](https://www.theguardian.com/society/2024/dec/11/ai-tone-shifting-tech-could-flatten-communication-apple-intelligence) 
+* [ElevenLabs' AI voice generation 'very likely' used in a Russian influence operation | TechCrunch](https://techcrunch.com/2024/12/10/elevenlabs-ai-voice-generation-very-likely-used-in-a-russian-influence-operation) 
+* [AI slop is already invading Oregon’s local journalism](https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland) 
+* [AI is booming on the App Store, and developers are taking advantage of it - The Verge](https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography) 
+* [Open source projects drown in bad bug reports penned by AI • The Register](https://www.theregister.com/2024/12/10/ai_slop_bug_reports/) 
+* [If you can make this AI bot fall in love, you could win thousands of dollars | TechCrunch](https://techcrunch.com/2024/12/06/if-you-can-make-this-ai-bot-fall-in-love-you-could-win-thousands-of-dollars/) 
+* [https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/](https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/) 
+* [Warning! Fake AI Video Generators Are Targeting Your Windows and MacOS](https://www.eweek.com/news/fake-ai-video-generators-hiding-malware/) 
+* [‘AI Jesus’ Art Installation Interacts with 1,000 Visitors at Switzerland’s Oldest Catholic Chapel](https://www.eweek.com/news/ai-jesus-art-installation-draws-thousands/) 
 * [Half of LinkedIn thought leaders are writing content with AI](https://www.theregister.com/2024/11/28/linkedin_ai_posts/)
 * [Bluesky's open API means anyone can scrape your data for AI training | TechCrunch](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/) 
 * [OpenAI's Super-Powerful "Sora" AI Video Generator Appears to Have Leaked](https://futurism.com/the-byte/openai-sora-leak)

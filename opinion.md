@@ -10,6 +10,12 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [The Guardian view on AI’s power, limits, and risks: it may require rethinking the technology | Artificial intelligence (AI)](https://www.theguardian.com/technology/2024/dec/13/the-guardian-view-on-ais-power-limits-and-risks-it-may-require-rethinking-the-technology) 
+* [Who and What comprise AI Skepticism? - by Benjamin Riley](https://buildcognitiveresonance.substack.com/p/who-and-what-comprises-ai-skepticism) 
+* [AI Dangers: Scientists Warn A Fukushima-Level AI Disaster Is Near](https://www.eweek.com/news/scientists-warn-ai-fukishisma-disaster/) 
+* [Building Confidence: A Case Study in How to Create Confidence Scores for GenAI Applications - Spotify Engineering](https://engineering.atspotify.com/2024/12/building-confidence-a-case-study-in-how-to-create-confidence-scores-for-genai-applications/) 
+* [Can AI Be Trusted? 7% Rise In AI Optimism Challenges Traditional Skepticism](https://www.eweek.com/news/can-ai-be-trusted-ethics-governance/) 
+* [Literary World Divided As Simon & Schuster's Dutch Arm Spends Millions on AI Translation for Up to 10 Book Titles](https://www.eweek.com/news/dutch-publisher-bets-millions-on-ai-translation/) 
 * [Former Google CEO Alarmed by Teen Boys Falling in Love With AI Girlfriends](https://futurism.com/the-byte/eric-schmidt-ai-girlfriends) 
 * [[2411.12946] A Flexible Large Language Models Guardrail Development Methodology Applied to Off-Topic Prompt Detection](https://arxiv.org/abs/2411.12946) 
 * [Getting started with AI: Good enough prompting](https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough) 

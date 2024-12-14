@@ -10,6 +10,8 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [[2412.07724] Granite Guardian](https://arxiv.org/abs/2412.07724)
+* [Meta debuts a tool for watermarking AI-generated videos | TechCrunch](https://techcrunch.com/2024/12/12/meta-releases-a-tool-for-watermarking-ai-generated-videos/)
 * [Advancing red teaming with people and AI | OpenAI](https://openai.com/index/advancing-red-teaming-with-people-and-ai/) 
 * [Google's AI bug hunters sniff out two dozen-plus code flaws • The Register](https://www.theregister.com/2024/11/20/google_ossfuzz/) 
 * [About The Glaze Project](https://glaze.cs.uchicago.edu/aboutus.html) 
