@@ -10,6 +10,10 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) 
+* [[2412.03556] Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556) 
+* [Boffins interrogate AI model to make it reveal itself](https://www.theregister.com/2024/12/18/ai_model_reveal_itself/) 
+* [AI-Powered (Finance) Scholarship](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060022) 
 * [Security ProbLLMs in xAI's Grok: A Deep Dive](https://embracethered.com/blog/posts/2024/security-probllms-in-xai-grok/) 
 * [[2412.09910] Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images](https://arxiv.org/abs/2412.09910) 
 * [When does generative AI qualify for fair use? - Suchir Balaji](https://suchir.net/fair_use.html) 

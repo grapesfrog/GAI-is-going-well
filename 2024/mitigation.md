@@ -10,6 +10,10 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [Video Seal: Open and Efficient Video Watermarking | Research - AI at Meta](https://ai.meta.com/research/publications/video-seal-open-and-efficient-video-watermarking/) 
+* [FACTS Grounding: A new benchmark for evaluating the factuality of large language models - Google DeepMind](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/)
+* [LLMRisks Archive - OWASP Top 10 for LLM & Generative AI Security](https://genai.owasp.org/llm-top-10/) 
+* [YouTube says that soon, its tech will be able to find AI copies of celebs and creators - The Verge](https://www.theverge.com/2024/12/17/24323558/youtube-detect-remove-creators-ai-likeness)
 * [Sandboxing Agentic AI Workflows with WebAssembly | NVIDIA Technical Blog](https://developer.nvidia.com/blog/sandboxing-agentic-ai-workflows-with-webassembly/)
 * [Announcing the OWASP LLM and Gen AI Security Project Initiative for Securing Agentic Applications](https://genai.owasp.org/2024/12/15/announcing-the-owasp-llm-and-gen-ai-security-project-initiative-for-securing-agentic-applications/)
 * [We Need Your Email Address](https://www.404media.co/why-404-media-needs-your-email-address/)

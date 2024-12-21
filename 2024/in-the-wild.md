@@ -10,6 +10,12 @@
 
 ## In the wild {#in-the-wild}
 
+* [We Regret to Bring You This Audio of Two Google AIs Having EXTREMELY Explicit Cybersex](https://futurism.com/google-ai-notebook-lm-cybersex) 
+* [Apple urged to scrap AI feature after it creates false headline - BBC News](https://www.bbc.co.uk/news/articles/cx2v778x85yo)
+* [Romance scam: I was duped out of £17k by deepfake videos - BBC News](https://www.bbc.co.uk/news/articles/cdr0g1em52go)
+* [Amazon-hosted AI tool for UK military recruitment ‘carries risk of data breach’ | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/dec/17/amazon-hosted-ai-tool-for-uk-military-recruitment-carries-risk-of-data-breach) 
+* [Microsoft's AI "Recall" Feature Caught Screenshotting Your Social Security Number](https://futurism.com/the-byte/microsoft-ai-recall-security) 
+* [A Google-Backed AI Startup Is Hosting Chatbots Modeled After Real-Life School Shooters — and Their Victims](https://futurism.com/character-ai-school-shooters-victims) 
 * [Humans Alarmed at AI Company's "Stop Hiring Humans" Billboards](https://futurism.com/the-byte/stop-hiring-humans-ad) 
 * [UnitedHealth Accidentally Makes Claims-Judging AI Public for Anyone to Use](https://futurism.com/the-byte/unitedhealth-claims-ai-chatbot) 
 * [New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide](https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html?m=1) 
