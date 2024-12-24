@@ -10,6 +10,9 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Beware Of Shadow AI – Shadow IT's Less Well-Known Brother - SecurityWeek](https://www.securityweek.com/beware-of-shadow-ai-shadow-its-less-well-known-brother/)
+* [AI-Generated Code Requires a ‘Trust and Verify’ Approach - The New Stack](https://thenewstack.io/ai-generated-code-requires-a-trust-and-verify-approach/)
+* [Aging AI Chatbots Show Signs of Cognitive Decline in Dementia Test](https://futurism.com/the-byte/chatbots-cognitive-decline-dementia)
 * [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking) 
 * [[2412.03556] Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556) 
 * [Boffins interrogate AI model to make it reveal itself](https://www.theregister.com/2024/12/18/ai_model_reveal_itself/) 

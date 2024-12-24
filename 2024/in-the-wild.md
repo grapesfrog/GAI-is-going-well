@@ -10,6 +10,9 @@
 
 ## In the wild {#in-the-wild}
 
+* [ChatGPT search tool vulnerable to manipulation and deception, tests show](https://www.theguardian.com/technology/2024/dec/24/chatgpt-search-tool-vulnerable-to-manipulation-and-deception-tests-show) 
+* [With Utter Self-Seriousness, Maker of Oreos Admits It's Using AI To Create New Flavors, Even Though Machines Cannot Taste](https://futurism.com/the-byte/oreo-manufacturer-ai-flavors)
+* [Asked to Write a Screenplay, ChatGPT Started Procrastinating and Making Excuses](https://futurism.com/screenplay-chatgpt-procrastinated)
 * [We Regret to Bring You This Audio of Two Google AIs Having EXTREMELY Explicit Cybersex](https://futurism.com/google-ai-notebook-lm-cybersex) 
 * [Apple urged to scrap AI feature after it creates false headline - BBC News](https://www.bbc.co.uk/news/articles/cx2v778x85yo)
 * [Romance scam: I was duped out of £17k by deepfake videos - BBC News](https://www.bbc.co.uk/news/articles/cdr0g1em52go)

@@ -10,6 +10,7 @@
 
 ## Regulating AI / Advisories {#regulating-ai-advisories}
 
+* [Italy Fines OpenAI €15 Million for ChatGPT GDPR Data Privacy Violations](https://thehackernews.com/2024/12/italy-fines-openai-15-million-for.html?m=1)
 * [UK Government consults on legal framework for AI and copyright | TechMarketView](https://www.techmarketview.com/ukhotviews/archive/2024/12/18/uk-government-consults-on-legal-framework-for-ai-and-copyright) 
 * [UK proposes letting tech firms use copyrighted work to train AI | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/dec/17/uk-proposes-letting-tech-firms-use-copyrighted-work-to-train-ai)
 * [Internet Crime Complaint Center (IC3) | Criminals Use Generative Artificial Intelligence to Facilitate Financial Fraud](https://www.ic3.gov/PSA/2024/PSA241203)

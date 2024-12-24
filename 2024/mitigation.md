@@ -10,6 +10,7 @@
 
 ## Mitigations & tooling {#mitigations-&-tooling}
 
+* [OpenAI Researchers Propose Comprehensive Set of Practices for Enhancing Safety, Accountability, and Efficiency in Agentic AI Systems - MarkTechPost](https://www.marktechpost.com/2024/12/21/openai-researchers-propose-comprehensive-set-of-practices-for-enhancing-safety-accountability-and-efficiency-in-agentic-ai-systems/)
 * [Video Seal: Open and Efficient Video Watermarking | Research - AI at Meta](https://ai.meta.com/research/publications/video-seal-open-and-efficient-video-watermarking/) 
 * [FACTS Grounding: A new benchmark for evaluating the factuality of large language models - Google DeepMind](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/)
 * [LLMRisks Archive - OWASP Top 10 for LLM & Generative AI Security](https://genai.owasp.org/llm-top-10/) 
