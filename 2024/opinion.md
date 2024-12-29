@@ -10,6 +10,9 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [‘Godfather of AI’ shortens odds of the technology wiping out humanity over next 30 years | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years) 
+* [Letting Language Models Write my Website](https://nicholas.carlini.com/writing/2025/llms-write-my-bio.html) 
+* [[2412.14470] Agent-SafetyBench: Evaluating the Safety of LLM Agents](https://arxiv.org/abs/2412.14470) 
 * [Beware Of Shadow AI – Shadow IT's Less Well-Known Brother - SecurityWeek](https://www.securityweek.com/beware-of-shadow-ai-shadow-its-less-well-known-brother/)
 * [AI-Generated Code Requires a ‘Trust and Verify’ Approach - The New Stack](https://thenewstack.io/ai-generated-code-requires-a-trust-and-verify-approach/)
 * [Aging AI Chatbots Show Signs of Cognitive Decline in Dementia Test](https://futurism.com/the-byte/chatbots-cognitive-decline-dementia)

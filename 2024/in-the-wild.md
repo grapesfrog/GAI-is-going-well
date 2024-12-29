@@ -10,6 +10,10 @@
 
 ## In the wild {#in-the-wild}
 
+* [Google search hallucinates Encanto 2](https://simonwillison.net/2024/Dec/29/encanto-2/) 
+* [An AI-generated Beatles album I will actually listen to: "Rubber Soul, but it's Motown"](https://boingboing.net/2024/12/27/an-ai-generated-beatles-album-i-will-actually-listen-to-rubber-soul-but-its-motown.html) ( Is this good or bad or what?  So including it as it's kinda  whack )
+* [AI-Generated Book Grifters Threaten The Future of Lace-Making](https://www.404media.co/bobbin-tatting-lace-ai-generated-books/)  
+* [Stupidly Easy Hack Can Jailbreak Even the Most Advanced AI Chatbots](https://futurism.com/the-byte/easy-hack-jailbreak-ai-chatbot) 
 * [ChatGPT search tool vulnerable to manipulation and deception, tests show](https://www.theguardian.com/technology/2024/dec/24/chatgpt-search-tool-vulnerable-to-manipulation-and-deception-tests-show) 
 * [With Utter Self-Seriousness, Maker of Oreos Admits It's Using AI To Create New Flavors, Even Though Machines Cannot Taste](https://futurism.com/the-byte/oreo-manufacturer-ai-flavors)
 * [Asked to Write a Screenplay, ChatGPT Started Procrastinating and Making Excuses](https://futurism.com/screenplay-chatgpt-procrastinated)
