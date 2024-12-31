@@ -10,6 +10,10 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [AI tools may soon manipulate people’s online decision-making, say researchers | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/dec/30/ai-tools-may-soon-manipulate-peoples-online-decision-making-say-researchers) 
+* [LLMs could soon supercharge supply-chain attacks • The Register](https://www.theregister.com/2024/12/29/llm_supply_chain_attacks/) 
+* [[2412.06966] Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy, Research, and Practice](https://arxiv.org/abs/2412.06966) 
+* [Building effective agents \ Anthropic](https://www.anthropic.com/research/building-effective-agents)  (One of the better papers on agents so slipped a link in here as a 2024 bonus)
 * [‘Godfather of AI’ shortens odds of the technology wiping out humanity over next 30 years | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years) 
 * [Letting Language Models Write my Website](https://nicholas.carlini.com/writing/2025/llms-write-my-bio.html) 
 * [[2412.14470] Agent-SafetyBench: Evaluating the Safety of LLM Agents](https://arxiv.org/abs/2412.14470) 
