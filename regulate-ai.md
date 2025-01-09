@@ -12,5 +12,6 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
 
+* [UK promises law against sexually explicit deepfakes • The Register](https://www.theregister.com/2025/01/09/uk_government_promises_law_against_deepfake_smut/) 
 * [Anthropic reaches deal with music publishers over lyric dispute - The Verge](https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal) 
 * [Iranian and Russian Entities Sanctioned for Election Interference Using AI and Cyber Tactics](https://thehackernews.com/2025/01/iranian-and-russian-entities-sanctioned.html?m=1) 
