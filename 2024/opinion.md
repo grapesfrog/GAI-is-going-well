@@ -10,6 +10,7 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [Safeguarding System Prompts for LLMs](https://arxiv.org/abs/2412.13426v2)
 * [[2501.00192] MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/abs/2501.00192)
 * [The AI Software Supply Chain Is A Dumpster Fire: Here's What Companies Can Do About It](https://www.forbes.com/councils/forbestechcouncil/2024/12/19/the-ai-software-supply-chain-is-a-dumpster-fire-heres-what-companies-can-do-about-it/) 
 * [AI tools may soon manipulate people’s online decision-making, say researchers | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2024/dec/30/ai-tools-may-soon-manipulate-peoples-online-decision-making-say-researchers) 
