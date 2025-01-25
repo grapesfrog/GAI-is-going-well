@@ -12,6 +12,15 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/in-the-wild.md#in-the-wild-in-the-wild)
 
+* [The "First AI Software Engineer" Is Bungling the Vast Majority of Tasks It's Asked to Do](https://futurism.com/first-ai-software-engineer-devin-bungling-tasks) 
+* [Trump Says AI Is So Important He'll Build New Power Plants Attached to Datacenters](https://futurism.com/the-byte/trump-ai-datacenter-plants) 
+* [The Onion Deletes Image From Article After Realizing It Was AI-Generated](https://futurism.com/the-onion-deletes-article-image-ai-generated) 
+* [School's $1 Million AI Gun Detection System Fails to Detect Weapon Before Fatal School Shooting](https://futurism.com/the-byte/school-shooting-ai-gun-detection-failure) 
+* [Elon Musk's Grok AI Analyzes His Nazi Salute](https://futurism.com/the-byte/elon-musks-grok-salute) 
+* [The CIA Is Quietly Using AI to Build Emulated Versions of World Leaders](https://futurism.com/the-byte/cia-ai-chatbots-leaders) 
+* [AI tool GeoSpy analyzes images and identifies locations in seconds | Malwarebytes](https://www.malwarebytes.com/blog/news/2025/01/ai-tool-geospy-analyzes-images-and-identifies-locations-in-seconds) 
+* [Trump Admin Accused of Using AI to Draft Executive Orders](https://futurism.com/trump-admin-accused-ai-executive-orders) 
+* [ChatGPT crawler flaw opens door to DDoS, prompt injection • The Register](https://www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/)
 * [Schools Using AI Emulation of Anne Frank That Urges Kids Not to Blame Anyone for Holocaust](https://futurism.com/the-byte/ai-anne-frank-blame-holocaust) 
 * [Under new law, cops bust famous cartoonist for AI-generated child sex abuse images - Ars Technica](https://arstechnica.com/tech-policy/2025/01/under-new-law-cops-bust-famous-cartoonist-for-ai-generated-child-sex-abuse-images/) 
 * [Woman Turns to Chatbot for AI Relationship: “I’m In Love” | eWEEK](https://www.eweek.com/cloud/woman-in-relationship-with-chatbot/) 
