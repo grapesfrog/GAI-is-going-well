@@ -12,6 +12,10 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
 
+* [A Mother Says an AI Startup's Chatbot Drove Her Son to Suicide. Its Response: the First Amendment Protects "Speech Allegedly Resulting in Suicide"](https://futurism.com/character-ai-suicide-free-speech) 
+* [‘Severe’ bug in ChatGPT’s API could be used to DDoS websites | CyberScoop](https://cyberscoop.com/ddos-openai-chatgpt-api-vulnerability-microsoft/) 
+* [A Key Trump Goal Emerges: Replacing Human Jobs With AI](https://futurism.com/the-byte/trump-goal-replacing-jobs-with-ai) 
+* [New Law Would Allow AI to Replace Your Doctor, Prescribe Drugs](https://futurism.com/neoscope/new-law-ai-replace-doctor-prescribe-drugs) 
 * [LinkedIn sued for allegedly training AI on private messages • The Register](https://www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/) 
 * [Trump Signs Executive Order Banning Woke AI](https://futurism.com/the-byte/trump-executive-order-woke-ai) 
 * [Paul McCartney: Don't let AI rip off artists](https://www.bbc.com/news/articles/c8xqv9g8442o) 

@@ -12,6 +12,9 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/in-the-wild.md#in-the-wild-in-the-wild)
 
+* [Meta's Llama Framework Flaw Exposes AI Systems to Remote Code Execution Risks](https://thehackernews.com/2025/01/metas-llama-framework-flaw-exposes-ai.html) 
+* [OpenAI's Agent Has a Problem: Before It Does Anything Important, You Have to Double-Check It Hasn't Screwed Up](https://futurism.com/openai-asks-permission-important) 
+* [Check Out This Giant AI-Powered "Spice Dispenser" for Dorks Too Timid to Properly Season Their Food](https://futurism.com/the-byte/ai-powered-spice-dispenser-dorks)
 * [The "First AI Software Engineer" Is Bungling the Vast Majority of Tasks It's Asked to Do](https://futurism.com/first-ai-software-engineer-devin-bungling-tasks) 
 * [Trump Says AI Is So Important He'll Build New Power Plants Attached to Datacenters](https://futurism.com/the-byte/trump-ai-datacenter-plants) 
 * [The Onion Deletes Image From Article After Realizing It Was AI-Generated](https://futurism.com/the-onion-deletes-article-image-ai-generated) 

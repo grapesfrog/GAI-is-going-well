@@ -12,6 +12,7 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* [Building AI Applications with Enterprise-Grade Security Using RAG and FGA](https://www.permit.blog/blog/building-ai-applications-with-enterprise-grade-security-using-fga-and-rag)
 * [ZADZMO code - tarpit intended to catch web crawlers aimed at LLM data scrapers](https://zadzmo.org/code/nepenthes/)  
 * [Trading inference-time compute for adversarial robustness | OpenAI](https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness/)
 * [Using NIM Guardrails To Keep Agentic AI From Jumping To Wrong Conclusions](https://www.nextplatform.com/2025/01/16/using-nim-guardrails-to-keep-agentic-ai-from-jumping-to-wrong-conclusions/) 

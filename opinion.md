@@ -12,6 +12,10 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/opinion.md#opinions--research--presentations-opinions-research--presentations)
 
+* [We Aren't Being Told the Real Extent of AI Datacenter Emissions](https://futurism.com/the-byte/not-being-told-datacenter-emissions) 
+* [Artificial Intelligence In Health And Health Care: Priorities For Action | Health Affairs](https://goo.gle/3CoOb2y) 
+* [Trading inference-time compute for adversarial robustness | OpenAI](https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness/) 
+* [There's Apparently a Huge Financial Problem With Trump's Massive AI Project](https://futurism.com/huge-financial-problem-trump-ai-stargate) 
 * [[2501.12206] Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model](https://arxiv.org/abs/2501.12206) 
 * [More AI, More Problems for Software Developers in 2025 - The New Stack](https://thenewstack.io/more-ai-more-problems-for-software-developers-in-2025/) 
 * [Cloud Deployment of AI Models Jumps, Says Data Science Study - The New Stack](https://thenewstack.io/cloud-deployment-of-ai-models-jumps-says-data-science-study/) 
