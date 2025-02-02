@@ -22,6 +22,7 @@
 * [OpenAI Strikes Deal With US Government to Use Its AI for Nuclear Weapon Security](https://futurism.com/openai-signs-deal-us-government-nuclear-weapon-security) 
 * [The Manhattan Project Was Secret. Should America’s AI Work Be Too? - WSJ](https://www.wsj.com/tech/ai/the-manhattan-project-was-secret-should-americas-ai-work-be-too-5638be21?st=iepZkH&reflink=desktopwebshare_permalink) 
 * [UC Berkeley researchers claim to replicate DeepSeek AI for just $30](https://tribune.net.ph/amp/story/2025/01/31/uc-berkeley-researchers-claim-to-replicate-deepseek-ai-for-30) 
+* [DeepSeek stole our tech .... says Open AI](https://youtu.be/hpwoGjpYygI?si=2PzadCwUm1yYWw_P)
 * [Microsoft is forming a new unit to study AI's impacts | TechCrunch](https://techcrunch.com/2025/01/31/microsoft-is-forming-a-new-unit-to-study-ais-impacts/) 
 * [Oh, I’m sorry, tech bros – did DeepSeek copy your work? I can hardly imagine your distress | Marina Hyde | The Guardian](https://www.theguardian.com/commentisfree/2025/jan/31/tech-bros-deepseek-china-sam-altman-openai) 
 * [OpenAI Asking for Tens of Billions in New Investment to "Fund Its Money-Losing business Operations"](https://futurism.com/openai-asking-investment) 
