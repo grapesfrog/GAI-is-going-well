@@ -12,6 +12,13 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* [[2501.18492] GuardReasoner: Towards Reasoning-based LLM Safeguards](https://arxiv.org/abs/2501.18492) 
+* [Tools for Addressing Fairness and Bias in Multimodal AI - The New Stack](https://thenewstack.io/tools-for-addressing-fairness-and-bias-in-multimodal-ai/) 
+* [How one YouTuber is trying to poison the AI bots stealing her content - Ars Technica](https://arstechnica.com/ai/2025/01/how-one-youtuber-is-trying-to-poison-the-ai-bots-stealing-her-content/) 
+* [DeepSeek Debuts with 83 Percent ‘Fail Rate’ in NewsGuard’s Chatbot Red Team Audit](https://www.newsguardrealitycheck.com/p/deepseek-debuts-with-83-percent-fail) 
+* [How we estimate the risk from prompt injection attacks on AI systems](https://security.googleblog.com/2025/01/how-we-estimate-risk-from-prompt.html?m=1)
+* [The New Frontier of Security: Creating Safe and Secure AI Models](https://opensource.googleblog.com/2025/01/creating-safe-secure-ai-models.html?m=1)
+* [Endor Labs Adds Ability to Identify Open Source AI Models to SCA Tool - DevOps.com](https://devops.com/endor-labs-adds-ability-to-identify-open-source-ai-models-to-sca-tool/)
 * [Building AI Applications with Enterprise-Grade Security Using RAG and FGA](https://www.permit.blog/blog/building-ai-applications-with-enterprise-grade-security-using-fga-and-rag)
 * [ZADZMO code - tarpit intended to catch web crawlers aimed at LLM data scrapers](https://zadzmo.org/code/nepenthes/)  
 * [Trading inference-time compute for adversarial robustness | OpenAI](https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness/)

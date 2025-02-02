@@ -12,6 +12,18 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
 
+* [AI-generated child sex abuse images targeted with new laws](https://www.bbc.com/news/articles/c8d90qe4nylo) 
+* January had a focus on copyright and deepseek 
+* [Tech Execs Plead for Great Firewall of America to Protect Them Against Scary Chinese AI](https://futurism.com/the-byte/execs-plead-protection-scary-chinese-ai) 
+* [Texas Governor Orders Ban on DeepSeek, RedNote for Government Devices - SecurityWeek](https://www.securityweek.com/texas-governor-orders-ban-on-deepseek-rednote-for-government-devices/) 
+* [The Guardian view on AI and copyright law: big tech must pay | Editorial](https://www.theguardian.com/technology/2025/jan/31/the-guardian-view-on-ai-and-copyright-law-big-tech-must-pay) 
+* [Channel 4 may have violated Sexual Offences Act with deepfake video of Scarlett Johansson | Television | The Guardian](https://www.theguardian.com/tv-and-radio/2025/jan/31/channel-4-may-have-violated-sexual-offences-act-with-deepfake-video-of-scarlett-johansson) 
+* [Prompting AI doesn't get copyright in the output - Boing Boing](https://boingboing.net/2025/01/30/prompting-ai-doesnt-get-copyright-in-the-output.html) 
+* [Copyright Office suggests AI copyright debate was settled in 1965 - Ars Technica](https://arstechnica.com/tech-policy/2025/01/copyright-office-suggests-ai-copyright-debate-was-settled-in-1965/) 
+* [Baroness Kidron's speech regarding UK AI legislation](https://simonwillison.net/2025/Jan/29/baroness-kidron-speech/) 
+* [Adversarial Misuse of Generative AI | Google Cloud Blog](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai) 
+* [China's DeepSeek AI hit by information request from Italy's data protection watchdog](https://www.engadget.com/ai/chinas-deepseek-ai-hit-by-information-request-from-italys-data-protection-watchdog-133025226.html) 
+* [U.S. Navy bans use of DeepSeek due to 'security and ethical concerns'](https://www.cnbc.com/2025/01/28/us-navy-restricts-use-of-deepseek-ai-imperative-to-avoid-using.html) 
 * [A Mother Says an AI Startup's Chatbot Drove Her Son to Suicide. Its Response: the First Amendment Protects "Speech Allegedly Resulting in Suicide"](https://futurism.com/character-ai-suicide-free-speech) 
 * [‘Severe’ bug in ChatGPT’s API could be used to DDoS websites | CyberScoop](https://cyberscoop.com/ddos-openai-chatgpt-api-vulnerability-microsoft/) 
 * [A Key Trump Goal Emerges: Replacing Human Jobs With AI](https://futurism.com/the-byte/trump-goal-replacing-jobs-with-ai) 
