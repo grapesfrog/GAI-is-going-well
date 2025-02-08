@@ -12,6 +12,16 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
 
+* [Creators demand tech giants pay for AI training data • The Register](https://www.theregister.com/2025/02/07/ai_training_data_committee/) 
+* [“Torrenting from a corporate laptop doesn’t feel right”: Meta emails unsealed - Ars Technica](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/) 
+* [Taiwan Bans DeepSeek AI Over National Security Concerns, Citing Data Leakage Risks](https://thehackernews.com/2025/02/taiwan-bans-deepseek-ai-over-national.html?m=1) 
+* [Dutch privacy watchdog to launch investigation into China's DeepSeek AI | Reuters](https://www.reuters.com/technology/artificial-intelligence/dutch-privacy-watchdog-launch-investigation-into-chinas-deepseek-ai-2025-01-31/) 
+* [Trump, DeepSeek in focus as nations gather at Paris AI Summit | Reuters](https://www.reuters.com/technology/artificial-intelligence/trump-deepseek-focus-nations-gather-paris-ai-summit-2025-02-05/) 
+* [Australia bans DeepSeek on government devices over security risk](https://www.bbc.com/news/articles/c8d95v0nr1yo) 
+* [US senator calls for jail, fines for aiding Chinese AI • The Register](https://www.theregister.com/2025/02/03/us_senator_download_chinese_ai_model/) 
+* [Hawley Introduces Legislation to Decouple American AI Development from Communist China](https://www.hawley.senate.gov/hawley-introduces-legislation-to-decouple-american-ai-development-from-communist-china/) 
+* [AI systems with 'unacceptable risk' are now banned in the EU | TechCrunch](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/) 
+* [Article 5: Prohibited AI Practices | EU Artificial Intelligence Act](https://artificialintelligenceact.eu/article/5/) 
 * [AI-generated child sex abuse images targeted with new laws](https://www.bbc.com/news/articles/c8d90qe4nylo) 
 * January had a focus on copyright and deepseek 
 * [Tech Execs Plead for Great Firewall of America to Protect Them Against Scary Chinese AI](https://futurism.com/the-byte/execs-plead-protection-scary-chinese-ai) 

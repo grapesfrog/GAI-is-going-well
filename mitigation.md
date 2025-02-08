@@ -12,6 +12,14 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* [Microsoft Edge now has an AI-powered scareware blocker | The Verge](https://www.theverge.com/news/608123/microsoft-edge-scareware-blocker-feature) 
+* [Google Cloud Model Armor. To Secure Your Generative AI… | by Sascha Heyer](https://medium.com/google-cloud/google-cloud-model-armor-6242dbae90b8) 
+* [Fast-track generative AI security with Microsoft Purview](https://www.microsoft.com/en-us/security/blog/2025/01/27/fast-track-generative-ai-security-with-microsoft-purview/) 
+* [Google is adding AI watermarks to photos manipulated by Magic Editor | The Verge](https://www.theverge.com/news/607515/google-photossynthid-ai-watermarks-magic-editor) 
+    * [Google Photos brings SynthID to Reimagine in Magic Editor](https://blog.google/feed/synthid-reimagine-magic-editor/) 
+* [Google - Responsible AI: Our 2024 report and ongoing work](https://blog.google/technology/ai/responsible-ai-2024-report-ongoing-work/) 
+* [Authors Guild Launches "Human Authored" Certification to Preserve Authenticity in Literature](https://authorsguild.org/news/ag-launches-human-authored-certification-to-preserve-authenticity-in-literature/) 
+* [Anthropic Introduces Constitutional Classifiers: A Measured AI Approach to Defending Against Universal Jailbreaks - MarkTechPost](https://www.marktechpost.com/2025/02/03/anthropic-introduces-constitutional-classifiers-a-measured-ai-approach-to-defending-against-universal-jailbreaks/) 
 * [[2501.18492] GuardReasoner: Towards Reasoning-based LLM Safeguards](https://arxiv.org/abs/2501.18492) 
 * [Tools for Addressing Fairness and Bias in Multimodal AI - The New Stack](https://thenewstack.io/tools-for-addressing-fairness-and-bias-in-multimodal-ai/) 
 * [How one YouTuber is trying to poison the AI bots stealing her content - Ars Technica](https://arstechnica.com/ai/2025/01/how-one-youtuber-is-trying-to-poison-the-ai-bots-stealing-her-content/) 

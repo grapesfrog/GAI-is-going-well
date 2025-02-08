@@ -12,7 +12,18 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/in-the-wild.md#in-the-wild-in-the-wild)
 
-
+* [UAE, France to funnel up to €50B into a 1GW AI datacenter • The Register](https://www.theregister.com/2025/02/08/uae_france_dc_ai/) 
+* [Elon Musk's Henchmen Feeding Sensitive Government Data Into AI](https://futurism.com/the-byte/elon-musk-doge-data-ai) 
+* [DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers - Ars Technica](https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/) 
+* [20 Million OpenAI accounts offered for sale | Malwarebytes](https://www.malwarebytes.com/blog/news/2025/02/20-million-openai-accounts-offered-for-sale) 
+* [Google's AI-generated Super Bowl ad is no gouda, and gets a secret re-edit](https://boingboing.net/2025/02/07/googles-ai-generated-super-bowl-ad-is-no-gouda-and-gets-a-secret-re-edit.html) 
+* [Malicious ML Models on Hugging Face Leverage Broken Pickle Format to Evade Detection](https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html?m=1) 
+* [Google remakes Super Bowl ad after AI cheese gaffe](https://www.bbc.com/news/articles/cx2j15r1g09o) 
+* [‘Dear, did you say pastry?’: meet the ‘AI granny’ driving scammers up the wall | Scams | The Guardian](https://www.theguardian.com/money/2025/feb/04/ai-granny-scammers-phone-fraud) 
+* [AI-Generated Slop Is Already In Your Public Library](https://www.404media.co/ai-generated-slop-is-already-in-your-public-library-3/) 
+* [Character.AI Says It’s Made Huge Changes to Protect Underage Users, But It’s Emailing Them to Recommend Conversations With AI Versions of School Shooters](https://futurism.com/character-ai-emailing-minors-school-shooters) 
+* [AI Company Asks Job Applicants Not to Use AI in Job Applications](https://www.404media.co/anthropic-claude-job-application-ai-assistants/) 
+* [Why employees smuggle AI into work](https://www.bbc.com/news/articles/cn7rx05xg2go) 
 * [Members of AI Fringe Group Arrested for Two Killings](https://futurism.com/the-byte/ai-group-zizians-arrests) 
 * [OpenAI's AI Agent Has to Be Monitored Nonstop to Catch Its Constant Screwups](https://futurism.com/the-byte/openai-ai-agent-monitored-nonstop) 
 * [Pro-Israel AI Bot Goes Off the Rails, Calls IDF Soldiers "Colonizers" and Demands Palestinian Statehood](https://futurism.com/the-byte/pro-israel-bot-goes-off-rails) 
