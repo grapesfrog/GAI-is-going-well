@@ -12,6 +12,12 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* [AI Agentic Evaluation Tools Help Devs Fight Hallucinations - The New Stack](https://thenewstack.io/ai-agentic-evaluation-tools-help-devs-fight-hallucinations/) 
+* [https://www.securityweek.com/deepseek-exposes-major-cybersecurity-blind-spot/](https://www.securityweek.com/deepseek-exposes-major-cybersecurity-blind-spot/) 
+* [Securing DeepSeek and other AI systems with Microsoft Security](https://www.microsoft.com/en-us/security/blog/2025/02/13/securing-deepseek-and-other-ai-systems-with-microsoft-security/) 
+* [Permit.io-Building AI Applications with Enterprise-Grade Security Using RAG and FGA](https://www.permit.blog/blog/building-ai-applications-with-enterprise-grade-security-using-fga-and-rag?utm_source=feedly&utm_medium=cpc&utm_campaign=january)
+* [Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning](https://arxiv.org/abs/2412.07454v2)
+* [DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning](https://arxiv.org/abs/2411.12220v2)
 * [Microsoft Edge now has an AI-powered scareware blocker | The Verge](https://www.theverge.com/news/608123/microsoft-edge-scareware-blocker-feature) 
 * [Google Cloud Model Armor. To Secure Your Generative AI… | by Sascha Heyer](https://medium.com/google-cloud/google-cloud-model-armor-6242dbae90b8) 
 * [Fast-track generative AI security with Microsoft Purview](https://www.microsoft.com/en-us/security/blog/2025/01/27/fast-track-generative-ai-security-with-microsoft-purview/) 

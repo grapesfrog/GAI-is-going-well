@@ -10,6 +10,7 @@
 
 ## Opinions , Research & presentations {#opinions-research-&-presentations}
 
+* [[2406.02630] AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways](https://arxiv.org/abs/2406.02630)
 * [Safeguarding System Prompts for LLMs](https://arxiv.org/abs/2412.13426v2)
 * [[2501.00192] MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/abs/2501.00192)
 * [The AI Software Supply Chain Is A Dumpster Fire: Here's What Companies Can Do About It](https://www.forbes.com/councils/forbestechcouncil/2024/12/19/the-ai-software-supply-chain-is-a-dumpster-fire-heres-what-companies-can-do-about-it/) 
