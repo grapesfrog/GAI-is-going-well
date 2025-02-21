@@ -12,6 +12,16 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/in-the-wild.md#in-the-wild-in-the-wild)
 
+* Feb was Superbowl and needless to say AI screw ups happened courtesy of one of Google's ads. OpenAI continues to be in the crosshairs of Musk! And what is it with lawyers misusing AI ?
+* [AI can fix bugs—but can’t find them: OpenAI’s study highlights limits of LLMs in software engineering | VentureBeat](https://venturebeat.com/ai/ai-can-fix-bugs-but-cant-find-them-openais-study-highlights-limits-of-llms-in-software-engineering/) 
+* [Image of Mark Carney on beach with Ghislaine Maxwell is fake – Full Fact](https://fullfact.org/online/ai-grok-mark-carney-beach-ghislaine-maxwell/) 
+* [Researchers Find Elon Musk's New Grok AI Is Extremely Vulnerable to Hacking](https://futurism.com/elon-musk-new-grok-ai-vulnerable-jailbreak-hacking) 
+* [AI says America going full dystopia, suggests starting Hunger Games training now](https://boingboing.net/2025/02/18/ai-says-america-going-full-dystopia-suggests-starting-hunger-games-training-now.html) 
+* [Amazon's Prime Video Appears to Have Left AI Slop in the Public Description of an Oscar-Winning Al Pacino Film](https://futurism.com/amazon-video-ai-slop-description-al-pacino-film) 
+* [Woman banned from assistive AI app after teaching it to say "arse" - Boing Boing](https://boingboing.net/2025/02/19/woman-banned-from-assistive-ai-app-after-teaching-it-to-say-arse.html) 
+* [All of Humane's AI pins will stop working in 10 days](https://www.engadget.com/ai/all-of-humanes-ai-pins-will-stop-working-in-10-days-225643798.html) 
+* [New York Times goes all-in on internal AI tools | Semafor](https://www.semafor.com/article/02/16/2025/new-york-times-goes-all-in-on-internal-ai-tools) 
+* [Startup Adds Job Listing Specifically for AI Agents, With Horrible Salary](https://futurism.com/startup-job-listing-ai-agents) 
 * [Elon Musk's AI Company Just Sacked an Engineer for Posting About Its Upcoming AI Model](https://futurism.com/elon-musk-xai-sacks-engineer) 
 * [AI Companies Reassess Their Subscriptions After DeepSeek Released Advanced Model for Free](https://www.eweek.com/news/deepseek-free-models-baidu-openai/) 
 * [ChatGPT can now write erotica as OpenAI eases up on AI paternalism - Ars Technica](https://arstechnica.com/ai/2025/02/chatgpt-can-now-write-erotica-as-openai-eases-up-on-ai-paternalism/) 

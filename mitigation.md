@@ -12,6 +12,11 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* Feb was nice to see some Federated learning mitigations but the volume of articles on mitigations is still woefully small 
+* [Owasp Top 10 :Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/) 
+* [GitHub - vectara/hallucination-leaderboard: Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents](https://github.com/vectara/hallucination-leaderboard) 
+* [Enhancing SQL Injection Detection and Prevention Using Generative Models](https://arxiv.org/abs/2502.04786v1) 
+* [Hallucination Detection in Foundation Models for Decision-Making: A Flexible Definition and Review of the State of the Art](https://arxiv.org/abs/2403.16527v2)  
 * [AI Agentic Evaluation Tools Help Devs Fight Hallucinations - The New Stack](https://thenewstack.io/ai-agentic-evaluation-tools-help-devs-fight-hallucinations/) 
 * [https://www.securityweek.com/deepseek-exposes-major-cybersecurity-blind-spot/](https://www.securityweek.com/deepseek-exposes-major-cybersecurity-blind-spot/) 
 * [Securing DeepSeek and other AI systems with Microsoft Security](https://www.microsoft.com/en-us/security/blog/2025/02/13/securing-deepseek-and-other-ai-systems-with-microsoft-security/) 

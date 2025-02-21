@@ -12,6 +12,15 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
 
+* Feb and Deepseek was still an area of concern with countries investigating it and banning the app. A US senator's approach to dealing with  Chinese AI advances was interesting to say the least . There were concerns with the statement from the Paris AI action summit The US & UK did not sign the agreement. More stating the obvious that bad guys could misuse AI by Eric Schmidt  this time( By the way they already are!).  A copyright win also snuck in among the continuing arguments regarding what can be slurped up without recompense to the original creators. A loophole in the EU AI Act was also causing concern regarding copyright. The relaxation of approaches to AI safety was also in the news .
+* [AI and Copyright: Expanding Copyright Hurts Everyone—Here’s What to Do Instead | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2025/02/ai-and-copyright-expanding-copyright-hurts-everyone-heres-what-do-instead) 
+* [Meta claims torrenting pirated books isn’t illegal without proof of seeding](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/) 
+* [GitLab thrice sued for 'misleading' investors with AI hype](https://www.theregister.com/2025/02/20/gitlab_thrice_sued/) 
+* [EU accused of leaving ‘devastating’ copyright loophole in AI Act | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2025/feb/19/eu-accused-of-leaving-devastating-copyright-loophole-in-ai-act) 
+* [EU Faces Backlash Over AI Act Copyright Loophole](https://www.eweek.com/news/eu-backlash-over-ai-act/) 
+* [DeepSeek 'shared user data' with TikTok owner ByteDance - BBC News](https://www.bbc.co.uk/news/articles/c4gex0x87g4o) 
+* [Privacy-problematic DeepSeek pulled from app stores in South Korea](https://arstechnica.com/ai/2025/02/south-korea-pauses-deepseek-app-downloads-over-privacy-concerns/) 
+* [U.K. drops AI safety focus as it signs up Anthropic to help transform public services | Fortune](https://fortune.com/2025/02/13/uk-ai-security-institute-safety-anthropic-trump-vance/) 
 * [UK AI Safety Institute rebranded AI Security Institute • The Register](https://www.theregister.com/2025/02/15/uk_ai_safety_institute_rebranded/) 
 * [UK drops 'safety' from its AI body, now called AI Security Institute, inks MOU with Anthropic | TechCrunch](https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/) 
 * [UK Renames AI Body, Signaling Shift Toward Innovation Over Safety](https://www.eweek.com/news/uk-ai-security-institute-rename/) 
