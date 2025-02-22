@@ -13,6 +13,12 @@
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/in-the-wild.md#in-the-wild-in-the-wild)
 
 * Feb was Superbowl and needless to say AI screw ups happened courtesy of one of Google's ads. OpenAI continues to be in the crosshairs of Musk! And what is it with lawyers misusing AI ?
+* [How AI-generated "sadcore" posts exploit Facebook users for profit](https://boingboing.net/2025/02/21/how-ai-generated-sadcore-posts-exploit-facebook-users-for-profit.html) 
+* [Large Law Firm Sends Panicked Email as It Realizes Its Attorneys Have Been Using AI to Prepare Court Documents](https://futurism.com/law-firm-email-attorneys-ai) 
+* [Google Gemini's Long-term Memory Vulnerable to a Kind of Phishing Attack - InfoQ](https://www.infoq.com/news/2025/02/gemini-long-term-memory-attack/) 
+* [Elon Musk’s Grok AI said he and Donald Trump deserve death penalty | The Verge](https://www.theverge.com/news/617799/elon-musk-grok-ai-donald-trump-death-penalty) 
+* [OpenAI Bans Accounts Misusing ChatGPT for Surveillance and Influence Campaigns](https://thehackernews.com/2025/02/openai-bans-accounts-misusing-chatgpt.html?m=1) 
+* [Experts Flag Security, Privacy Risks in DeepSeek AI App](https://krebsonsecurity.com/2025/02/experts-flag-security-privacy-risks-in-deepseek-ai-app/) 
 * [AI can fix bugs—but can’t find them: OpenAI’s study highlights limits of LLMs in software engineering | VentureBeat](https://venturebeat.com/ai/ai-can-fix-bugs-but-cant-find-them-openais-study-highlights-limits-of-llms-in-software-engineering/) 
 * [Image of Mark Carney on beach with Ghislaine Maxwell is fake – Full Fact](https://fullfact.org/online/ai-grok-mark-carney-beach-ghislaine-maxwell/) 
 * [Researchers Find Elon Musk's New Grok AI Is Extremely Vulnerable to Hacking](https://futurism.com/elon-musk-new-grok-ai-vulnerable-jailbreak-hacking) 

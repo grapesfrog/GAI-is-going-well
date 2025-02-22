@@ -13,6 +13,8 @@
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/opinion.md#opinions--research--presentations-opinions-research--presentations)
 
 * Feb had concerns about energy & water usage that the DCs would need . Muttering about the ROI from AI after fourth quarter earnings reports. Another theme was about AI making humans lazy when it came to critical thinking . Great paper on why AI  benchmarks should be taken with a huge spoonful of salt! The Register article summarises the paper in their usual snarky way.
+* [AI-Powered Deception is a Menace to Our Societies](https://thehackernews.com/2025/02/ai-powered-deception-is-menace-to-our.html?m=1)
+* [The Death of Critical Thinking Will Kill Us Long Before AI.](https://www.joanwestenberg.com/the-death-of-critical-thinking-will-kill-us-long-before-ai/) 
 * [[2502.12769] How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild](https://arxiv.org/abs/2502.12769)
 * [[2502.11995] Presumed Cultural Identity: How Names Shape LLM Responses](https://arxiv.org/abs/2502.11995)  
 * [[2502.13946] Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](https://arxiv.org/abs/2502.13946) 
@@ -43,7 +45,7 @@
 * [After Copilot trial, government staff rated Microsoft's AI less useful than expected](https://www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/) 
 * [4 Takeaways from the Paris AI Summit: Global Tensions, China Alliances, and Billion-Dollar Investments](https://www.eweek.com/news/paris-ai-summit-roundup/) 
 * [Is AI Helping or Hurting Critical Thought?](https://www.eweek.com/news/ai-critical-thinking-impact/) 
-* [https://www.engadget.com/ai/eu-will-put-over-200-billion-toward-ai-development-150036706.html](https://www.engadget.com/ai/eu-will-put-over-200-billion-toward-ai-development-150036706.html) 
+* [EU will put over $200 billion toward AI development](https://www.engadget.com/ai/eu-will-put-over-200-billion-toward-ai-development-150036706.html) 
 * [Security Is Blocking AI Adoption: Is BYOC the Answer? - The New Stack](https://thenewstack.io/security-is-blocking-ai-adoption-is-byoc-the-answer/) 
 * [Streaming DiLoCo with overlapping communication: Towards a Distributed Free Lunch](https://arxiv.org/abs/2501.18512v1) 
 * [AI impact hits mid-to-high wage occupations like IT the most • The Register](https://www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/?utm_source=dlvr.it&utm_medium=bluesky) 
