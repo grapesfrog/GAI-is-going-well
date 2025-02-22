@@ -13,6 +13,7 @@
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/in-the-wild.md#in-the-wild-in-the-wild)
 
 * Feb was Superbowl and needless to say AI screw ups happened courtesy of one of Google's ads. OpenAI continues to be in the crosshairs of Musk! And what is it with lawyers misusing AI ?
+* ['Indiana Jones' jailbreak approach highlights the vulnerabilities of existing LLMs](https://techxplore.com/news/2025-02-indiana-jones-jailbreak-approach-highlights.html) 
 * [How AI-generated "sadcore" posts exploit Facebook users for profit](https://boingboing.net/2025/02/21/how-ai-generated-sadcore-posts-exploit-facebook-users-for-profit.html) 
 * [Large Law Firm Sends Panicked Email as It Realizes Its Attorneys Have Been Using AI to Prepare Court Documents](https://futurism.com/law-firm-email-attorneys-ai) 
 * [Google Gemini's Long-term Memory Vulnerable to a Kind of Phishing Attack - InfoQ](https://www.infoq.com/news/2025/02/gemini-long-term-memory-attack/) 
