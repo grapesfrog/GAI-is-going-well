@@ -13,6 +13,11 @@
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/opinion.md#opinions--research--presentations-opinions-research--presentations)
 
 * Feb had concerns about energy & water usage that the DCs would need . Muttering about the ROI from AI after fourth quarter earnings reports. Another theme was about AI making humans lazy when it came to critical thinking . Great paper on why AI  benchmarks should be taken with a huge spoonful of salt! The Register article summarises the paper in their usual snarky way.
+* [Claude's extended thinking \ Anthropic](https://www.anthropic.com/research/visible-extended-thinking) ( now this is a benchmark I find worth using !) 
+* [[2502.06329] Expect the Unexpected: FailSafe Long Context QA for Finance](https://arxiv.org/abs/2502.06329) 
+* [Hypocrite Elon Musk Is Criticizing OpenAI for Not Open Sourcing ChatGPT While Refusing to Do the Same With Grok](https://futurism.com/hypocrite-elon-musk-criticizing-openai-open-sourcing-chatgpt-grok) 
+* [Microsoft Backing Out of Expensive New Data Centers After Its CEO Expressed Doubt About AI Value](https://futurism.com/microsoft-ceo-hesitation-ai-expensive-data-centers) 
+* [The Smarter AI Gets, the More It Start Cheating When It's Losing](https://futurism.com/the-byte/ai-cheating-chess) 
 * [AI-Powered Deception is a Menace to Our Societies](https://thehackernews.com/2025/02/ai-powered-deception-is-menace-to-our.html?m=1)
 * [The Death of Critical Thinking Will Kill Us Long Before AI.](https://www.joanwestenberg.com/the-death-of-critical-thinking-will-kill-us-long-before-ai/) 
 * [[2502.12769] How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild](https://arxiv.org/abs/2502.12769)

@@ -13,6 +13,14 @@
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/in-the-wild.md#in-the-wild-in-the-wild)
 
 * Feb was Superbowl and needless to say AI screw ups happened courtesy of one of Google's ads. OpenAI continues to be in the crosshairs of Musk! And what is it with lawyers misusing AI ?
+* [Singapore's biggest bank DBS to cut 4,000 roles as it embraces AI - BBC News](https://www.bbc.co.uk/news/articles/c4g7xn9y64po) 
+* [Grok 3 is highly vulnerable to indirect prompt injection](https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/#atom-everything) 
+* [AI Video of Trump Sucking Musk's Toes Blasted on Government Office TVs](https://www.404media.co/ai-video-of-trump-sucking-musks-toes-blasted-on-government-office-tvs/) 
+* [Elon Musk's Grok 3 Was Told to Ignore Sources Saying He Spread Misinformation](https://futurism.com/grok-elon-instructions) 
+* [Did xAI lie about Grok 3's benchmarks? | TechCrunch](https://techcrunch.com/2025/02/22/did-xai-lie-about-grok-3s-benchmarks) 
+* [JobForAgent - The First Job Board for AI Agents](https://jobforagent.com/) 
+* [How accurate are the viral TikTok AI POV lab history videos? - BBC News](https://www.bbc.co.uk/news/articles/cy87076pdw3o) 
+* [AI Designed an Alien Chip That Works, But Experts Can't Explain Why](https://futurism.com/the-byte/ai-designed-chip)
 * ['Indiana Jones' jailbreak approach highlights the vulnerabilities of existing LLMs](https://techxplore.com/news/2025-02-indiana-jones-jailbreak-approach-highlights.html) 
 * [How AI-generated "sadcore" posts exploit Facebook users for profit](https://boingboing.net/2025/02/21/how-ai-generated-sadcore-posts-exploit-facebook-users-for-profit.html) 
 * [Large Law Firm Sends Panicked Email as It Realizes Its Attorneys Have Been Using AI to Prepare Court Documents](https://futurism.com/law-firm-email-attorneys-ai) 
