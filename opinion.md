@@ -13,6 +13,18 @@
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/opinion.md#opinions--research--presentations-opinions-research--presentations)
 
 * Feb had concerns about energy & water usage that the DCs would need . Muttering about the ROI from AI after fourth quarter earnings reports. Another theme was about AI making humans lazy when it came to critical thinking . Great paper on why AI  benchmarks should be taken with a huge spoonful of salt! The Register article summarises the paper in their usual snarky way.
+* [OAuth Works for AI Agents, but Scaling Is Another Question - The New Stack](https://thenewstack.io/oauth-works-for-ai-agents-but-scaling-is-another-question/) 
+    * [AI agent identity: it's just OAuth](https://mayakaczorowski.com/blogs/ai-agent-authentication) 
+* [No new engineer hires this year as AI coding tools boost productivity, says Salesforce](https://www.theregister.com/2025/02/27/salesforce_misses_revenue_guidance/) 
+* [U.S. Workers Are More Worried Than Hopeful About Future AI Use in the Workplace | Pew Research Center](https://www.pewresearch.org/social-trends/2025/02/25/u-s-workers-are-more-worried-than-hopeful-about-future-ai-use-in-the-workplace/) 
+* [Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks](https://arxiv.org/abs/2502.13175v2) 
+* [How Far are LLMs from Real Search? A Comprehensive Study on Efficiency, Completeness, and Inherent Capabilities](https://arxiv.org/abs/2502.18387v1) 
+* [UK universities warned to ‘stress-test’ assessments as 92% of students use AI](https://www.theguardian.com/education/2025/feb/26/uk-universities-warned-to-stress-test-assessments-as-92-of-students-use-ai) 
+* [[2502.17424] Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424) 
+* [Investigating LLM Jailbreaking of Popular Generative AI Web Products](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/) 
+* [How to exploit top LRMs that reveal their reasoning steps • The Register](https://www.theregister.com/2025/02/25/chain_of_thought_jailbreaking/)
+    * [https://github.com/dukeceicenter/jailbreak-reasoning-openai-o1o3-deepseek-r1](https://github.com/dukeceicenter/jailbreak-reasoning-openai-o1o3-deepseek-r1)  
+* [[2502.14975] Beyond No: Quantifying AI Over-Refusal and Emotional Attachment Boundaries](https://arxiv.org/abs/2502.14975) 
 * [Claude's extended thinking \ Anthropic](https://www.anthropic.com/research/visible-extended-thinking) ( now this is a benchmark I find worth using !) 
 * [[2502.06329] Expect the Unexpected: FailSafe Long Context QA for Finance](https://arxiv.org/abs/2502.06329) 
 * [Hypocrite Elon Musk Is Criticizing OpenAI for Not Open Sourcing ChatGPT While Refusing to Do the Same With Grok](https://futurism.com/hypocrite-elon-musk-criticizing-openai-open-sourcing-chatgpt-grok) 

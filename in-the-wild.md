@@ -12,7 +12,15 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/in-the-wild.md#in-the-wild-in-the-wild)
 
-* Feb was Superbowl and needless to say AI screw ups happened courtesy of one of Google's ads. OpenAI continues to be in the crosshairs of Musk! And what is it with lawyers misusing AI ?
+* Feb was Superbowl and needless to say AI screw ups happened courtesy of one of Google's ads. AI generated videos reached a new high in wtf! OpenAI continues to be in the crosshairs of Musk! And what is it with lawyers misusing AI ?
+* [Teach GPT-4o to do one job badly and it can start being evil • The Register](https://www.theregister.com/2025/02/27/llm_emergent_misalignment_study/) 
+* [Pinterest Is Being Strangled by AI Slop](https://futurism.com/pinterest-ai-slop) 
+* [Copilot exposes private GitHub pages, some removed by Microsoft - Ars Technica](https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/) 
+* [BBC Verify: Viral Donald Trump Jr audio highly likely AI fake](https://www.bbc.co.uk/news/videos/c36wwzpj1w7o) 
+* [Alibaba Releases Advanced Open Video Model, Immediately Becomes AI Porn Machine](https://www.404media.co/alibaba-releases-advanced-open-video-model-immediately-becomes-ai-porn-machine/) 
+* [Trump faces Truth Social backlash over AI video of Gaza with topless Netanyahu and bearded bellydancers](https://www.theguardian.com/us-news/2025/feb/26/backlash-trump-shares-ai-created-video-reimagined-gaza) 
+* [Apple AI tool transcribed the word 'racist' as 'Trump' - BBC News](https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo) 
+* [Elon Musk's AI Company Tried to Recruit an OpenAI Engineer and His Reply Was Brutal](https://futurism.com/openai-engineer-elon-musk-recruiting-rejection) 
 * [Singapore's biggest bank DBS to cut 4,000 roles as it embraces AI - BBC News](https://www.bbc.co.uk/news/articles/c4g7xn9y64po) 
 * [Grok 3 is highly vulnerable to indirect prompt injection](https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/#atom-everything) 
 * [AI Video of Trump Sucking Musk's Toes Blasted on Government Office TVs](https://www.404media.co/ai-video-of-trump-sucking-musks-toes-blasted-on-government-office-tvs/) 
