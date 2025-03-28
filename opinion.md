@@ -24,7 +24,7 @@
 * [Feeling Addicted to ChatGPT? You’re Not Alone, According to MIT & OpenAI](https://www.eweek.com/news/chatgpt-addiction-openai-mit-study/) 
 * [Government AI roll-outs threatened by outdated IT systems | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2025/mar/26/government-ai-roll-outs-threatened-by-outdated-it-systems) 
 * [MPs warn legacy IT could derail UK government's AI hopes • The Register](https://www.theregister.com/2025/03/26/legacy_systems_uk_ai/) 
-* [https://newsletter.manager.dev/p/effect-of-ai-on-engineering-managers](https://newsletter.manager.dev/p/effect-of-ai-on-engineering-managers) 
+* [How vibe coding will affect Engineering Managers ](https://newsletter.manager.dev/p/effect-of-ai-on-engineering-managers) 
 * [Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation](https://arxiv.org/abs/2503.19622) 
 * [Early methods for studying affective use and emotional well-being on ChatGPT | OpenAI](https://openai.com/index/affective-use-study) 
 * [Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813) 
