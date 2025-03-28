@@ -12,6 +12,25 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* **March** A few interesting tools & mitigations but the numbers are still woefully low. Tool fuzz to automate agent testing looked interesting and Google updated ShieldGemma to v2  building upon Gemma 3 . Cloudflare's response to dealing with the bad behaviour of AI scraping bots is to use AI to create junk for them to waste their resources scraping! As it becomes  harder to distinguish deep fakes from original images FakeVLM could be a useful way to help detect deepfakes 
+* [LookAhead Tuning: Safer Language Models via Partial Answer Previews](https://arxiv.org/abs/2503.19041)
+    * [GitHub - zjunlp/LookAheadTuning: LookAhead Tuning: Safer Language Models via Partial Answer Previews](https://github.com/zjunlp/LookAheadTuning) 
+* [[2503.14905] Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905) 
+    * [FakeVLM: Advancing Synthetic Image Detection through Explainable Multimodal Models and Fine-Grained Artifact Analysis](https://github.com/opendatalab/FakeVLM) 
+* [Microsoft unveils Microsoft Security Copilot agents and new protections for AI](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/) 
+* [Anubis](https://anubis.techaro.lol/docs/) 
+    * [https://github.com/TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) 
+* [Cloudflare builds an AI to lead AI scraper bots into a horrible maze of junk content](https://www.theregister.com/2025/03/21/cloudflare_ai_labyrinth/) 
+    * [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/) 
+* [ToolFuzz -- Automated Agent Tool Testing](https://arxiv.org/abs/2503.04479v2) 
+* [New AI Security Tool Helps Organizations Set Trust Zones for Gen-AI Models - SecurityWeek](https://www.securityweek.com/new-ai-security-tool-helps-organizations-set-trust-zones-for-gen-ai-models/) 
+* [[2503.10242] MinorBench: A hand-built benchmark for content-based risks for children](https://arxiv.org/abs/2503.10242) 
+* [Safer and Multimodal: Responsible AI with Gemma - Google Developers Blog](https://developers.googleblog.com/en/safer-and-multimodal-responsible-ai-with-gemma/) 
+* [Introducing AI Protection: Security for the AI era | Google Cloud Blog](https://cloud.google.com/blog/products/identity-security/introducing-ai-protection-security-for-the-ai-era) 
+* [Lloyds Banking Group secures first ever cybersecurity patent | TechMarketView](https://www.techmarketview.com/ukhotviews/archive/2025/03/04/lloyds-banking-group-secures-first-ever-cybersecurity-patent) 
+* [GitHub - emcie-co/parlant: Build reliable LLM-based customer service agents using behavioral guidelines and runtime supervision](https://github.com/emcie-co/parlant) 
+*  [Hugging Face and JFrog partner to make AI Security more transparent](https://huggingface.co/blog/jfrog) 
+* [Securing generative AI models on Azure AI Foundry](https://www.microsoft.com/en-us/security/blog/2025/03/04/securing-generative-ai-models-on-azure-ai-foundry/) 
 * Feb was nice to see some Federated learning mitigations but the volume of articles on mitigations is still woefully small 
 * [Owasp Top 10 :Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/) 
 * [GitHub - vectara/hallucination-leaderboard: Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents](https://github.com/vectara/hallucination-leaderboard) 
