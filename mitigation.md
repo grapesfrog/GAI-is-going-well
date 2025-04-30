@@ -12,6 +12,17 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* **April** Some useful strategies to protect against bots worth reading to help you figure out how to mitigate against AI scraping bots. Nice to see practical ways of securing the AI supply chain such as signing models. CaMel is an innovative way to protect against prompt injection from Deep mind. Meta released a set of  unified safeguarding tools across modalities providing support for text and image understanding protections. This includes updates to existing tooling as well as new tooling LlamaFirewall . 
+* [https://ai.meta.com/blog/ai-defenders-program-llama-protection-tools/](https://ai.meta.com/blog/ai-defenders-program-llama-protection-tools/) 
+    * [https://github.com/huggingface/huggingface-llama-recipes/blob/main/llama_guard%2Fllama-guard-4.ipynb](https://github.com/huggingface/huggingface-llama-recipes/blob/main/llama_guard%2Fllama-guard-4.ipynb) 
+* [Guardrail Concepts — NVIDIA NeMo Microservices](https://docs.nvidia.com/nemo/microservices/latest/about/core-concepts/guardrails.html) 
+* [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex) 
+* [Researchers claim breakthrough in fight against AI’s frustrating security hole - Ars Technica](https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/) 
+    * [[2503.18813] Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813) 
+* [Google Online Security Blog: Taming the Wild West of ML: Practical Model Signing with Sigstore](https://security.googleblog.com/2025/04/taming-wild-west-of-ml-practical-model.html) 
+* [Google announces Sec-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html) 
+* [Bot Protection Strategies: Choosing the Right Approach for Your Stack](https://thenewstack.io/bot-protection-strategies-choosing-the-right-approach-for-your-stack/) 
+* [Protect data privacy in Amazon Bedrock with Vault](https://www.hashicorp.com/en/blog/protect-data-privacy-in-amazon-bedrock-with-vault) 
 * **March** A few interesting tools & mitigations but the numbers are still woefully low. Tool fuzz to automate agent testing looked interesting and Google updated ShieldGemma to v2  building upon Gemma 3 . Cloudflare's response to dealing with the bad behaviour of AI scraping bots is to use AI to create junk for them to waste their resources scraping! As it becomes  harder to distinguish deep fakes from original images FakeVLM could be a useful way to help detect deepfakes 
 * [LookAhead Tuning: Safer Language Models via Partial Answer Previews](https://arxiv.org/abs/2503.19041)
     * [GitHub - zjunlp/LookAheadTuning: LookAhead Tuning: Safer Language Models via Partial Answer Previews](https://github.com/zjunlp/LookAheadTuning) 
@@ -31,7 +42,7 @@
 * [GitHub - emcie-co/parlant: Build reliable LLM-based customer service agents using behavioral guidelines and runtime supervision](https://github.com/emcie-co/parlant) 
 *  [Hugging Face and JFrog partner to make AI Security more transparent](https://huggingface.co/blog/jfrog) 
 * [Securing generative AI models on Azure AI Foundry](https://www.microsoft.com/en-us/security/blog/2025/03/04/securing-generative-ai-models-on-azure-ai-foundry/) 
-* Feb was nice to see some Federated learning mitigations but the volume of articles on mitigations is still woefully small 
+* **Feb** was nice to see some Federated learning mitigations but the volume of articles on mitigations is still woefully small 
 * [Owasp Top 10 :Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/) 
 * [GitHub - vectara/hallucination-leaderboard: Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents](https://github.com/vectara/hallucination-leaderboard) 
 * [Enhancing SQL Injection Detection and Prevention Using Generative Models](https://arxiv.org/abs/2502.04786v1) 
@@ -50,6 +61,7 @@
 * [Google - Responsible AI: Our 2024 report and ongoing work](https://blog.google/technology/ai/responsible-ai-2024-report-ongoing-work/) 
 * [Authors Guild Launches "Human Authored" Certification to Preserve Authenticity in Literature](https://authorsguild.org/news/ag-launches-human-authored-certification-to-preserve-authenticity-in-literature/) 
 * [Anthropic Introduces Constitutional Classifiers: A Measured AI Approach to Defending Against Universal Jailbreaks - MarkTechPost](https://www.marktechpost.com/2025/02/03/anthropic-introduces-constitutional-classifiers-a-measured-ai-approach-to-defending-against-universal-jailbreaks/) 
+* **Jan**
 * [[2501.18492] GuardReasoner: Towards Reasoning-based LLM Safeguards](https://arxiv.org/abs/2501.18492) 
 * [Tools for Addressing Fairness and Bias in Multimodal AI - The New Stack](https://thenewstack.io/tools-for-addressing-fairness-and-bias-in-multimodal-ai/) 
 * [How one YouTuber is trying to poison the AI bots stealing her content - Ars Technica](https://arstechnica.com/ai/2025/01/how-one-youtuber-is-trying-to-poison-the-ai-bots-stealing-her-content/) 
