@@ -1,6 +1,6 @@
 This is an extended table that was first published here: [https://grumpygrace.dev/posts/beyond-the-benchmarks/](https://grumpygrace.dev/posts/beyond-the-benchmarks/)
 
-Note that I'm comparing open models rather than foundation models for this bake off.
+Note that I'm comparing open models rather than proprietary foundation models for this bake off.
 
 I use this  Prompt "**What colour are apples?**" on my mac using Ollama to provide a quick indication of how a model will perform initially on a simple question
 
