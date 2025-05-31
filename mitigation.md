@@ -12,6 +12,23 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* **May** Google has been productive in providing mitigations via chrome And for Gemini .  ArtificialCast is a GitHub repo that exists purely to point out the dangers in over reliance on AI generated code . Owasp have released a DNS-inspired framework for secure  AI agent discovery. Google released SynthID Detector, a verification portal to quickly and efficiently identify AI-generated content made with Google AI. UQLM a python library that provides a suite of response-level scorers for quantifying the uncertainty ( hallucination) of LLM outputs
+* [How to deploy AI safely | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2025/05/29/how-to-deploy-ai-safely/) 
+* [[2505.17332] SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use](https://arxiv.org/abs/2505.17332) 
+* [AI Agents and the Non‑Human Identity Crisis: How to Deploy AI More Securely at Scale](https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html) 
+* [UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection](https://github.com/cvs-health/uqlm) 
+* [Advancing Gemini's security safeguards - Google DeepMind](https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/) 
+* [Activating AI Safety Level 3 Protections \ Anthropic](https://www.anthropic.com/news/activating-asl3-protections) 
+* [SynthID Detector — a new portal to help identify AI-generated content](https://blog.google/technology/ai/google-synthid-ai-content-detector/) 
+* [[2504.01081] ShieldGemma 2: Robust and Tractable Image Content Moderation](https://arxiv.org/abs/2504.01081) 
+* [[2505.11049] GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049) 
+* [Announcing LMEval: An Open Source Framework for Cross-Model Evaluation](https://gisk.ar/4miVYBg) 
+* [Agent Name Service (ANS) for Secure Al Agent Discovery v1.0](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/) 
+* [GitHub - Zorokee/ArtificialCast: Type-safe transformation powered by inference.](https://github.com/Zorokee/ArtificialCast#why-this-exists) - The lesson this gives is worthy of it being in this list .
+* [Google Online Security log: Using AI to stop tech support scams in Chrome](https://security.googleblog.com/2025/05/using-ai-to-stop-tech-support-scams-in.html) 
+* [Google rolls out AI tools to protect Chrome users against scams | TechCrunch](https://techcrunch.com/2025/05/08/google-rolls-out-ai-tools-to-protect-chrome-users-against-scams/) 
+* [DeepWiki](https://deepwiki.com/) *Not so much a* mitigation but can be used to help explore public repos to identify any potential issues
+
 * **April** Some useful strategies to protect against bots worth reading to help you figure out how to mitigate against AI scraping bots. Nice to see practical ways of securing the AI supply chain such as signing models. CaMel is an innovative way to protect against prompt injection from Deep mind. Meta released a set of  unified safeguarding tools across modalities providing support for text and image understanding protections. This includes updates to existing tooling as well as new tooling LlamaFirewall . 
 * [https://ai.meta.com/blog/ai-defenders-program-llama-protection-tools/](https://ai.meta.com/blog/ai-defenders-program-llama-protection-tools/) 
     * [https://github.com/huggingface/huggingface-llama-recipes/blob/main/llama_guard%2Fllama-guard-4.ipynb](https://github.com/huggingface/huggingface-llama-recipes/blob/main/llama_guard%2Fllama-guard-4.ipynb) 
