@@ -12,6 +12,21 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* **June** we had a couple of great articles on prompt injection mitigation both from Google. Llavaguard a  framework for evaluating the safety compliance of visual content looks useful . A nice public information video on AI video scams using AI generated avatars to get the point across. Anthropic have an eval suite  SHADE-Arena which is a set of  complex evaluations on how capable agentic AI models are at sabotage. It's worth getting a cuppa and reading the full 51 page paper . Secure code warriors has open sourced a number of rules to that incorporate security best practices when using the most popular  AI coding tools at the time of writing. Automation when used properly can help with mitigating issues by enforcing best practice and it's inevitable that CI/CD as we know it will adapt for an AI world so the list from GitHub of continuous AI actions & frameworks is good to see. OWASP released an AI testing guide.
+* [OWASP AI Testing Guide](https://owasp.org/www-project-ai-testing-guide/) 
+* [An awesome list of Continuous AI Actions and Frameworks](https://github.com/githubnext/awesome-continuous-ai) 
+* [https://www.eweek.com/news/ai-job-satisfaction-wellbeing-study/](https://www.eweek.com/news/ai-job-satisfaction-wellbeing-study/) 
+* [GitHub - SecureCodeWarrior/ai-security-rules: This repository contains security rule files designed to be used with AI-assisted developer tools.](https://github.com/SecureCodeWarrior/ai-security-rules) 
+* [Secure Vibe Coding: The Complete New Guide](https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html?m=1) 
+* [SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents \ Anthropic](https://www.anthropic.com/research/shade-arena-sabotage-monitoring)
+    * [SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents](https://assets.anthropic.com/m/4fb35becb0cd87e1/original/SHADE-Arena-Paper.pdf) 
+*  
+* [LlavaGuard: An Open VLM-based Framework for Safeguarding Vision Datasets and Models](https://arxiv.org/abs/2406.05113v3) 
+    * [https://ml-research.github.io/human-centered-genai/projects/llavaguard/](https://ml-research.github.io/human-centered-genai/projects/llavaguard/) 
+* [Google Online Security Blog: Mitigating prompt injection attacks with a layered defense strategy](https://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html?m=1) 
+* [Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/)
+    * [[2506.08837] Design Patterns for Securing LLM Agents against Prompt Injections](https://arxiv.org/abs/2506.08837)
+
 * **May** Google has been productive in providing mitigations via chrome And for Gemini .  ArtificialCast is a GitHub repo that exists purely to point out the dangers in over reliance on AI generated code . Owasp have released a DNS-inspired framework for secure  AI agent discovery. Google released SynthID Detector, a verification portal to quickly and efficiently identify AI-generated content made with Google AI. UQLM a python library that provides a suite of response-level scorers for quantifying the uncertainty ( hallucination) of LLM outputs
 * [How to deploy AI safely | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2025/05/29/how-to-deploy-ai-safely/) 
 * [[2505.17332] SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use](https://arxiv.org/abs/2505.17332) 
