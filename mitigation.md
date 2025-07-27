@@ -12,6 +12,21 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+
+* **July** Cloudflare has started a beta for a  pay by crawl service  which implements by default  blocking known AI web crawlers to prevent them from “accessing content without permission or compensation. AI scrapers could pay the content providers though by using a pay by crawl fee if the content provider is okay with that. Anubis is a web AI firewall utility that stops AI bots from overwhelming your website. Google says it's Big Sleep agent discovered a  critical sqlite vulnerability CVE-2025-6965. IBM has launched an AI too to help tackle shadow IT.  Deepmind introduced Backstory which when given an image and a prompt investigates whether an image was AI-generated, when and where it’s previously been used online, and whether it’s been digitally altered. Google adds Model armor to Apigee which  provides  protection against prompt injections, sensitive data leakage, and offensive content for AI workloads.
+* [Google Apigee Adds Built-in LLM Governance with Model Armor - InfoQ](https://www.infoq.com/news/2025/07/google-apigee-llm-model-armor/) 
+    * [Public Preview: Apigee Enhancements for Generative AI](https://discuss.google.dev/t/public-preview-apigee-enhancements-for-generative-ai/190138) 
+* [Exploring the context of online images with Backstory - Google DeepMind](https://deepmind.google/discover/blog/exploring-the-context-of-online-images-with-backstory/) 
+* [IBM Tackles Shadow AI: An Enterprise Blind Spot - The New Stack](https://thenewstack.io/ibm-tackles-shadow-ai-an-enterprise-blind-spot/) 
+* [Google says ‘Big Sleep’ AI tool found bug hackers planned to use](https://therecord.media/google-big-sleep-ai-tool-found-bug) 
+* [A summer of security: empowering cyber defenders with AI](https://blog.google/technology/safety-security/cybersecurity-updates-summer-2025/) 
+* [What Security Leaders Need to Know About AI Governance for SaaS](https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html) 
+* [I fight bots in my free time - Xe Iaso](https://xeiaso.net/talks/2025/bsdcan-anubis/)
+    * [GitHub - TecharoHQ/anubis: Weighs the soul of incoming HTTP requests to stop AI crawlers](https://github.com/TecharoHQ/anubis)  
+* [Millions of websites to get 'game-changing' AI bot blocker - BBC News](https://www.bbc.co.uk/news/articles/cvg885p923jo) 
+    * [Introducing pay per crawl: enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/) 
+* [Audit smarter: Introducing our Recommended AI Controls framework | Google Cloud Blog](https://cloud.google.com/blog/products/identity-security/audit-smarter-introducing-our-recommended-ai-controls-framework/)
+
 * **June** we had a couple of great articles on prompt injection mitigation both from Google. Llavaguard a  framework for evaluating the safety compliance of visual content looks useful . A nice public information video on AI video scams using AI generated avatars to get the point across. Anthropic have an eval suite  SHADE-Arena which is a set of  complex evaluations on how capable agentic AI models are at sabotage. It's worth getting a cuppa and reading the full 51 page paper . Secure code warriors has open sourced a number of rules to that incorporate security best practices when using the most popular  AI coding tools at the time of writing. Automation when used properly can help with mitigating issues by enforcing best practice and it's inevitable that CI/CD as we know it will adapt for an AI world so the list from GitHub of continuous AI actions & frameworks is good to see. OWASP released an AI testing guide.
 * [OWASP AI Testing Guide](https://owasp.org/www-project-ai-testing-guide/) 
 * [An awesome list of Continuous AI Actions and Frameworks](https://github.com/githubnext/awesome-continuous-ai) 
