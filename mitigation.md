@@ -12,7 +12,25 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+## 
 
+* **August** Not exactly a mitigation but an open games arena originating from  Deepmind where models can be pitted against each other in the open playing games. An alternative approach is the  Arc-AGI-3 benchmark which  focuses on AI skill-acquisition efficiency in novel, unseen environments. If you've been reading these monthly updates you'll know I have a healthy disregard for using the standard look how much data I can consume then regurgitate type benchmarks alone to evaluate the suitability of a model for your use case\! Claude introduced automated security reviews as part of the dev workflow. A crucial update to help devs produce secure code\! Good advice on building trustworthy agent systems as with great power comes great responsibility\!  
+* [Beyond the Prompt: Building Trustworthy Agent Systems \- SecurityWeek](https://www.securityweek.com/beyond-the-prompt-building-trustworthy-agent-systems/)   
+* [SP 800-53 Control Overlays for Securing AI Systems Concept Paper](https://csrc.nist.gov/csrc/media/Projects/cosais/documents/NIST-Overlays-SecuringAI-concept-paper.pdf)  
+* [Claude Opus 4 and 4.1 can now end a rare subset of conversations \\ Anthropic](https://www.anthropic.com/research/end-subset-conversations)   
+* [Roblox Open-Sources AI System to Detect Conversations Potentially Harmful to Kids \- InfoQ](https://www.infoq.com/news/2025/08/roblox-sentinel-classifier)   
+* [The Inspect Sandboxing Toolkit: Scalable and secure AI agent evaluations | AISI Work](https://www.aisi.gov.uk/work/the-inspect-sandboxing-toolkit-scalable-and-secure-ai-agent-evaluations)   
+* [ARC-AGI-3](https://arcprize.org/arc-agi/3/)   
+* [Defending against MCP prompt injection attacks | articles – Weights & Biases](https://wandb.ai/google_articles/articles/reports/Defending-against-MCP-prompt-injection-attacks--VmlldzoxMzg2MDk2Mg)   
+* [Automate security reviews with Claude Code \\ Anthropic](https://www.anthropic.com/news/automate-security-reviews-with-claude-code)   
+* [Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools](https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html)   
+* [How to build secure and scalable remote MCP servers \- The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)   
+* [Rethinking how we measure AI intelligence](https://blog.google/technology/ai/kaggle-game-arena/)   
+  * [Game Arena | Kaggle](https://www.kaggle.com/game-arena)  
+* [How to Secure MCP Servers | Nordic APIs |](https://nordicapis.com/how-to-secure-mcp-servers/)   
+* [Anthropic Proposes Transparency Framework to Safeguard Frontier AI Development \- InfoQ](https://www.infoq.com/news/2025/07/anthropic-transparency-framework)   
+* [We built the security layer MCP always needed](https://blog.trailofbits.com/2025/07/28/we-built-the-security-layer-mcp-always-needed/)   
+* [Announcing the CoSAI Principles for Secure-by-Design Agentic Systems](https://www.coalitionforsecureai.org/announcing-the-cosai-principles-for-secure-by-design-agentic-systems/) 
 * **July** Cloudflare has started a beta for a  pay by crawl service  which implements by default  blocking known AI web crawlers to prevent them from “accessing content without permission or compensation. AI scrapers could pay the content providers though by using a pay by crawl fee if the content provider is okay with that. Anubis is a web AI firewall utility that stops AI bots from overwhelming your website. Google says it's Big Sleep agent discovered a  critical sqlite vulnerability CVE-2025-6965. IBM has launched an AI too to help tackle shadow IT.  Deepmind introduced Backstory which when given an image and a prompt investigates whether an image was AI-generated, when and where it’s previously been used online, and whether it’s been digitally altered. Google adds Model armor to Apigee which  provides  protection against prompt injections, sensitive data leakage, and offensive content for AI workloads.
 * [Google Apigee Adds Built-in LLM Governance with Model Armor - InfoQ](https://www.infoq.com/news/2025/07/google-apigee-llm-model-armor/) 
     * [Public Preview: Apigee Enhancements for Generative AI](https://discuss.google.dev/t/public-preview-apigee-enhancements-for-generative-ai/190138) 
