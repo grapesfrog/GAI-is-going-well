@@ -14,6 +14,15 @@
 
 ## 
 
+* **September**  Cloudflare radar is a dashboard that tracks AI bots that are crawling websites and explains what happens to the data it slurps up. Vault Gemma trained from scratch with differential privacy on a large-scale dataset of English-language text data from a variety of sources to help prevent memorisation & leakage of data used to train it.  
+* [Strengthening our Frontier Safety Framework \- Google DeepMind](https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/)   
+* [Using Agent in the Loop To Ride Herd on Wayward AI \- The New Stack](https://thenewstack.io/using-agent-in-the-middle-to-ride-herd-on-wayward-ai/)   
+* [google/vaultgemma-1b · Hugging Face](https://huggingface.co/google/vaultgemma-1b)   
+* [Cloudflare Introduces Automated Scoring for Shadow AI Risk Assessment \- InfoQ](https://www.infoq.com/news/2025/09/cloudflare-automated-scoring)   
+* [Academics Build AI-Powered Android Vulnerability Discovery and Validation Tool \- SecurityWeek](https://www.securityweek.com/academics-build-ai-powered-android-vulnerability-discovery-and-validation-tool/)   
+* [Chain of Trust for AI: Securing MCP Toolbox Architecture on Cloud Run](https://medium.com/google-cloud/chain-of-trust-for-ai-a-secure-toolbox-app-architecture-on-cloud-run-7f18ae847dab)   
+* [AI Insights | Cloudflare Radar](https://radar.cloudflare.com/ai-insights)   
+* [Probing LLM Social Intelligence via Werewolf](https://werewolf.foaster.ai) 
 * **August** Not exactly a mitigation but an open games arena originating from  Deepmind where models can be pitted against each other in the open playing games. An alternative approach is the  Arc-AGI-3 benchmark which  focuses on AI skill-acquisition efficiency in novel, unseen environments. If you've been reading these monthly updates you'll know I have a healthy disregard for using the standard look how much data I can consume then regurgitate type benchmarks alone to evaluate the suitability of a model for your use case\! Claude introduced automated security reviews as part of the dev workflow. A crucial update to help devs produce secure code\! Good advice on building trustworthy agent systems as with great power comes great responsibility\!  
 * [Beyond the Prompt: Building Trustworthy Agent Systems \- SecurityWeek](https://www.securityweek.com/beyond-the-prompt-building-trustworthy-agent-systems/)   
 * [SP 800-53 Control Overlays for Securing AI Systems Concept Paper](https://csrc.nist.gov/csrc/media/Projects/cosais/documents/NIST-Overlays-SecuringAI-concept-paper.pdf)  
