@@ -12,8 +12,21 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
-## 
-
+* **October** people keep passing through the token from the MCP client to the client sever despite the spec saying don't do that . It breaks OAuth boundaries creating confused deputy vulnerabilities. Sol.io has some patterns to avoid this. Google introduced an extension to Gemini CLI that finds vulnerabilities in code changes in your repos. Anthropic introduced stronger guardrails when vibe coding  to prevent erroneous mistakes like accidentally deleting files .  
+* [Sandboxing \- Claude Docs](https://docs.claude.com/en/docs/claude-code/sandboxing)   
+* [Before You Go Agentic: Top Guardrails to Safely Deploy AI Agents in Observability \- DevOps.com](https://devops.com/before-you-go-agentic-top-guardrails-to-safely-deploy-ai-agents-in-observability/)   
+* [Hugging Face and VirusTotal collaborate to strengthen AI security](https://huggingface.co/blog/virustotal)   
+* [Securing AI to Benefit from AI](https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html)   
+* [Securing your agents with authentication and authorization](https://blog.langchain.com/agent-authorization-explainer/)   
+* [Google's Security extension for the Gemini CLI that finds vulnerabilities in your code changes and pull requests.](https://github.com/gemini-cli-extensions/security)   
+* [Google's Security extension for the Gemini CLI that finds vulnerabilities in your code changes and pull requests.](https://github.com/gemini-cli-extensions/security)   
+* [Petri: An open-source auditing tool to accelerate AI safety research \\ Anthropic](https://www.anthropic.com/research/petri-open-source-auditing)   
+* [Introducing CodeMender: an AI agent for code security \- Google DeepMind](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)   
+* [How do we test and assure AI in Government?](https://cddo.blog.gov.uk/2025/09/22/how-do-we-test-and-assure-ai-in-government/)   
+  * [https://github.com/Testing-AI-Standards/cross-gov-ai-testing-framework/blob/main/framework.md](https://github.com/Testing-AI-Standards/cross-gov-ai-testing-framework/blob/main/framework.md)   
+* [Our Approach to Protecting AI Training Data](https://research.google/pubs/our-approach-to-protecting-ai-training-data/)   
+* [Google Drive gets new ransomware detection feature • The Register](https://www.theregister.com/2025/09/30/google_drive_ai_ransomware_detection/)   
+* [MCP Authorization Patterns for Upstream API Calls | Solo.io](https://www.solo.io/blog/mcp-authorization-patterns-for-upstream-api-calls) 
 * **September**  Cloudflare radar is a dashboard that tracks AI bots that are crawling websites and explains what happens to the data it slurps up. Vault Gemma trained from scratch with differential privacy on a large-scale dataset of English-language text data from a variety of sources to help prevent memorisation & leakage of data used to train it.  
 * [Strengthening our Frontier Safety Framework \- Google DeepMind](https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/)   
 * [Using Agent in the Loop To Ride Herd on Wayward AI \- The New Stack](https://thenewstack.io/using-agent-in-the-middle-to-ride-herd-on-wayward-ai/)   
