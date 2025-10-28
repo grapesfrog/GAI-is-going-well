@@ -12,6 +12,29 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
 
+* **October** Legislation has been signed into law in NY to prevent the use of AI  rental price fixing software . Anthropic's ethics and Claude's use by the US govt are butting heads preventing the govt from using Claude for surveillance . In positive news re the law & AI some litigants have managed good outcomes for them by using ChatGPT. However the poor outcomes of lawyers using AI continue at a pace. Reddit sues Perplexity for using its data without permission.   OpenAI asked the Raine family whose son are suing them because  they say he committed suicide because of ChatGPT  to provide a list of people who attended their son's  funeral, as well as material like eulogies and photos and videos captured at the service.   
+* [OpenAI's Copyright Situation Appears to Be Putting It in Huge Danger](https://futurism.com/artificial-intelligence/openai-copyright-cartoon-output)   
+* [OpenAI Makes Bizarre Demand of Family Whose Son Was Allegedly Killed by ChatGPT](https://futurism.com/artificial-intelligence/openai-demand-family-son-killed)   
+* [Lawsuit Alleges OpenAI Relaxed ChatGPT Guardrails Before Teen’s Death](https://www.eweek.com/artificial-intelligence/openai-chatgpt-guardrails-lawsuit/)   
+* [OpenAI reportedly asked for memorial guest list in teen suicide case](https://www.engadget.com/ai/openai-reportedly-asked-for-memorial-guest-list-in-teen-suicide-case-163309269.html)   
+* [Steve Wozniak, Prince Harry and 800 others want a ban on AI ‘superintelligence’](https://www.engadget.com/ai/steve-wozniak-prince-harry-and-800-others-want-a-ban-on-ai-superintelligence-123040020.html)   
+* [Reddit Sues Perplexity for Scraping Its Data](https://www.eweek.com/artificial-intelligence/reddit-sues-perplexity/)   
+* [Reddit sues Perplexity for allegedly ripping its content to feed AI | The Verge](https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit)   
+* [Author Philip Pullman calls on government to act over 'wicked' AI scraping](https://www.bbc.com/news/articles/cm2w3d2jjw0o)   
+* [Woman Wins Court Case by Using ChatGPT as a Lawyer](https://futurism.com/artificial-intelligence/woman-wins-court-case-chatgpt-lawyer)   
+* [Parents will be able to block Meta bots from talking to their children under new safeguards | Chatbots | The Guardian](https://www.theguardian.com/technology/2025/oct/18/parents-will-be-able-to-block-meta-bots-from-talking-to-their-children-under-new-safeguards)   
+* [Olivia Williams says actors need ‘nudity rider’-type controls for AI body scans | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2025/oct/17/olivia-williams-says-actors-nudity-rider-type-controls-ai-body-scans)   
+* [OpenAI Bans MLK Deepfakes After Disaster](https://futurism.com/artificial-intelligence/openai-bans-mlk-deepfakes)   
+* [White House and Anthropic Clash Over AI Regulation](https://www.eweek.com/news/white-house-anthropic-clash-over-ai-regulation/)   
+* [NY State Assembly Bill 2025-A1417](https://www.nysenate.gov/legislation/bills/2025/A1417/amendment/original)   
+* [https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill\_id=202520260SB243](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB243)   
+* [Japan asks OpenAI not to infringe on 'irreplaceable' manga and anime content](https://www.engadget.com/ai/japan-asks-openai-not-to-infringe-on-irreplaceable-manga-and-anime-content-120008580.html?src=rss)   
+* [Justice for All? Why We Have an Access to Justice Gap in America—and What Can We Do About It? \- Legal Aggregate](https://law.stanford.edu/2024/06/13/justice-for-all-why-we-have-an-access-to-justice-gap-in-america-and-what-can-we-do-about-it/)   
+* [Ohio Seeks to Ban Human-AI Marriage](https://futurism.com/artificial-intelligence/ohio-ban-ai-marriage)   
+* [Apple asks judge to dismiss Elon Musk’s AI competition lawsuit over OpenAI partnership | The Verge](https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response)   
+* [California issues historic fine over lawyer’s ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/)   
+* [U.S. rejects international AI oversight at U.N. General Assembly](https://www.nbcnews.com/tech/tech-news/us-rejects-international-ai-oversight-un-general-assembly-rcna233478)   
+* [Elon Musk’s xAI accuses OpenAI of stealing trade secrets in new lawsuit | Technology | The Guardian](https://www.theguardian.com/technology/2025/sep/25/elon-musk-xai-openai-sam-altman-lawsuit) 
 
 * **September** 48 states have enacted laws addressing deepfakes, imposing jail time and penalties. China  mandates  visible labels and implicit metadata identifiers for AI-generated text, images, audio, video, and other synthetic content. Ted Cruz introduced legislation to create a regulation “sandbox” that  would allow companies to apply for modifications to or waivers from any “obstructive regulations” to the testing and deployment of products or services that use or contain “in whole or in part” at least one AI system\! Anthropic's 2.5 bazillion settlement re using copyrighted works without permission was put on hold . A US publisher ( owner of Rolling Stone) is taking action against Google for its AI overviews  stating it is misusing its journalism to fuel AI Overviews . Deaths being attributed to the use of Charbots continued to be a concerning topic. More 🦇💩with chatbots this time a chatbot site depicting Child abuse images\!   
 * [California issues historic fine over lawyer’s ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/)   
