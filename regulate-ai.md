@@ -12,6 +12,23 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
 
+* **November** Studio Ghibli & other anime studios in Japan have asked OpenAI to stop using their copyrighted content to train the video generating AI tool. Seems that OpenAI's Atlas browser is avoiding parts of the web where openAI is involved with litigation and finding innovative ways to work around that . Google removed Gemma from AI studio after it allegedly defamed a Senator . In 7 lawsuits against OpenAI ChatGPT is being accused of being a suicide coach. Europe is having second thoughts about GDPR & the AI act and how it's affecting its competitiveness against US tech . They are voting to reduce some of the requirements to allow AI companies to use anonymised and pseudonymised  data  
+* [AI nudification site fined £55K for skipping age checks • The Register](https://www.theregister.com/2025/11/21/ofcom_osa_fine_undress/)   
+* [Four charged over alleged plot to smuggle Nvidia AI chips into China](https://www.theregister.com/2025/11/21/nvidia_china_smuggling_charges/)   
+* [European policymakers want to ease AI and privacy laws](https://www.engadget.com/big-tech/european-policymakers-want-to-ease-ai-and-privacy-laws-171118149.html)   
+* [OpenAI used song lyrics in violation of copyright laws, German court says | Reuters](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/)   
+* [German Court Ruling Could Change AI's Tune | eWEEK](https://www.eweek.com/news/german-court-ruling-ai/)   
+* [https://futurism.com/artificial-intelligence/judge-lawyer-divorce-chatgpt](https://futurism.com/artificial-intelligence/judge-lawyer-divorce-chatgpt)   
+* [ChatGPT accused of acting as ‘suicide coach’ in series of US lawsuits](https://www.theguardian.com/technology/2025/nov/07/chatgpt-lawsuit-suicide-coach)   
+* [ChatGPT's Dark Side Encouraged Wave of Suicides, Grieving Families Say](https://futurism.com/artificial-intelligence/chatgpt-suicides-lawsuits)   
+* [UK High Court sides with Stability AI over Getty in copyright case](https://www.engadget.com/ai/uk-high-court-sides-with-stability-ai-over-getty-in-copyright-case-180029461.html)   
+* [OpenAI's Browser Avoids Large Part of the Web Like the Plague](https://futurism.com/artificial-intelligence/openai-browser-avoids-web-lawsuit)   
+* [Studio Ghibli Demands That OpenAI Stop Ripping Off Its Work](https://futurism.com/artificial-intelligence/studio-ghibli-openai-stop-ripping-work)   
+* [Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation | TechCrunch](https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation)    
+* [George R.R. Martin Sues Microsoft and OpenAI for Infringement](https://www.eweek.com/news/game-of-thrones-author-sues-openai/)   
+* [New Law Would Prevent Minors From Using AI Chatbots](https://futurism.com/artificial-intelligence/law-minors-ai-chatbots)   
+* [Cameo sues OpenAI over Sora’s ‘cameos’ | The Verge](https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit)   
+  
 * **October** Legislation has been signed into law in NY to prevent the use of AI  rental price fixing software . Anthropic's ethics and Claude's use by the US govt are butting heads preventing the govt from using Claude for surveillance . In positive news re the law & AI some litigants have managed good outcomes for them by using ChatGPT. However the poor outcomes of lawyers using AI continue at a pace. Reddit sues Perplexity for using its data without permission.   OpenAI asked the Raine family whose son are suing them because  they say he committed suicide because of ChatGPT  to provide a list of people who attended their son's  funeral, as well as material like eulogies and photos and videos captured at the service.   
 * [OpenAI's Copyright Situation Appears to Be Putting It in Huge Danger](https://futurism.com/artificial-intelligence/openai-copyright-cartoon-output)   
 * [OpenAI Makes Bizarre Demand of Family Whose Son Was Allegedly Killed by ChatGPT](https://futurism.com/artificial-intelligence/openai-demand-family-son-killed)   
