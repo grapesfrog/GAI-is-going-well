@@ -12,6 +12,17 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* **November** GCP integrated NVIDIA NeMo Guardrails with GKE Inference Gateway. Google has announced Private AI Compute which is uncannily similar to Apple's private cloud compute.  
+* [Copyright holders are finally beginning to push back against OpenAI](https://boingboing.net/2025/11/06/copyright-holders-are-finally-beginning-to-push-back-against-openai.html)   
+* [Google’s Private AI Compute Mirrors Apple’s Approach to Secure Cloud AI | eWEEK](https://www.eweek.com/news/google-private-ai-compute/)   
+* [Extending on-device privacy with the power of the cloud](https://services.google.com/fh/files/misc/private_ai_compute_technical_brief.pdf)    
+* [Google's AI 'Big Sleep' Finds 5 New Vulnerabilities in Apple's Safari WebKit](https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html)   
+* [New Open Source Tool from Angular Scores Vibe Code Quality \- The New Stack](https://thenewstack.io/new-open-source-tool-from-angular-scores-vibe-code-quality/)   
+* [Now Shipping A4X Max, Vertex AI Training and more | Google Cloud Blog](https://cloud.google.com/blog/products/compute/now-shipping-a4x-max-vertex-ai-training-and-more)   
+* [Google’s Approach to Protecting Privacy in the Age of AI](https://research.google/pubs/googles-approach-to-protecting-privacy-in-the-age-of-ai/)   
+* [Agentic AI and Security](https://martinfowler.com/articles/agentic-ai-security.html)   
+* [Getting started with chaos engineering | Google Cloud Blog](https://cloud.google.com/blog/products/devops-sre/getting-started-with-chaos-engineering/)  ( I have always been a fan of chaos engineering so just adding it here )
+
 * **October** people keep passing through the token from the MCP client to the client sever despite the spec saying don't do that . It breaks OAuth boundaries creating confused deputy vulnerabilities. Sol.io has some patterns to avoid this. Google introduced an extension to Gemini CLI that finds vulnerabilities in code changes in your repos. Anthropic introduced stronger guardrails when vibe coding  to prevent erroneous mistakes like accidentally deleting files .  
 * [Sandboxing \- Claude Docs](https://docs.claude.com/en/docs/claude-code/sandboxing)   
 * [Before You Go Agentic: Top Guardrails to Safely Deploy AI Agents in Observability \- DevOps.com](https://devops.com/before-you-go-agentic-top-guardrails-to-safely-deploy-ai-agents-in-observability/)   
