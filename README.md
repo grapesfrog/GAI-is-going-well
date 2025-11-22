@@ -22,4 +22,4 @@ Note August 8th 2025:  With original content creators battling AI as you will kn
 
 The most recent articles are added to the top of each list.
 
-Last updated : 28 October 2025
+Last updated : 22 November 2025
