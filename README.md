@@ -1,6 +1,7 @@
 # GAI-is-going-well
 
 This is a  curated collection of articles and  research  papers related to  the unexpected  or unwanted outcomes , security &amp; privacy  risks associated with using LLMs/GAI.
+The collection stopped being updated in December 2025. 
 
 It’s been a never ending series of reports about the on going adverse outcomes related to the use of GAI whether deliberate attacks or just unfortunate side effects. Since I wrote the post [GAI Is Going Well](https://grumpygrace.dev/posts/gai-is-going-well/) I’ve continued to indulge in my hobby of collecting articles related to the adverse effects of working with LLMs/GAI. As time has gone on I've also started adding related articles to the opinions, research & opinions which help to provide a holistic view point.
 
@@ -19,7 +20,9 @@ Note: Articles behind paywalls and those that require you to sign up to read for
 
 Note August 8th 2025:  With original content creators battling AI as you will know if you read the monthly updates , it's becoming increasingly difficult to share content that isn't behind a paywall or requires you to subscribe . I read or at least scan everything I share but equally I don't want to sign up to a bazillion  more newsletters that fill up my mail box . So I will miss stories that I would normally have shared due to this continuing enshitification of the internet!
 
+Note: 14th December 2025: Adding to the issues noted in August was the increasing AI slopification the decision was made to not continue updating this curated collection. There are some great sources referenced though and I hope if you have been a regular reader you have identified some that resonate. Go support them
+
 
 The most recent articles are added to the top of each list.
 
-Last updated : 22 November 2025
+Last updated : 14 December 2025
