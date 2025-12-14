@@ -12,6 +12,19 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/regulate-ai.md#regulating-ai--advisories-regulating-ai-advisories)
 
+* **December**   Trump is trying to force governance of AI centrally rather than at state levels. India is considering getting  AI companies to  pay for accessing content they use to train models, but only once they start producing revenue. Maybe a case of closing the gate after the horse has bolted but a bunch of UK MPs are calling for regulation of the most powerful AI systems.  
+* [Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)   
+* [Trump orders creation of litigation task force to challenge state AI laws](https://www.engadget.com/ai/trump-orders-creation-of-litigation-task-force-to-challenge-state-ai-laws-022657022.html)   
+* [India’s government wants AI companies to pay for content • The Register](https://www.theregister.com/2025/12/11/india_ai_copyright_proposal/)   
+* [EU opens investigation into Google’s use of online content for AI models](https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini)   
+* [Scores of UK parliamentarians join call to regulate most powerful AI systems | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2025/dec/08/scores-of-uk-parliamentarians-join-call-to-regulate-most-powerful-ai-systems)   
+* [New York Times sues AI startup for ‘illegal’ copying of millions of articles | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit)   
+* [OpenAI Ordered to Hand Over 20M ChatGPT Logs](https://www.eweek.com/news/openai-chatgpt-logs-new-york-times-copyright-mdl/)   
+* [EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp | TechCrunch](https://techcrunch.com/2025/12/04/eu-investigating-meta-over-policy-change-that-bans-rival-ai-chatbots-from-whatsapp)   
+* [Journalists win a key battle over AI in the newsroom](https://www.bloodinthemachine.com/p/journalists-win-a-key-battle-over)   
+* [OpenAI desperate to avoid explaining why it deleted pirated book datasets \- Ars Technica](https://arstechnica.com/tech-policy/2025/12/openai-desperate-to-avoid-explaining-why-it-deleted-pirated-book-datasets/)   
+* [Our approach to mental health-related litigation | OpenAI](https://openai.com/index/mental-health-litigation-approach/)  
+  
 * **November** Studio Ghibli & other anime studios in Japan have asked OpenAI to stop using their copyrighted content to train the video generating AI tool. Seems that OpenAI's Atlas browser is avoiding parts of the web where openAI is involved with litigation and finding innovative ways to work around that . Google removed Gemma from AI studio after it allegedly defamed a Senator . In 7 lawsuits against OpenAI ChatGPT is being accused of being a suicide coach. Europe is having second thoughts about GDPR & the AI act and how it's affecting its competitiveness against US tech . They are voting to reduce some of the requirements to allow AI companies to use anonymised and pseudonymised  data  
 * [AI nudification site fined £55K for skipping age checks • The Register](https://www.theregister.com/2025/11/21/ofcom_osa_fine_undress/)   
 * [Four charged over alleged plot to smuggle Nvidia AI chips into China](https://www.theregister.com/2025/11/21/nvidia_china_smuggling_charges/)   
