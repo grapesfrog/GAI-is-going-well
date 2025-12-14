@@ -12,6 +12,10 @@
 
 [2024 articles](https://github.com/grapesfrog/GAI-is-going-well/blob/main/2024/mitigation.md#mitigations--tooling-mitigations--tooling)
 
+* **December** Lots of talk about securing AI this month. It's still a sad state of affairs that there's more talk than effective guardrails that aren't broken within days of being announced.  
+* [From awareness to action: Building a security-first culture for the agentic AI era | The Microsoft Cloud Blog](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/)   
+* [Strengthening cyber resilience as AI capabilities advance | OpenAI](https://openai.com/index/strengthening-cyber-resilience/)   
+* [Architecting Security for Agentic Capabilities in Chrome](https://security.googleblog.com/2025/12/architecting-security-for-agentic.html) 
 * **November** GCP integrated NVIDIA NeMo Guardrails with GKE Inference Gateway. Google has announced Private AI Compute which is uncannily similar to Apple's private cloud compute.  
 * [Copyright holders are finally beginning to push back against OpenAI](https://boingboing.net/2025/11/06/copyright-holders-are-finally-beginning-to-push-back-against-openai.html)   
 * [Google’s Private AI Compute Mirrors Apple’s Approach to Secure Cloud AI | eWEEK](https://www.eweek.com/news/google-private-ai-compute/)   
