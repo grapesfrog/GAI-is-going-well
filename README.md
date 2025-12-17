@@ -20,7 +20,7 @@ Note: Articles behind paywalls and those that require you to sign up to read for
 
 Note August 8th 2025:  With original content creators battling AI as you will know if you read the monthly updates , it's becoming increasingly difficult to share content that isn't behind a paywall or requires you to subscribe . I read or at least scan everything I share but equally I don't want to sign up to a bazillion  more newsletters that fill up my mail box . So I will miss stories that I would normally have shared due to this continuing enshitification of the internet!
 
-Note: 14th December 2025: Adding to the issues noted in August was the increasing AI slopification & the decision was made to not continue updating this curated collection. There are some great sources referenced though and I hope if you have been a regular reader you have identified some that resonate. Go support them
+Note: 14th December 2025: Adding to the issues noted in August was the increasing AI slopification. In addition the issues identified were very repetitive &  the failure of most mitigations being effective for more than a few days was depressing. So the decision was made to not continue updating this curated collection. There are some great sources referenced though and I hope if you have been a regular reader you have identified some that resonate. Go support them
 
 
 The most recent articles are added to the top of each list.
